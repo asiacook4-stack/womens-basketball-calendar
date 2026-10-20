@@ -1,0 +1,131 @@
+[
+  {
+    "name": "UConn",
+    "url": "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+    "zone": "America/New_York",
+    "required": true
+  },
+  {
+    "name": "South Carolina",
+    "url": "https://gamecocksonline.com/sports/wbball/schedule/",
+    "zone": "America/New_York",
+    "required": true,
+    "kind": "wordpress"
+  },
+  {
+    "name": "UCLA",
+    "url": "https://uclabruins.com/sports/womens-basketball/schedule",
+    "zone": "America/Los_Angeles",
+    "required": true,
+    "kind": "wmt",
+    "schedule": 653
+  },
+  {
+    "name": "USC",
+    "url": "https://usctrojans.com/sports/wbball/schedule",
+    "zone": "America/Los_Angeles",
+    "required": true
+  },
+  {
+    "name": "LSU",
+    "url": "https://lsusports.net/sports/wbball/schedule/",
+    "zone": "America/Chicago",
+    "required": true,
+    "kind": "wmt",
+    "schedule": 664
+  },
+  {
+    "name": "Texas",
+    "url": "https://texaslonghorns.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago",
+    "required": true
+  },
+  {
+    "name": "Notre Dame",
+    "url": "https://fightingirish.com/sports/wbball/schedule/",
+    "zone": "America/New_York",
+    "required": true,
+    "kind": "wmt",
+    "schedule": 735
+  },
+  {
+    "name": "Duke",
+    "url": "https://goduke.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York",
+    "required": true
+  },
+  {
+    "name": "Michigan",
+    "url": "https://mgoblue.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Maryland",
+    "url": "https://umterps.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Ohio State",
+    "url": "https://ohiostatebuckeyes.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Tennessee",
+    "url": "https://utsports.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "NC State",
+    "url": "https://gopack.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Louisville",
+    "url": "https://gocards.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Oklahoma",
+    "url": "https://soonersports.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago"
+  },
+  {
+    "name": "TCU",
+    "url": "https://gofrogs.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago"
+  },
+  {
+    "name": "Baylor",
+    "url": "https://baylorbears.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago"
+  },
+  {
+    "name": "Iowa State",
+    "url": "https://cyclones.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago"
+  },
+  {
+    "name": "North Carolina",
+    "url": "https://goheels.com/sports/womens-basketball/schedule",
+    "zone": "America/New_York"
+  },
+  {
+    "name": "Ole Miss",
+    "url": "https://olemisssports.com/sports/womens-basketball/schedule",
+    "zone": "America/Chicago"
+  },
+  {
+    "name": "Vanderbilt",
+    "url": "https://vucommodores.com/sports/wbball/schedule",
+    "zone": "America/Chicago",
+    "kind": "wmt",
+    "schedule": 466
+  },
+  {
+    "name": "Iowa",
+    "url": "https://hawkeyesports.com/sports/wbball/schedule",
+    "zone": "America/Chicago",
+    "kind": "wmt",
+    "schedule": 1297
+  }
+]
