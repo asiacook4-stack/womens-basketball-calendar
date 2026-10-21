@@ -7303,31 +7303,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "3652f4bdad1b156803b45a16@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24751",
@@ -7847,9 +7822,140 @@
       "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-21T13:08:28.094153+00:00",
-  "missing_retained": []
+  "pending": {
+    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+      "hash": "fd3357f15c94d67325547ee318ec7cb18c48cda6ac33a0a3df9f120667c3f4f9",
+      "first_seen": "2026-10-21T19:02:56.125620+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25600"
+        ],
+        "teams": [
+          "UConn",
+          "Syracuse"
+        ],
+        "date": "2026-10-12",
+        "start": "2026-10-12T22:30:00+00:00",
+        "location": "Uncasville, Conn.",
+        "network": "NBC Sports Boston/UConn+",
+        "watch": [
+          {
+            "label": "NBC Sports Boston/UConn+",
+            "url": "https://uconnhuskies.com/showcase?Live=7413"
+          }
+        ],
+        "exhibition": true,
+        "status": "GAMECOMPLETE",
+        "venue": "N",
+        "note": "Hall of Fame Series Exhibition",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io": {
+      "hash": "653e66372f3466e86c2e6f5ad3116017dabd0159ea038755ab6f04b06df8d265",
+      "first_seen": "2026-10-21T19:02:56.125620+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25601",
+          "Texas:23172"
+        ],
+        "teams": [
+          "UConn",
+          "Texas"
+        ],
+        "date": "2026-10-19",
+        "start": "2026-10-19T23:00:00+00:00",
+        "location": "Hartford, Conn.",
+        "network": "WFSB/UConn+ / UConn+ ($)",
+        "watch": [
+          {
+            "label": "WFSB/UConn+",
+            "url": "https://uconnhuskies.com/showcase?Live=7462"
+          },
+          {
+            "label": "UConn+ ($)",
+            "url": "https://uconnhuskies.com/watch/purchase.aspx#register"
+          }
+        ],
+        "exhibition": true,
+        "status": "GAMECOMPLETE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "fd01f441d9ab9aea6fff744e@wbb.asiacook4-stack.github.io": {
+      "hash": "b55873806971cbba31a41b2b6649e8235aff238ba928e02f529d62cfa5d73f58",
+      "first_seen": "2026-10-21T19:02:56.125620+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25906"
+        ],
+        "teams": [
+          "UConn",
+          "Creighton"
+        ],
+        "date": "2027-01-10",
+        "start": "2027-01-10T19:00:00+00:00",
+        "location": "Ralston, Neb.",
+        "network": "Peacock/NBCSN",
+        "watch": [],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "fd01f441d9ab9aea6fff744e@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-21T19:02:56.125620+00:00",
+  "missing_retained": [
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
+  ]
 }
