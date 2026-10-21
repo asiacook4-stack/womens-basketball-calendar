@@ -5447,7 +5447,7 @@
       ],
       "date": "2026-11-01",
       "start": "2026-11-01T17:00:00+00:00",
-      "location": "Rome, Italy",
+      "location": "Rome, Italy / Palazzo dello Sport",
       "network": "FS1",
       "watch": [
         {
@@ -5464,8 +5464,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-21T01:05:30.812622+00:00"
     },
     "1b98c9fe2cdc1ac5872bf12d@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6087,7 +6087,7 @@
       ],
       "date": "2026-10-26",
       "start": "2026-10-26T23:00:00+00:00",
-      "location": "South Bend, IN",
+      "location": "South Bend, IN / Purcell Pavilion",
       "network": "",
       "watch": [],
       "exhibition": true,
@@ -6099,8 +6099,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-21T01:05:30.812622+00:00"
     },
     "6d709b77d5bd96d6a1d3bf6a@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7835,70 +7835,113 @@
     }
   },
   "pending": {
-    "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io": {
-      "hash": "00142f127d0dd25bb83391b4c82e9a345f98166f1b740f78a9069d91bb1ac6bd",
-      "first_seen": "2026-10-20T19:01:34.306441+00:00",
+    "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io": {
+      "hash": "56a633ddce7cb012de775117410197a165c7a30fa2b34625e6a5e4605a061308",
+      "first_seen": "2026-10-21T01:05:30.812622+00:00",
       "candidate": {
         "source_ids": [
-          "Notre Dame:20483"
+          "South Carolina:Clemson-away"
         ],
         "teams": [
-          "Notre Dame",
-          "Villanova"
+          "South Carolina",
+          "Clemson"
         ],
-        "date": "2026-11-01",
-        "start": "2026-11-01T17:00:00+00:00",
-        "location": "Rome, Italy / Palazzo dello Sport",
-        "network": "FS1",
+        "date": "2026-11-12",
+        "start": "2026-11-13T00:00:00+00:00",
+        "location": "Clemson SC",
+        "network": "ESPN2",
         "watch": [
           {
-            "label": "FS1",
-            "url": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE"
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd"
           }
         ],
         "exhibition": false,
-        "status": "as_scheduled",
-        "venue": "neutral",
-        "note": "Eternal City Tip-Off",
+        "status": "",
+        "venue": "",
+        "note": "Palmetto Series",
         "sources": [
-          "https://fightingirish.com/sports/wbball/schedule/"
+          "https://gamecocksonline.com/sports/wbball/schedule/"
         ],
         "coverage": "Full team schedule",
-        "uid": "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io",
+        "uid": "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     },
-    "2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io": {
-      "hash": "d838c2982c9bdffa1319528c6d31a624adafbbefb3198b2ed5dbfc65b67d9e44",
-      "first_seen": "2026-10-20T19:01:34.306441+00:00",
+    "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io": {
+      "hash": "f3ccae40bd39fb9bc75f31faad31213f027fc2afd05560d211b28764a23de732",
+      "first_seen": "2026-10-21T01:05:30.812622+00:00",
       "candidate": {
         "source_ids": [
-          "Notre Dame:20986"
+          "South Carolina:Maryland-neutral",
+          "Maryland:22436"
         ],
         "teams": [
-          "Notre Dame",
-          "Truman State"
+          "South Carolina",
+          "Maryland"
         ],
-        "date": "2026-10-26",
-        "start": "2026-10-26T23:00:00+00:00",
-        "location": "South Bend, IN / Purcell Pavilion",
-        "network": "",
-        "watch": [],
-        "exhibition": true,
-        "status": "as_scheduled",
-        "venue": "home",
-        "note": "",
+        "date": "2026-11-02",
+        "start": "2026-11-02T17:00:00+00:00",
+        "location": "Paris, France",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
+          }
+        ],
+        "exhibition": false,
+        "status": "",
+        "venue": "N",
+        "note": "Oui Play",
         "sources": [
-          "https://fightingirish.com/sports/wbball/schedule/"
+          "https://gamecocksonline.com/sports/wbball/schedule/",
+          "https://umterps.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io",
+        "uid": "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io": {
+      "hash": "06e44cc94f95e3c74c0039bea596957cceb477149f6675cbf709a9c97ef78dcf",
+      "first_seen": "2026-10-21T01:05:30.812622+00:00",
+      "candidate": {
+        "source_ids": [
+          "South Carolina:USC-neutral",
+          "USC:35530"
+        ],
+        "teams": [
+          "South Carolina",
+          "USC"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T18:00:00+00:00",
+        "location": "Greenville, SC",
+        "network": "ABC",
+        "watch": [
+          {
+            "label": "ABC",
+            "url": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172"
+          }
+        ],
+        "exhibition": false,
+        "status": "",
+        "venue": "N",
+        "note": "The Real SC",
+        "sources": [
+          "https://gamecocksonline.com/sports/wbball/schedule/",
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-10-20T19:01:34.306441+00:00",
+  "updated": "2026-10-21T01:05:30.812622+00:00",
   "missing_retained": []
 }

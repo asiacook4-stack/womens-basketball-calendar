@@ -231,17 +231,17 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Truman State [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261026T160000
 DTEND;TZID=America/Los_Angeles:20261026T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261021T010530Z
 UID:2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Mon Oct 26
  \, 2026 04:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
   — no official streaming link has been published.\n\nOfficial schedule: 
  https://fightingirish.com/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
-LOCATION:South Bend\, IN
+LAST-MODIFIED:20261021T010530Z
+LOCATION:South Bend\, IN / Purcell Pavilion
 TRANSP:TRANSPARENT
 URL:https://fightingirish.com/sports/wbball/schedule/
 END:VEVENT
@@ -287,9 +287,9 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Villanova
 DTSTART;TZID=America/Los_Angeles:20261101T090000
 DTEND;TZID=America/Los_Angeles:20261101T111500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261021T010530Z
 UID:7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Sun Nov 01\, 2026 09:00 AM PST\n\nEnd time is an es
@@ -300,8 +300,8 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  6099&gbraid=0AAAABAxC7zxUHPfDxXmGE\nLink check: reachable\; playback requi
  res the appropriate login\n\nOfficial schedule: https://fightingirish.com/
  sports/wbball/schedule/\n\nEternal City Tip-Off
-LAST-MODIFIED:20261019T235708Z
-LOCATION:Rome\, Italy
+LAST-MODIFIED:20261021T010530Z
+LOCATION:Rome\, Italy / Palazzo dello Sport
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=
  SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637
