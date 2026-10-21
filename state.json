@@ -1076,8 +1076,13 @@
       "date": "2026-11-12",
       "start": "2026-11-13T00:00:00+00:00",
       "location": "Clemson SC",
-      "network": "ESPN/2",
-      "watch": [],
+      "network": "ESPN2",
+      "watch": [
+        {
+          "label": "ESPN2",
+          "url": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd"
+        }
+      ],
       "exhibition": false,
       "status": "",
       "venue": "",
@@ -1087,8 +1092,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-21T07:09:45.954534+00:00"
     },
     "3ba362f9a2f9ef9eb04c692a@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -1317,7 +1322,12 @@
       "start": "2026-11-02T17:00:00+00:00",
       "location": "Paris, France",
       "network": "ESPN",
-      "watch": [],
+      "watch": [
+        {
+          "label": "ESPN",
+          "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
+        }
+      ],
       "exhibition": false,
       "status": "",
       "venue": "N",
@@ -1328,8 +1338,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-21T07:09:45.954534+00:00"
     },
     "6216aaf0a64b84d01a25fb08@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -1641,7 +1651,12 @@
       "start": "2026-11-15T18:00:00+00:00",
       "location": "Greenville, SC",
       "network": "ABC",
-      "watch": [],
+      "watch": [
+        {
+          "label": "ABC",
+          "url": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172"
+        }
+      ],
       "exhibition": false,
       "status": "",
       "venue": "N",
@@ -1652,8 +1667,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-21T07:09:45.954534+00:00"
     },
     "1cd96ee1b6b26768a8b90049@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7834,114 +7849,7 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io": {
-      "hash": "56a633ddce7cb012de775117410197a165c7a30fa2b34625e6a5e4605a061308",
-      "first_seen": "2026-10-21T01:05:30.812622+00:00",
-      "candidate": {
-        "source_ids": [
-          "South Carolina:Clemson-away"
-        ],
-        "teams": [
-          "South Carolina",
-          "Clemson"
-        ],
-        "date": "2026-11-12",
-        "start": "2026-11-13T00:00:00+00:00",
-        "location": "Clemson SC",
-        "network": "ESPN2",
-        "watch": [
-          {
-            "label": "ESPN2",
-            "url": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd"
-          }
-        ],
-        "exhibition": false,
-        "status": "",
-        "venue": "",
-        "note": "Palmetto Series",
-        "sources": [
-          "https://gamecocksonline.com/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
-    "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io": {
-      "hash": "f3ccae40bd39fb9bc75f31faad31213f027fc2afd05560d211b28764a23de732",
-      "first_seen": "2026-10-21T01:05:30.812622+00:00",
-      "candidate": {
-        "source_ids": [
-          "South Carolina:Maryland-neutral",
-          "Maryland:22436"
-        ],
-        "teams": [
-          "South Carolina",
-          "Maryland"
-        ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T17:00:00+00:00",
-        "location": "Paris, France",
-        "network": "ESPN",
-        "watch": [
-          {
-            "label": "ESPN",
-            "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
-          }
-        ],
-        "exhibition": false,
-        "status": "",
-        "venue": "N",
-        "note": "Oui Play",
-        "sources": [
-          "https://gamecocksonline.com/sports/wbball/schedule/",
-          "https://umterps.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
-    "a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io": {
-      "hash": "06e44cc94f95e3c74c0039bea596957cceb477149f6675cbf709a9c97ef78dcf",
-      "first_seen": "2026-10-21T01:05:30.812622+00:00",
-      "candidate": {
-        "source_ids": [
-          "South Carolina:USC-neutral",
-          "USC:35530"
-        ],
-        "teams": [
-          "South Carolina",
-          "USC"
-        ],
-        "date": "2026-11-15",
-        "start": "2026-11-15T18:00:00+00:00",
-        "location": "Greenville, SC",
-        "network": "ABC",
-        "watch": [
-          {
-            "label": "ABC",
-            "url": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172"
-          }
-        ],
-        "exhibition": false,
-        "status": "",
-        "venue": "N",
-        "note": "The Real SC",
-        "sources": [
-          "https://gamecocksonline.com/sports/wbball/schedule/",
-          "https://usctrojans.com/sports/wbball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-21T01:05:30.812622+00:00",
+  "pending": {},
+  "updated": "2026-10-21T07:09:45.954534+00:00",
   "missing_retained": []
 }

@@ -354,21 +354,22 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Maryland
 DTSTART;TZID=America/Los_Angeles:20261102T090000
 DTEND;TZID=America/Los_Angeles:20261102T111500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261021T070945Z
 UID:456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Mon 
- Nov 02\, 2026 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN watch directory: https://w
- ww.espn.com/watch/\nLink check: reachable\; playback requires the appropri
- ate login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/
- schedule/\n\nOfficial schedule: https://umterps.com/sports/womens-basketba
- ll/schedule\n\nOui Play
-LAST-MODIFIED:20261019T235708Z
+ Nov 02\, 2026 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — ESPN: https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06
+ d-6ceb11a54925\nLink check: reachable\; playback requires the appropriate 
+ login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/sche
+ dule/\n\nOfficial schedule: https://umterps.com/sports/womens-basketball/s
+ chedule\n\nOui Play
+LAST-MODIFIED:20261021T070945Z
 LOCATION:Paris\, France
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a
+ 54925
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Lehigh
@@ -762,20 +763,21 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Clemson
 DTSTART;TZID=America/Los_Angeles:20261112T160000
 DTEND;TZID=America/Los_Angeles:20261112T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261021T070945Z
 UID:331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ESPN/2\n\nStreaming: ESPN app — included with your 
- ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Th
- u Nov 12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServi
- ce / channel page (not a game deep link) — ESPN watch directory: https:/
- /www.espn.com/watch/\nLink check: reachable\; playback requires the approp
- riate login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbbal
- l/schedule/\n\nPalmetto Series
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
+ SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Thu
+  Nov 12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ESPN2: https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a
+ 03c-a89742ed3efd\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/sc
+ hedule/\n\nPalmetto Series
+LAST-MODIFIED:20261021T070945Z
 LOCATION:Clemson SC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742e
+ d3efd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Arizona
@@ -896,21 +898,22 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs USC
 DTSTART;TZID=America/Los_Angeles:20261115T100000
 DTEND;TZID=America/Los_Angeles:20261115T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261021T070945Z
 UID:a05a16bffffd31be8f892187@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ABC\n\nStreaming: ESPN app — included with your ESP
  N Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun N
- ov 15\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService 
- / channel page (not a game deep link) — ESPN watch directory: https://ww
- w.espn.com/watch/\nLink check: reachable\; playback requires the appropria
- te login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/s
- chedule/\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedu
- le\n\nThe Real SC
-LAST-MODIFIED:20261019T235708Z
+ ov 15\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame lin
+ k — ABC: https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-
+ 21474c114172\nLink check: reachable\; playback requires the appropriate lo
+ gin\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/schedu
+ le/\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule\n\
+ nThe Real SC
+LAST-MODIFIED:20261021T070945Z
 LOCATION:Greenville\, SC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c1
+ 14172
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Princeton
