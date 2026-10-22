@@ -53,9 +53,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Syracuse [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261012T153000
 DTEND;TZID=America/Los_Angeles:20261012T174500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261022T010342Z
 UID:6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: NBC Sports Boston/UConn+\n\nStreaming: UConn+ — sep
  arate service\; check event access requirements.\n\nTipoff (Pacific): Mon 
  Oct 12\, 2026 03:30 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame li
@@ -63,7 +63,7 @@ DESCRIPTION:Network: NBC Sports Boston/UConn+\n\nStreaming: UConn+ — sep
  13\nLink check: reachable\; playback requires the appropriate login\n\nOff
  icial schedule: https://uconnhuskies.com/sports/womens-basketball/schedule
  /\n\nHall of Fame Series Exhibition
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261022T010342Z
 LOCATION:Uncasville\, Conn.
 TRANSP:TRANSPARENT
 URL:https://uconnhuskies.com/showcase?Live=7413
@@ -91,9 +91,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Texas [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261019T160000
 DTEND;TZID=America/Los_Angeles:20261019T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261022T010342Z
 UID:424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: WFSB/UConn+ / UConn+ ($)\n\nStreaming: UConn+ — sep
  arate service\; check event access requirements.\n\nTipoff (Pacific): Mon 
  Oct 19\, 2026 04:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame li
@@ -104,7 +104,7 @@ DESCRIPTION:Network: WFSB/UConn+ / UConn+ ($)\n\nStreaming: UConn+ — sep
  ppropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports/wom
  ens-basketball/schedule/\n\nOfficial schedule: https://texaslonghorns.com/
  sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261022T010342Z
 LOCATION:Hartford\, Conn.
 TRANSP:TRANSPARENT
 URL:https://uconnhuskies.com/showcase?Live=7462
@@ -3186,9 +3186,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Creighton
 DTSTART;TZID=America/Los_Angeles:20270110T110000
 DTEND;TZID=America/Los_Angeles:20270110T131500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261022T010342Z
 UID:fd01f441d9ab9aea6fff744e@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
   your Peacock Premium.\n\nTipoff (Pacific): Sun Jan 10\, 2027 11:00 AM PST
  \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
@@ -3196,8 +3196,8 @@ DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
  tv.com/sports/college-basketball\nLink check: reachable\; playback require
  s the appropriate login\n\nOfficial schedule: https://uconnhuskies.com/spo
  rts/womens-basketball/schedule/
-LAST-MODIFIED:20261019T235708Z
-LOCATION:Omaha\, Neb.
+LAST-MODIFIED:20261022T010342Z
+LOCATION:Ralston\, Neb.
 TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/sports/college-basketball
 END:VEVENT
