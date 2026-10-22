@@ -5123,18 +5123,20 @@ BEGIN:VEVENT
 SUMMARY:Maryland vs Iowa
 DTSTART;TZID=America/Los_Angeles:20270225T163000
 DTEND;TZID=America/Los_Angeles:20270225T184500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261022T071133Z
 UID:7ffaf001f293af2c67795ccf@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
- Peacock Premium.\n\nTipoff (Pacific): Thu Feb 25\, 2027 04:30 PM PST\n\nEn
- d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock logo: https://www.peacocktv.com/\nLink check: reachable
- \; playback requires the appropriate login\n\nOfficial schedule: https://u
- mterps.com/sports/womens-basketball/schedule\n\nOfficial schedule: https:/
- /hawkeyesports.com/sports/wbball/schedule\n\nNational spotlight: matchup b
- etween teams in the published contender pool.
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: Peacock / NBCSN Logo\n\nStreaming: Peacock — includ
+ ed with your Peacock Premium.\n\nTipoff (Pacific): Thu Feb 25\, 2027 04:30
+  PM PST\n\nEnd time is an estimate (2h 15m).\n\nService / channel page (no
+ t a game deep link) — Peacock logo: https://www.peacocktv.com/\nLink che
+ ck: reachable\; playback requires the appropriate login\n\nService / chann
+ el page (not a game deep link) — NBCSN Logo: https://www.peacocktv.com/\
+ nLink check: reachable\; playback requires the appropriate login\n\nOffici
+ al schedule: https://umterps.com/sports/womens-basketball/schedule\n\nOffi
+ cial schedule: https://hawkeyesports.com/sports/wbball/schedule\n\nNationa
+ l spotlight: matchup between teams in the published contender pool.
+LAST-MODIFIED:20261022T071133Z
 LOCATION:Iowa City\, IA
 TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/

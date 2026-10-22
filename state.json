@@ -7048,10 +7048,14 @@
       "date": "2027-02-25",
       "start": "2027-02-26T00:30:00+00:00",
       "location": "Iowa City, IA",
-      "network": "Peacock",
+      "network": "Peacock / NBCSN Logo",
       "watch": [
         {
           "label": "Peacock logo",
+          "url": "https://www.peacocktv.com/"
+        },
+        {
+          "label": "NBCSN Logo",
           "url": "https://www.peacocktv.com/"
         }
       ],
@@ -7065,8 +7069,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "7ffaf001f293af2c67795ccf@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-22T07:11:33.649980+00:00"
     },
     "aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7849,49 +7853,8 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "7ffaf001f293af2c67795ccf@wbb.asiacook4-stack.github.io": {
-      "hash": "69d463b21a17f66c27102f3b2d60f47e64a6802d923bff535aeeb4a20c1ab3bf",
-      "first_seen": "2026-10-22T01:03:42.762423+00:00",
-      "candidate": {
-        "source_ids": [
-          "Maryland:22472",
-          "Iowa:23224"
-        ],
-        "teams": [
-          "Maryland",
-          "Iowa"
-        ],
-        "date": "2027-02-25",
-        "start": "2027-02-26T00:30:00+00:00",
-        "location": "Iowa City, IA",
-        "network": "Peacock / NBCSN Logo",
-        "watch": [
-          {
-            "label": "Peacock logo",
-            "url": "https://www.peacocktv.com/"
-          },
-          {
-            "label": "NBCSN Logo",
-            "url": "https://www.peacocktv.com/"
-          }
-        ],
-        "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://umterps.com/sports/womens-basketball/schedule",
-          "https://hawkeyesports.com/sports/wbball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "7ffaf001f293af2c67795ccf@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-22T01:03:42.762423+00:00",
+  "pending": {},
+  "updated": "2026-10-22T07:11:33.649980+00:00",
   "missing_retained": [
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
   ]
