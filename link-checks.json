@@ -1,86 +1,14 @@
 {
-  "https://www.peacocktv.com/sports/college-basketball": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.peacocktv.com/sports/college-basketball",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.bigtenplus.com/": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.bigtenplus.com/en-int/page/home",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099%7C200231910138%7C300168637889%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/schedule": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/schedule",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.foxsports.com/live/": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/live",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://uconnhuskies.com/showcase?Live=7463": {
-    "ok": true,
-    "http": 200,
-    "final": "https://uconnhuskies.com/watch/?Live=7463&type=Live",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://uconnhuskies.com/watch/purchase.aspx#register": {
-    "ok": true,
-    "http": 200,
-    "final": "https://uconnhuskies.com/watch/purchase.aspx#register",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
   "https://uconnhuskies.com/showcase?Live=7462": {
     "ok": true,
     "http": 200,
     "final": "https://uconnhuskies.com/watch/?Live=7462&type=Live",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://www.foxsports.com/live/fs1": {
+  "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb": {
     "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/live/fs1",
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
   "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6": {
@@ -94,52 +22,22 @@
     "reason": "SSLError",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn": {
-    "ok": true,
-    "http": 200,
-    "final": "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd": {
+  "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd",
+    "final": "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.peacocktv.com/sports": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.peacocktv.com/sports",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172": {
+  "https://www.espn.com/watch/": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172",
+    "final": "https://www.espn.com/watch/",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://www.nbc.com/": {
+  "https://www.foxsports.com/live/fs1": {
     "ok": true,
     "http": 200,
-    "final": "https://www.nbc.com/",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://uconnhuskies.com/showcase?Live=7413": {
-    "ok": true,
-    "http": 200,
-    "final": "https://uconnhuskies.com/watch/?Live=7413&type=Live",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925",
+    "final": "https://www.foxsports.com/live/fs1",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
   "https://fightingirish.com": {
@@ -148,22 +46,10 @@
     "final": "https://fightingirish.com/",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B": {
+  "https://www.peacocktv.com/sports/college-basketball": {
     "ok": true,
     "http": 200,
-    "final": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994%7C205977581211%7C294932144853%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop",
-    "checked": "2026-10-22T07:11:33.649980+00:00"
-  },
-  "https://www.foxsports.com/live": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/live",
+    "final": "https://www.peacocktv.com/sports/college-basketball",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
   "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05": {
@@ -172,10 +58,58 @@
     "final": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
+  "https://www.foxsports.com/live/": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/live",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.foxsports.com/live": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/live",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
   "https://www.foxsports.com/live/btn": {
     "ok": true,
     "http": 200,
     "final": "https://www.foxsports.com/live/btn",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://texaslonghorns.com/sports/womens-basketball/Watch": {
+    "ok": false,
+    "http": 404,
+    "final": "https://texaslonghorns.com/404",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.peacocktv.com/sports": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.peacocktv.com/sports",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://uconnhuskies.com/watch/purchase.aspx#register": {
+    "ok": true,
+    "http": 200,
+    "final": "https://uconnhuskies.com/watch/purchase.aspx#register",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
   "https://www.peacocktv.com/": {
@@ -184,10 +118,76 @@
     "final": "https://www.peacocktv.com/",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   },
-  "https://texaslonghorns.com/sports/womens-basketball/Watch": {
-    "ok": false,
-    "http": 404,
-    "final": "https://texaslonghorns.com/404",
+  "https://www.bigtenplus.com/": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.bigtenplus.com/en-int/page/home",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/schedule": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/schedule",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn": {
+    "ok": true,
+    "http": 200,
+    "final": "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099%7C200231910138%7C300168637889%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://uconnhuskies.com/showcase?Live=7463": {
+    "ok": true,
+    "http": 200,
+    "final": "https://uconnhuskies.com/watch/?Live=7463&type=Live",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994%7C205977581211%7C294932144853%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://uconnhuskies.com/showcase?Live=7413": {
+    "ok": true,
+    "http": 200,
+    "final": "https://uconnhuskies.com/watch/?Live=7413&type=Live",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.nbc.com/": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.nbc.com/",
+    "checked": "2026-10-22T07:11:33.649980+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f",
     "checked": "2026-10-22T07:11:33.649980+00:00"
   }
 }
