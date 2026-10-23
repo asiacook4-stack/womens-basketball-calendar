@@ -470,20 +470,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Texas Southern
 DTSTART;TZID=America/Los_Angeles:20261105T170000
 DTEND;TZID=America/Los_Angeles:20261105T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T070912Z
 UID:89e087d3205cafedbe5e4da2@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Thu Nov 05\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/2c77ce
+ c0-9772-4545-9d19-99f0b08f29ed\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261023T070912Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08
+ f29ed
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs UC Irvine
@@ -671,20 +672,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs McNeese
 DTSTART;TZID=America/Los_Angeles:20261110T170000
 DTEND;TZID=America/Los_Angeles:20261110T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T070912Z
 UID:3581ae96beeb10886ff6154e@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Tue Nov 10\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/c3cbfc
+ c0-8075-4656-9390-d876d25db5e7\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261023T070912Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/c3cbfcc0-8075-4656-9390-d876d25
+ db5e7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Detroit Mercy
@@ -823,20 +825,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Denver
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T070912Z
 UID:0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Fri Nov 13\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/b8f0a6
+ 80-9538-4b16-a7b6-186842f74b62\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261023T070912Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f
+ 74b62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs DePaul
@@ -992,20 +995,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Troy
 DTSTART;TZID=America/Los_Angeles:20261116T170000
 DTEND;TZID=America/Los_Angeles:20261116T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T070912Z
 UID:59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Mon Nov 16\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/2d8f0f
+ c2-3129-4ece-8664-1d392c561c04\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261023T070912Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c5
+ 61c04
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Carolina vs FGCU
@@ -1107,20 +1111,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs FDU
 DTSTART;TZID=America/Los_Angeles:20261119T170000
 DTEND;TZID=America/Los_Angeles:20261119T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T070912Z
 UID:7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Thu Nov 19\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/1537c4
+ de-1f9d-473b-acc0-3244d3b751c6\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261023T070912Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b
+ 751c6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Cal Poly
