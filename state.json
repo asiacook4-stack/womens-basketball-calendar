@@ -7853,8 +7853,179 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-22T19:02:57.803987+00:00",
+  "pending": {
+    "89e087d3205cafedbe5e4da2@wbb.asiacook4-stack.github.io": {
+      "hash": "18b8f2588037208c6f6944c0222a940cb38359dbe95f8c7eabef6331814997c3",
+      "first_seen": "2026-10-23T01:08:40.435728+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21027"
+        ],
+        "teams": [
+          "LSU",
+          "Texas Southern"
+        ],
+        "date": "2026-11-05",
+        "start": "2026-11-06T01:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08f29ed"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "89e087d3205cafedbe5e4da2@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "3581ae96beeb10886ff6154e@wbb.asiacook4-stack.github.io": {
+      "hash": "1cf08398307d6dfdd6850878b85505814adfe7322c44d70200ce05624ae668bf",
+      "first_seen": "2026-10-23T01:08:40.435728+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21028"
+        ],
+        "teams": [
+          "LSU",
+          "McNeese"
+        ],
+        "date": "2026-11-10",
+        "start": "2026-11-11T01:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/c3cbfcc0-8075-4656-9390-d876d25db5e7"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "3581ae96beeb10886ff6154e@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io": {
+      "hash": "eeccd9099b40b3389d16239b73d48ce89b1559c6f789a149304a3e9b2f138a25",
+      "first_seen": "2026-10-23T01:08:40.435728+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21029"
+        ],
+        "teams": [
+          "LSU",
+          "Denver"
+        ],
+        "date": "2026-11-13",
+        "start": "2026-11-14T00:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io": {
+      "hash": "be8527251977e05aa3d652970a28a5143cf82031815c48ac86e09838d6c9c650",
+      "first_seen": "2026-10-23T01:08:40.435728+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21030"
+        ],
+        "teams": [
+          "LSU",
+          "Troy"
+        ],
+        "date": "2026-11-16",
+        "start": "2026-11-17T01:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io": {
+      "hash": "2c49771db76ae2b36bfd80da03729d303e66ee8e27c32825debbfd5ab9df5351",
+      "first_seen": "2026-10-23T01:08:40.435728+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21031"
+        ],
+        "teams": [
+          "LSU",
+          "FDU"
+        ],
+        "date": "2026-11-19",
+        "start": "2026-11-20T01:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-23T01:08:40.435728+00:00",
   "missing_retained": [
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
   ]
