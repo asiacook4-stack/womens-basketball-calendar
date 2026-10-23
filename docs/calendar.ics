@@ -113,9 +113,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs UNT Dallas [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261022T170000
 DTEND;TZID=America/Los_Angeles:20261022T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261023T130417Z
 UID:b92b9eab5af58899bfb147ac@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Thu Oct 22\, 2026 05:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\
@@ -123,7 +123,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  ea-2752-4669-b9a1-cc5838bdf1c6\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/\n\nExhibition
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261023T130417Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838b

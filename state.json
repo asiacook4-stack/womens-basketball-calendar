@@ -3566,7 +3566,7 @@
         }
       ],
       "exhibition": true,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "Exhibition",
       "sources": [
@@ -3574,8 +3574,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "b92b9eab5af58899bfb147ac@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-23T13:04:17.771727+00:00"
     },
     "a6ba65f0fa71747f7da14069@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7853,43 +7853,8 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "b92b9eab5af58899bfb147ac@wbb.asiacook4-stack.github.io": {
-      "hash": "6f67d46ed169f7d8c0e4b2f373751d9646022bbd4bb10e981a909c4c4bd2ec43",
-      "first_seen": "2026-10-23T07:09:12.993192+00:00",
-      "candidate": {
-        "source_ids": [
-          "LSU:21024"
-        ],
-        "teams": [
-          "LSU",
-          "UNT Dallas"
-        ],
-        "date": "2026-10-22",
-        "start": "2026-10-23T00:00:00+00:00",
-        "location": "Baton Rouge, La. (Maravich Center)",
-        "network": "SEC Network+",
-        "watch": [
-          {
-            "label": "SEC Network+",
-            "url": "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6"
-          }
-        ],
-        "exhibition": true,
-        "status": "completed",
-        "venue": "home",
-        "note": "Exhibition",
-        "sources": [
-          "https://lsusports.net/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "b92b9eab5af58899bfb147ac@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-23T07:09:12.993192+00:00",
+  "pending": {},
+  "updated": "2026-10-23T13:04:17.771727+00:00",
   "missing_retained": [
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
   ]
