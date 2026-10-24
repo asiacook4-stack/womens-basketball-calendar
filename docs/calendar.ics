@@ -194,16 +194,16 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Army [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261024T070419Z
 UID:4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: The Wax/UConn+\n\nStreaming: UConn+ — separate serv
  ice\; check event access requirements.\n\nTipoff (Pacific): Sun Oct 25\, 2
  026 01:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame link — The
   Wax/UConn+: https://uconnhuskies.com/showcase?Live=7463\nLink check: reac
  hable\; playback requires the appropriate login\n\nOfficial schedule: http
  s://uconnhuskies.com/sports/womens-basketball/schedule/
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261024T070419Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
 URL:https://uconnhuskies.com/showcase?Live=7463
@@ -2152,6 +2152,25 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sports
  /wbball/schedule/
 LAST-MODIFIED:20261019T235708Z
+LOCATION:Columbia\, SC
+TRANSP:TRANSPARENT
+URL:https://www.espn.com/watch/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:South Carolina vs UAlbany
+DTSTART;TZID=America/Los_Angeles:20261216T160000
+DTEND;TZID=America/Los_Angeles:20261216T181500
+DTSTAMP:20261024T070419Z
+UID:b2aa2550320a5d09517bd695@wbb.asiacook4-stack.github.io
+SEQUENCE:0
+DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
+  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
+ c): Wed Dec 16\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
+ nService / channel page (not a game deep link) — ESPN watch directory: h
+ ttps://www.espn.com/watch/\nLink check: reachable\; playback requires the 
+ appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sports
+ /wbball/schedule/
+LAST-MODIFIED:20261024T070419Z
 LOCATION:Columbia\, SC
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/
