@@ -6961,7 +6961,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "H",
       "note": "Exhibition",
       "sources": [
@@ -6969,8 +6969,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-24T01:12:01.547599+00:00"
     },
     "b8f29b9659687301d7771420@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7320,7 +7320,12 @@
       "start": "2026-12-03T00:15:00+00:00",
       "location": "Oxford, Miss",
       "network": "ESPN",
-      "watch": [],
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.espn.com/watch/player/_/eventCalendarId/401913740"
+        }
+      ],
       "exhibition": false,
       "status": "SCHEDULED",
       "venue": "A",
@@ -7331,8 +7336,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "3652f4bdad1b156803b45a16@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-24T01:12:01.547599+00:00"
     },
     "bbb890c1a3167e5d19fb94b5@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7854,78 +7859,42 @@
     }
   },
   "pending": {
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "hash": "a97a1709794f4cff770d1df34d1069a57e97508f2e2cf789711fd9e37091ed72",
-      "first_seen": "2026-10-23T19:01:13.664781+00:00",
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "hash": "c048ab0215a4e0386e1048844c0f7acb68b874c03e2d35ffd584a77bfb4ba28e",
+      "first_seen": "2026-10-24T01:12:01.547599+00:00",
       "candidate": {
         "source_ids": [
-          "Maryland:22435"
+          "UConn:25767"
         ],
         "teams": [
-          "Maryland",
-          "North Carolina"
+          "UConn",
+          "Army"
         ],
-        "date": "2026-10-24",
-        "start": "2026-10-24T17:00:00+00:00",
-        "location": "College Park, MD",
-        "network": "",
+        "date": "2026-10-25",
+        "start": "2026-10-25T20:00:00+00:00",
+        "location": "Storrs, Conn.",
+        "network": "The Wax/UConn+",
         "watch": [
           {
-            "label": "Official watch link",
-            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+            "label": "The Wax/UConn+",
+            "url": "https://uconnhuskies.com/showcase?Live=7463"
           }
         ],
-        "exhibition": false,
+        "exhibition": true,
         "status": "PREGAME",
         "venue": "H",
-        "note": "Exhibition",
-        "sources": [
-          "https://umterps.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
-    "3652f4bdad1b156803b45a16@wbb.asiacook4-stack.github.io": {
-      "hash": "b4ec442831988ba412cf8b75382b052a98799c24083b555481815d1d6e1dcd80",
-      "first_seen": "2026-10-23T19:01:13.664781+00:00",
-      "candidate": {
-        "source_ids": [
-          "NC State:24751",
-          "Ole Miss:16052"
-        ],
-        "teams": [
-          "NC State",
-          "Ole Miss"
-        ],
-        "date": "2026-12-02",
-        "start": "2026-12-03T00:15:00+00:00",
-        "location": "Oxford, Miss",
-        "network": "ESPN",
-        "watch": [
-          {
-            "label": "Official watch link",
-            "url": "https://www.espn.com/watch/player/_/eventCalendarId/401913740"
-          }
-        ],
-        "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "A",
         "note": "",
         "sources": [
-          "https://gopack.com/sports/womens-basketball/schedule",
-          "https://olemisssports.com/sports/womens-basketball/schedule"
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
         ],
-        "coverage": "National spotlight",
-        "uid": "3652f4bdad1b156803b45a16@wbb.asiacook4-stack.github.io",
+        "coverage": "Full team schedule",
+        "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-10-23T19:01:13.664781+00:00",
+  "updated": "2026-10-24T01:12:01.547599+00:00",
   "missing_retained": [
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
   ]

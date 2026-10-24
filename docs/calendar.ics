@@ -151,9 +151,9 @@ BEGIN:VEVENT
 SUMMARY:Maryland vs North Carolina
 DTSTART;TZID=America/Los_Angeles:20261024T100000
 DTEND;TZID=America/Los_Angeles:20261024T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261024T011201Z
 UID:39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Sat Oct 24
@@ -164,7 +164,7 @@ DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ial schedule: https://umterps.com/sports/womens-basketball/schedule\n\nExh
  ibition\n\nNational spotlight: matchup between teams in the published cont
  ender pool.
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261024T011201Z
 LOCATION:College Park\, MD
 TRANSP:TRANSPARENT
 URL:https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina
@@ -1569,22 +1569,22 @@ BEGIN:VEVENT
 SUMMARY:NC State vs Ole Miss
 DTSTART;TZID=America/Los_Angeles:20261202T161500
 DTEND;TZID=America/Los_Angeles:20261202T183000
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261024T011201Z
 UID:3652f4bdad1b156803b45a16@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed 
- Dec 02\, 2026 04:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN watch directory: https://w
- ww.espn.com/watch/\nLink check: reachable\; playback requires the appropri
- ate login\n\nOfficial schedule: https://gopack.com/sports/womens-basketbal
- l/schedule\n\nOfficial schedule: https://olemisssports.com/sports/womens-b
- asketball/schedule\n\nNational spotlight: matchup between teams in the pub
- lished contender pool.
-LAST-MODIFIED:20261019T235708Z
+ Dec 02\, 2026 04:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — Official watch link: https://www.espn.com/watch/player/_/eventCalen
+ darId/401913740\nLink check: reachable\; playback requires the appropriate
+  login\n\nOfficial schedule: https://gopack.com/sports/womens-basketball/s
+ chedule\n\nOfficial schedule: https://olemisssports.com/sports/womens-bask
+ etball/schedule\n\nNational spotlight: matchup between teams in the publis
+ hed contender pool.
+LAST-MODIFIED:20261024T011201Z
 LOCATION:Oxford\, Miss
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/eventCalendarId/401913740
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Louisville
