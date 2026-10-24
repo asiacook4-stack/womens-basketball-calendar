@@ -7883,8 +7883,43 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-24T12:59:35.448080+00:00",
+  "pending": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "hash": "00c137d5886d8e7804bbd0e1c93422ac8ace5fa03fb8998ae46570b58353e6e5",
+      "first_seen": "2026-10-24T18:53:11.590872+00:00",
+      "candidate": {
+        "source_ids": [
+          "Maryland:22435"
+        ],
+        "teams": [
+          "Maryland",
+          "North Carolina"
+        ],
+        "date": "2026-10-24",
+        "start": "2026-10-24T17:00:00+00:00",
+        "location": "College Park, MD",
+        "network": "",
+        "watch": [
+          {
+            "label": "Official watch link",
+            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+          }
+        ],
+        "exhibition": false,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "Exhibition",
+        "sources": [
+          "https://umterps.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-24T01:12:01.547599+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-24T18:53:11.590872+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
