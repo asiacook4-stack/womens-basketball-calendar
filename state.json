@@ -6961,7 +6961,7 @@
         }
       ],
       "exhibition": false,
-      "status": "PREGAME",
+      "status": "POSTGAME",
       "venue": "H",
       "note": "Exhibition",
       "sources": [
@@ -6969,8 +6969,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-24T01:12:01.547599+00:00"
+      "sequence": 2,
+      "modified": "2026-10-25T07:06:01.792768+00:00"
     },
     "b8f29b9659687301d7771420@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7883,43 +7883,8 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "hash": "78297276b7e9722744d426e4502b2e609c9928ecc04c7830c72c5fdf57d8ffc5",
-      "first_seen": "2026-10-25T01:00:50.847679+00:00",
-      "candidate": {
-        "source_ids": [
-          "Maryland:22435"
-        ],
-        "teams": [
-          "Maryland",
-          "North Carolina"
-        ],
-        "date": "2026-10-24",
-        "start": "2026-10-24T17:00:00+00:00",
-        "location": "College Park, MD",
-        "network": "",
-        "watch": [
-          {
-            "label": "Official watch link",
-            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-          }
-        ],
-        "exhibition": false,
-        "status": "POSTGAME",
-        "venue": "H",
-        "note": "Exhibition",
-        "sources": [
-          "https://umterps.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-24T01:12:01.547599+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-25T01:00:50.847679+00:00",
+  "pending": {},
+  "updated": "2026-10-25T07:06:01.792768+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
