@@ -6961,7 +6961,7 @@
         }
       ],
       "exhibition": false,
-      "status": "POSTGAME",
+      "status": "GAMECOMPLETE",
       "venue": "H",
       "note": "Exhibition",
       "sources": [
@@ -6969,8 +6969,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-10-25T07:06:01.792768+00:00"
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "b8f29b9659687301d7771420@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7884,42 +7884,42 @@
     }
   },
   "pending": {
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "hash": "3634b2965ba3d08dab72801a5d5005d0b3b9badc4a6287cceeb27b032590f677",
-      "first_seen": "2026-10-25T13:00:03.305729+00:00",
+    "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io": {
+      "hash": "f06b6afb2c4025b1fe319551f346461dd783b357563f6ff03bd1eccce6cf7ad5",
+      "first_seen": "2026-10-25T18:54:50.867818+00:00",
       "candidate": {
         "source_ids": [
-          "Maryland:22435"
+          "USC:35629"
         ],
         "teams": [
-          "Maryland",
-          "North Carolina"
+          "USC",
+          "California"
         ],
-        "date": "2026-10-24",
-        "start": "2026-10-24T17:00:00+00:00",
-        "location": "College Park, MD",
-        "network": "",
+        "date": "2026-10-25",
+        "start": "2026-10-25T21:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
         "watch": [
           {
-            "label": "Official watch link",
-            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+            "label": "B1G+",
+            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695"
           }
         ],
         "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "H",
-        "note": "Exhibition",
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "First Look Exhibition",
         "sources": [
-          "https://umterps.com/sports/womens-basketball/schedule"
+          "https://usctrojans.com/sports/wbball/schedule"
         ],
-        "coverage": "National spotlight",
-        "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-10-25T07:06:01.792768+00:00"
+        "coverage": "Full team schedule",
+        "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-10-25T13:00:03.305729+00:00",
+  "updated": "2026-10-25T18:54:50.867818+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
