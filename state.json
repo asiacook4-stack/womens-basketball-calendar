@@ -7885,8 +7885,8 @@
   },
   "pending": {
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "hash": "00c137d5886d8e7804bbd0e1c93422ac8ace5fa03fb8998ae46570b58353e6e5",
-      "first_seen": "2026-10-24T18:53:11.590872+00:00",
+      "hash": "78297276b7e9722744d426e4502b2e609c9928ecc04c7830c72c5fdf57d8ffc5",
+      "first_seen": "2026-10-25T01:00:50.847679+00:00",
       "candidate": {
         "source_ids": [
           "Maryland:22435"
@@ -7906,7 +7906,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "POSTGAME",
         "venue": "H",
         "note": "Exhibition",
         "sources": [
@@ -7919,7 +7919,7 @@
       }
     }
   },
-  "updated": "2026-10-24T18:53:11.590872+00:00",
+  "updated": "2026-10-25T01:00:50.847679+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
