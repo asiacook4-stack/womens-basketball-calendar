@@ -7832,31 +7832,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7881,10 +7856,70 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-25T07:06:01.792768+00:00",
+  "pending": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "hash": "3634b2965ba3d08dab72801a5d5005d0b3b9badc4a6287cceeb27b032590f677",
+      "first_seen": "2026-10-25T13:00:03.305729+00:00",
+      "candidate": {
+        "source_ids": [
+          "Maryland:22435"
+        ],
+        "teams": [
+          "Maryland",
+          "North Carolina"
+        ],
+        "date": "2026-10-24",
+        "start": "2026-10-24T17:00:00+00:00",
+        "location": "College Park, MD",
+        "network": "",
+        "watch": [
+          {
+            "label": "Official watch link",
+            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+          }
+        ],
+        "exhibition": false,
+        "status": "GAMECOMPLETE",
+        "venue": "H",
+        "note": "Exhibition",
+        "sources": [
+          "https://umterps.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-10-25T07:06:01.792768+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-25T13:00:03.305729+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
