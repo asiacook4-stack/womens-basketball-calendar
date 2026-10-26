@@ -194,16 +194,16 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Army [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T151500
-DTSTAMP:20261026T071547Z
+DTSTAMP:20261026T190903Z
 UID:4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: The Wax/UConn+\n\nStreaming: UConn+ — separate serv
  ice\; check event access requirements.\n\nTipoff (Pacific): Sun Oct 25\, 2
  026 01:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame link — The
   Wax/UConn+: https://uconnhuskies.com/showcase?Live=7463\nLink check: reac
  hable\; playback requires the appropriate login\n\nOfficial schedule: http
  s://uconnhuskies.com/sports/womens-basketball/schedule/
-LAST-MODIFIED:20261026T071547Z
+LAST-MODIFIED:20261026T190903Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
 URL:https://uconnhuskies.com/showcase?Live=7463
@@ -212,9 +212,9 @@ BEGIN:VEVENT
 SUMMARY:USC vs California
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T161500
-DTSTAMP:20261026T071547Z
+DTSTAMP:20261026T190903Z
 UID:8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Sun 
  Oct 25\, 2026 02:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nService
@@ -222,7 +222,7 @@ DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  m/en-int/livestream/exhibition-california-at-3-usc/2245695\nLink check: re
  achable\; playback requires the appropriate login\n\nOfficial schedule: ht
  tps://usctrojans.com/sports/wbball/schedule\n\nFirst Look Exhibition
-LAST-MODIFIED:20261026T071547Z
+LAST-MODIFIED:20261026T190903Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
 URL:https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-

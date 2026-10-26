@@ -315,7 +315,7 @@
         }
       ],
       "exhibition": true,
-      "status": "FULLTIME",
+      "status": "GAMECOMPLETE",
       "venue": "H",
       "note": "",
       "sources": [
@@ -323,8 +323,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-10-26T07:15:47.320215+00:00"
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -3067,7 +3067,7 @@
         }
       ],
       "exhibition": false,
-      "status": "POSTGAME",
+      "status": "GAMECOMPLETE",
       "venue": "N",
       "note": "First Look Exhibition",
       "sources": [
@@ -3075,8 +3075,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-26T07:15:47.320215+00:00"
+      "sequence": 2,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "c5cd69ab769880bb01686587@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7837,31 +7837,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7886,79 +7861,70 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "hash": "37e522be899680f9896f1516d9313610c470e551d0c3026ac829391909de8aee",
-      "first_seen": "2026-10-26T14:59:49.981718+00:00",
+    "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io": {
+      "hash": "30dc4e440b6ad22e0274a77563f644572237f17dad56befda74c254686dabd30",
+      "first_seen": "2026-10-26T19:09:03.910774+00:00",
       "candidate": {
         "source_ids": [
-          "UConn:25767"
+          "Texas:23174"
         ],
         "teams": [
-          "UConn",
-          "Army"
+          "Texas",
+          "FDU"
         ],
-        "date": "2026-10-25",
-        "start": "2026-10-25T20:00:00+00:00",
-        "location": "Storrs, Conn.",
-        "network": "The Wax/UConn+",
+        "date": "2026-11-04",
+        "start": "2026-11-05T01:00:00+00:00",
+        "location": "Austin, Texas",
+        "network": "SECN+",
         "watch": [
           {
-            "label": "The Wax/UConn+",
-            "url": "https://uconnhuskies.com/showcase?Live=7463"
-          }
-        ],
-        "exhibition": true,
-        "status": "GAMECOMPLETE",
-        "venue": "H",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-10-26T07:15:47.320215+00:00"
-      }
-    },
-    "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io": {
-      "hash": "9dc812b674e1c7f5b71d1249d6e4be274770db6cb9db096fe0d22521c2e875bb",
-      "first_seen": "2026-10-26T14:59:49.981718+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35629"
-        ],
-        "teams": [
-          "USC",
-          "California"
-        ],
-        "date": "2026-10-25",
-        "start": "2026-10-25T21:00:00+00:00",
-        "location": "Los Angeles, Calif.",
-        "network": "B1G+",
-        "watch": [
-          {
-            "label": "B1G+",
-            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695"
+            "label": "SECN+",
+            "url": "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410"
           }
         ],
         "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "N",
-        "note": "First Look Exhibition",
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
         "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
+          "https://texaslonghorns.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-26T07:15:47.320215+00:00"
+        "uid": "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-10-26T14:59:49.981718+00:00",
+  "updated": "2026-10-26T19:09:03.910774+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
