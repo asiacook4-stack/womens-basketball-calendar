@@ -7888,8 +7888,77 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-26T07:15:47.320215+00:00",
+  "pending": {
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "hash": "37e522be899680f9896f1516d9313610c470e551d0c3026ac829391909de8aee",
+      "first_seen": "2026-10-26T14:59:49.981718+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25767"
+        ],
+        "teams": [
+          "UConn",
+          "Army"
+        ],
+        "date": "2026-10-25",
+        "start": "2026-10-25T20:00:00+00:00",
+        "location": "Storrs, Conn.",
+        "network": "The Wax/UConn+",
+        "watch": [
+          {
+            "label": "The Wax/UConn+",
+            "url": "https://uconnhuskies.com/showcase?Live=7463"
+          }
+        ],
+        "exhibition": true,
+        "status": "GAMECOMPLETE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-10-26T07:15:47.320215+00:00"
+      }
+    },
+    "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io": {
+      "hash": "9dc812b674e1c7f5b71d1249d6e4be274770db6cb9db096fe0d22521c2e875bb",
+      "first_seen": "2026-10-26T14:59:49.981718+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35629"
+        ],
+        "teams": [
+          "USC",
+          "California"
+        ],
+        "date": "2026-10-25",
+        "start": "2026-10-25T21:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695"
+          }
+        ],
+        "exhibition": false,
+        "status": "GAMECOMPLETE",
+        "venue": "N",
+        "note": "First Look Exhibition",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-26T07:15:47.320215+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-26T14:59:49.981718+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
