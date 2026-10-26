@@ -174,9 +174,9 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Texas [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261025T110000
 DTEND;TZID=America/Los_Angeles:20261025T131500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261026T071547Z
 UID:9679ca1138367b5c57b101d2@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Sun Oct 25
@@ -185,7 +185,7 @@ DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  https://uclabruins.com/sports/womens-basketball/schedule\n\nOfficial sched
  ule: https://texaslonghorns.com/sports/womens-basketball/schedule\n\nNyle 
  Maxwell's Lonestar Showcase
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261026T071547Z
 LOCATION:Cedar Park\, Texas / H-E-B Center at Cedar Park
 TRANSP:TRANSPARENT
 URL:https://uclabruins.com/sports/womens-basketball/schedule
@@ -194,16 +194,16 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Army [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261025T130000
 DTEND;TZID=America/Los_Angeles:20261025T151500
-DTSTAMP:20261024T070419Z
+DTSTAMP:20261026T071547Z
 UID:4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: The Wax/UConn+\n\nStreaming: UConn+ — separate serv
  ice\; check event access requirements.\n\nTipoff (Pacific): Sun Oct 25\, 2
  026 01:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame link — The
   Wax/UConn+: https://uconnhuskies.com/showcase?Live=7463\nLink check: reac
  hable\; playback requires the appropriate login\n\nOfficial schedule: http
  s://uconnhuskies.com/sports/womens-basketball/schedule/
-LAST-MODIFIED:20261024T070419Z
+LAST-MODIFIED:20261026T071547Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
 URL:https://uconnhuskies.com/showcase?Live=7463
@@ -212,20 +212,21 @@ BEGIN:VEVENT
 SUMMARY:USC vs California
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T161500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261026T071547Z
 UID:8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Sun 
  Oct 25\, 2026 02:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
- \n\nFirst Look Exhibition
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.bigtenplus.co
+ m/en-int/livestream/exhibition-california-at-3-usc/2245695\nLink check: re
+ achable\; playback requires the appropriate login\n\nOfficial schedule: ht
+ tps://usctrojans.com/sports/wbball/schedule\n\nFirst Look Exhibition
+LAST-MODIFIED:20261026T071547Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-
+ 3-usc/2245695
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Truman State [Exhibition]

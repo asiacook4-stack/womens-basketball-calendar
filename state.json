@@ -315,7 +315,7 @@
         }
       ],
       "exhibition": true,
-      "status": "PREGAME",
+      "status": "FULLTIME",
       "venue": "H",
       "note": "",
       "sources": [
@@ -323,8 +323,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-24T07:04:19.427092+00:00"
+      "sequence": 2,
+      "modified": "2026-10-26T07:15:47.320215+00:00"
     },
     "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -2098,7 +2098,7 @@
       "network": "",
       "watch": [],
       "exhibition": true,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "away",
       "note": "Nyle Maxwell's Lonestar Showcase",
       "sources": [
@@ -2107,8 +2107,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "9679ca1138367b5c57b101d2@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-26T07:15:47.320215+00:00"
     },
     "d5364ddf7769cc8263d249c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -3060,9 +3060,14 @@
       "start": "2026-10-25T21:00:00+00:00",
       "location": "Los Angeles, Calif.",
       "network": "B1G+",
-      "watch": [],
+      "watch": [
+        {
+          "label": "B1G+",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695"
+        }
+      ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "POSTGAME",
       "venue": "N",
       "note": "First Look Exhibition",
       "sources": [
@@ -3070,8 +3075,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-26T07:15:47.320215+00:00"
     },
     "c5cd69ab769880bb01686587@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7832,31 +7837,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "South Carolina:Albany-home"
@@ -7881,110 +7861,35 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "hash": "6d3e73f22cdbff8204c041249669b2bfd54ae90e14b782d7822acffaaff7a9fd",
-      "first_seen": "2026-10-26T01:15:57.224836+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25767"
-        ],
-        "teams": [
-          "UConn",
-          "Army"
-        ],
-        "date": "2026-10-25",
-        "start": "2026-10-25T20:00:00+00:00",
-        "location": "Storrs, Conn.",
-        "network": "The Wax/UConn+",
-        "watch": [
-          {
-            "label": "The Wax/UConn+",
-            "url": "https://uconnhuskies.com/showcase?Live=7463"
-          }
-        ],
-        "exhibition": true,
-        "status": "FULLTIME",
-        "venue": "H",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-24T07:04:19.427092+00:00"
-      }
-    },
-    "9679ca1138367b5c57b101d2@wbb.asiacook4-stack.github.io": {
-      "hash": "cbfb0b23ecf163588c339a2bb06acf01eea294e5302f94da74bc19e8cc92a041",
-      "first_seen": "2026-10-26T01:15:57.224836+00:00",
-      "candidate": {
-        "source_ids": [
-          "UCLA:19255",
-          "Texas:23173"
-        ],
-        "teams": [
-          "UCLA",
-          "Texas"
-        ],
-        "date": "2026-10-25",
-        "start": "2026-10-25T18:00:00+00:00",
-        "location": "Cedar Park, Texas / H-E-B Center at Cedar Park",
-        "network": "",
-        "watch": [],
-        "exhibition": true,
-        "status": "completed",
-        "venue": "away",
-        "note": "Nyle Maxwell's Lonestar Showcase",
-        "sources": [
-          "https://uclabruins.com/sports/womens-basketball/schedule",
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "9679ca1138367b5c57b101d2@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
-    "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io": {
-      "hash": "e1a1ca8938afb084fe5462e49b4fadde912f82c419ea93b815599a9d09855dc0",
-      "first_seen": "2026-10-26T01:15:57.224836+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35629"
-        ],
-        "teams": [
-          "USC",
-          "California"
-        ],
-        "date": "2026-10-25",
-        "start": "2026-10-25T21:00:00+00:00",
-        "location": "Los Angeles, Calif.",
-        "network": "B1G+",
-        "watch": [
-          {
-            "label": "B1G+",
-            "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695"
-          }
-        ],
-        "exhibition": false,
-        "status": "POSTGAME",
-        "venue": "N",
-        "note": "First Look Exhibition",
-        "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "8f6ae01a9d3020528d39b8e1@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-26T01:15:57.224836+00:00",
+  "pending": {},
+  "updated": "2026-10-26T07:15:47.320215+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
