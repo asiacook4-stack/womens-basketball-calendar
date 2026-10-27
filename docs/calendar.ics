@@ -452,20 +452,21 @@ BEGIN:VEVENT
 SUMMARY:Texas vs FDU
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261027T011038Z
 UID:d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
-  Nov 04\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — SECN+: https://texaslonghorns.
- com/sports/womens-basketball/Watch\nLink check: published by the official 
- team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
-  https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+  Nov 04\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — SECN+: https://www.espn.com/watch/player/_/id/e665e656-808c-4971-a
+ ddc-f01591ae0410\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-bas
+ ketball/schedule
+LAST-MODIFIED:20261027T011038Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591a
+ e0410
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Texas Southern
