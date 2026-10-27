@@ -7888,8 +7888,38 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-27T01:10:38.021711+00:00",
+  "pending": {
+    "2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io": {
+      "hash": "a4d61c6f2f0c11fe14bec0395adf3169a8dff91c6a11476d416bf6de22a2eb90",
+      "first_seen": "2026-10-27T07:10:34.510633+00:00",
+      "candidate": {
+        "source_ids": [
+          "Notre Dame:20986"
+        ],
+        "teams": [
+          "Notre Dame",
+          "Truman State"
+        ],
+        "date": "2026-10-26",
+        "start": "2026-10-26T23:00:00+00:00",
+        "location": "South Bend, IN / Purcell Pavilion",
+        "network": "",
+        "watch": [],
+        "exhibition": true,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://fightingirish.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-21T01:05:30.812622+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-27T07:10:34.510633+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
