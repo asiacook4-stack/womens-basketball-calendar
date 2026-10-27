@@ -232,16 +232,16 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Truman State [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261026T160000
 DTEND;TZID=America/Los_Angeles:20261026T181500
-DTSTAMP:20261021T010530Z
+DTSTAMP:20261027T131035Z
 UID:2572ed72d085ad871f7f7f16@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Mon Oct 26
  \, 2026 04:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
   — no official streaming link has been published.\n\nOfficial schedule: 
  https://fightingirish.com/sports/wbball/schedule/
-LAST-MODIFIED:20261021T010530Z
+LAST-MODIFIED:20261027T131035Z
 LOCATION:South Bend\, IN / Purcell Pavilion
 TRANSP:TRANSPARENT
 URL:https://fightingirish.com/sports/wbball/schedule/
