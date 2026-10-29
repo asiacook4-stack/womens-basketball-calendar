@@ -1301,6 +1301,10 @@
         {
           "label": "ESPN",
           "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
+        },
+        {
+          "label": "Official watch link",
+          "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
         }
       ],
       "exhibition": false,
@@ -1313,8 +1317,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-21T07:09:45.954534+00:00"
+      "sequence": 2,
+      "modified": "2026-10-29T01:21:52.853157+00:00"
     },
     "6216aaf0a64b84d01a25fb08@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -5338,11 +5342,12 @@
     },
     "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "Texas:23301"
+        "Texas:23301",
+        "Baylor:30179"
       ],
       "teams": [
         "Texas",
-        "Eastern New Mexico"
+        "Baylor"
       ],
       "date": "2026-10-29",
       "start": "2026-10-30T00:00:00+00:00",
@@ -5354,12 +5359,13 @@
       "venue": "H",
       "note": "",
       "sources": [
-        "https://texaslonghorns.com/sports/womens-basketball/schedule"
+        "https://texaslonghorns.com/sports/womens-basketball/schedule",
+        "https://baylorbears.com/sports/womens-basketball/schedule"
       ],
       "coverage": "Full team schedule",
       "uid": "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-29T01:21:52.853157+00:00"
     },
     "84503c74a57e838fe4abcbec@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7837,31 +7843,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7886,82 +7867,35 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    }
-  },
-  "pending": {
-    "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io": {
-      "hash": "1a838a9008d36d4da5f88461f8a96515b2ebe65762f0edbc0fb4ffce3a093139",
-      "first_seen": "2026-10-28T19:12:31.974192+00:00",
-      "candidate": {
-        "source_ids": [
-          "South Carolina:Maryland-neutral",
-          "Maryland:22436"
-        ],
-        "teams": [
-          "South Carolina",
-          "Maryland"
-        ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T17:00:00+00:00",
-        "location": "Paris, France",
-        "network": "ESPN",
-        "watch": [
-          {
-            "label": "ESPN",
-            "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
-          },
-          {
-            "label": "Official watch link",
-            "url": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925"
-          }
-        ],
-        "exhibition": false,
-        "status": "",
-        "venue": "N",
-        "note": "Oui Play",
-        "sources": [
-          "https://gamecocksonline.com/sports/wbball/schedule/",
-          "https://umterps.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-21T07:09:45.954534+00:00"
-      }
     },
-    "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io": {
-      "hash": "a2ebaf22e46349525a09ec3d0582ef97b8986aa53a2a062f1606cac60bdceaf4",
-      "first_seen": "2026-10-28T19:12:31.974192+00:00",
-      "candidate": {
-        "source_ids": [
-          "Texas:23301",
-          "Baylor:30179"
-        ],
-        "teams": [
-          "Texas",
-          "Baylor"
-        ],
-        "date": "2026-10-29",
-        "start": "2026-10-30T00:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "",
-        "watch": [],
-        "exhibition": true,
-        "status": "SCHEDULED",
-        "venue": "H",
-        "note": "",
-        "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule",
-          "https://baylorbears.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "updated": "2026-10-28T19:12:31.974192+00:00",
+  "pending": {},
+  "updated": "2026-10-29T01:21:52.853157+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"

@@ -267,19 +267,20 @@ URL:https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fd
  ec7d7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Texas vs Eastern New Mexico [Exhibition]
+SUMMARY:Texas vs Baylor [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261029T012152Z
 UID:a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Thu Oct 29
  \, 2026 05:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
   — no official streaming link has been published.\n\nOfficial schedule: 
- https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficial s
+ chedule: https://baylorbears.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261029T012152Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule
@@ -355,18 +356,20 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Maryland
 DTSTART;TZID=America/Los_Angeles:20261102T090000
 DTEND;TZID=America/Los_Angeles:20261102T111500
-DTSTAMP:20261021T070945Z
+DTSTAMP:20261029T012152Z
 UID:456d23224ceefcc88249a088@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Mon 
  Nov 02\, 2026 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
  nk — ESPN: https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06
  d-6ceb11a54925\nLink check: reachable\; playback requires the appropriate 
- login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/sche
- dule/\n\nOfficial schedule: https://umterps.com/sports/womens-basketball/s
- chedule\n\nOui Play
-LAST-MODIFIED:20261021T070945Z
+ login\n\nGame link — Official watch link: https://www.espn.com/watch/pla
+ yer/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925\nLink check: reachable\; pla
+ yback requires the appropriate login\n\nOfficial schedule: https://gamecoc
+ ksonline.com/sports/wbball/schedule/\n\nOfficial schedule: https://umterps
+ .com/sports/womens-basketball/schedule\n\nOui Play
+LAST-MODIFIED:20261029T012152Z
 LOCATION:Paris\, France
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a
