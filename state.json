@@ -7894,8 +7894,74 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-10-29T19:14:21.286741+00:00",
+  "pending": {
+    "10c6af81d143d9b98432bf94@wbb.asiacook4-stack.github.io": {
+      "hash": "9f7d99767748144e623676ecc9bb5b1473e42849e5f77e3c8c636c9500efaa28",
+      "first_seen": "2026-10-30T01:24:46.357417+00:00",
+      "candidate": {
+        "source_ids": [
+          "South Carolina:FGCU-home"
+        ],
+        "teams": [
+          "South Carolina",
+          "FGCU"
+        ],
+        "date": "2026-11-17",
+        "start": "2026-11-18T00:00:00+00:00",
+        "location": "Columbia, SC",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee1462ae4c"
+          }
+        ],
+        "exhibition": false,
+        "status": "",
+        "venue": "",
+        "note": "",
+        "sources": [
+          "https://gamecocksonline.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "10c6af81d143d9b98432bf94@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io": {
+      "hash": "2c50341531c85fe14a81bcf612891df1db348e3a69709abd07a8685c21d5b970",
+      "first_seen": "2026-10-30T01:24:46.357417+00:00",
+      "candidate": {
+        "source_ids": [
+          "Texas:23301",
+          "Baylor:30179"
+        ],
+        "teams": [
+          "Texas",
+          "Baylor"
+        ],
+        "date": "2026-10-29",
+        "start": "2026-10-30T00:00:00+00:00",
+        "location": "Austin, Texas",
+        "network": "",
+        "watch": [],
+        "exhibition": true,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://texaslonghorns.com/sports/womens-basketball/schedule",
+          "https://baylorbears.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-29T01:21:52.853157+00:00"
+      }
+    }
+  },
+  "updated": "2026-10-30T01:24:46.357417+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
