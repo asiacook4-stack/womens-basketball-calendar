@@ -1020,20 +1020,21 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs FGCU
 DTSTART;TZID=America/Los_Angeles:20261117T160000
 DTEND;TZID=America/Los_Angeles:20261117T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261030T072258Z
 UID:10c6af81d143d9b98432bf94@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Tue Nov 17\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — ESPN watch directory: h
- ttps://www.espn.com/watch/\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sports
- /wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/58e610
+ 28-0a17-441f-8b8c-06ee1462ae4c\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sp
+ orts/wbball/schedule/
+LAST-MODIFIED:20261030T072258Z
 LOCATION:Columbia\, SC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee146
+ 2ae4c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Southern
