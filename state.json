@@ -3610,7 +3610,7 @@
         }
       ],
       "exhibition": true,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "Exhibition",
       "sources": [
@@ -3618,8 +3618,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "a6ba65f0fa71747f7da14069@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-30T13:19:15.512248+00:00"
     },
     "7bb39ff2bb04ded2fb22ea63@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7848,31 +7848,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7897,46 +7872,37 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "a6ba65f0fa71747f7da14069@wbb.asiacook4-stack.github.io": {
-      "hash": "570c1605cfedf2a4e672a45293e774dbf65dad97c5d60f4e54d072b317bb0c7d",
-      "first_seen": "2026-10-30T07:22:58.119901+00:00",
-      "candidate": {
-        "source_ids": [
-          "LSU:21025"
-        ],
-        "teams": [
-          "LSU",
-          "Loyola (N.O.)"
-        ],
-        "date": "2026-10-29",
-        "start": "2026-10-30T00:00:00+00:00",
-        "location": "Baton Rouge, La. (Maravich Center)",
-        "network": "SEC Network+",
-        "watch": [
-          {
-            "label": "SEC Network+",
-            "url": "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7"
-          }
-        ],
-        "exhibition": true,
-        "status": "completed",
-        "venue": "home",
-        "note": "Exhibition",
-        "sources": [
-          "https://lsusports.net/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "a6ba65f0fa71747f7da14069@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
     "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io": {
-      "hash": "2e5293fa9af3abbaef2ef24b9b201d28dfb063638d0da005959c6577200ff503",
-      "first_seen": "2026-10-30T07:22:58.119901+00:00",
+      "hash": "6b6c11e87ee7d5414d34203a01205811ae287c6f114de030a6ffbbd9871f8688",
+      "first_seen": "2026-10-30T13:19:15.512248+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23301",
@@ -7952,7 +7918,7 @@
         "network": "",
         "watch": [],
         "exhibition": true,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -7966,7 +7932,7 @@
       }
     }
   },
-  "updated": "2026-10-30T07:22:58.119901+00:00",
+  "updated": "2026-10-30T13:19:15.512248+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"

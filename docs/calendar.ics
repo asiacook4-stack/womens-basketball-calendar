@@ -250,9 +250,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Loyola (N.O.) [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261030T131915Z
 UID:a6ba65f0fa71747f7da14069@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Thu Oct 29\, 2026 05:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\
@@ -260,7 +260,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  8a-ffde-49d5-b510-a9b34fdec7d7\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/\n\nExhibition
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261030T131915Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fd
