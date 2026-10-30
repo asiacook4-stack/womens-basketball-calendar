@@ -270,9 +270,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Baylor [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261029T170000
 DTEND;TZID=America/Los_Angeles:20261029T191500
-DTSTAMP:20261029T012152Z
+DTSTAMP:20261030T190823Z
 UID:a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Thu Oct 29
@@ -280,7 +280,7 @@ DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
   — no official streaming link has been published.\n\nOfficial schedule: 
  https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficial s
  chedule: https://baylorbears.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261029T012152Z
+LAST-MODIFIED:20261030T190823Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule

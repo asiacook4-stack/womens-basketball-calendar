@@ -5360,7 +5360,7 @@
       "network": "",
       "watch": [],
       "exhibition": true,
-      "status": "SCHEDULED",
+      "status": "GAMECOMPLETE",
       "venue": "H",
       "note": "",
       "sources": [
@@ -5369,8 +5369,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-29T01:21:52.853157+00:00"
+      "sequence": 2,
+      "modified": "2026-10-30T19:08:23.444760+00:00"
     },
     "84503c74a57e838fe4abcbec@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7900,39 +7900,42 @@
     }
   },
   "pending": {
-    "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io": {
-      "hash": "6b6c11e87ee7d5414d34203a01205811ae287c6f114de030a6ffbbd9871f8688",
-      "first_seen": "2026-10-30T13:19:15.512248+00:00",
+    "77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io": {
+      "hash": "fbb5a84d154ec3854c5c6e1e7485e4a0e74a696e6cc2a8d33fcb9ac1e7132f8d",
+      "first_seen": "2026-10-30T19:08:23.444760+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23301",
-          "Baylor:30179"
+          "UCLA:19385"
         ],
         "teams": [
-          "Texas",
-          "Baylor"
+          "UCLA",
+          "Penn State"
         ],
-        "date": "2026-10-29",
-        "start": "2026-10-30T00:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "",
-        "watch": [],
-        "exhibition": true,
-        "status": "GAMECOMPLETE",
-        "venue": "H",
+        "date": "2027-01-15",
+        "start": "2027-01-16T03:00:00+00:00",
+        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
+        "network": "BIG TEN PLUS",
+        "watch": [
+          {
+            "label": "BIG_TEN_PLUS_logo.png",
+            "url": "https://www.bigtenplus.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
         "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule",
-          "https://baylorbears.com/sports/womens-basketball/schedule"
+          "https://uclabruins.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "a58011b6898d90927a4ab9bc@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-29T01:21:52.853157+00:00"
+        "uid": "77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-10-30T13:19:15.512248+00:00",
+  "updated": "2026-10-30T19:08:23.444760+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
