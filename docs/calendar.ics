@@ -3408,20 +3408,21 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Penn State
 DTSTART;TZID=America/Los_Angeles:20270115T190000
 DTEND;TZID=America/Los_Angeles:20270115T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261031T012305Z
 UID:77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
- ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
-  subscriptions do not cover every network.\n\nTipoff (Pacific): Fri Jan 15
- \, 2027 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
-  — no official streaming link has been published.\n\nOfficial schedule: 
- https://uclabruins.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
+ scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
+ c): Fri Jan 15\, 2027 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
+ nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
+ https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
+  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
+ ens-basketball/schedule
+LAST-MODIFIED:20261031T012305Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://uclabruins.com/sports/womens-basketball/schedule
+URL:https://www.bigtenplus.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Minnesota

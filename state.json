@@ -2376,8 +2376,13 @@
       "date": "2027-01-15",
       "start": "2027-01-16T03:00:00+00:00",
       "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
-      "network": "",
-      "watch": [],
+      "network": "BIG TEN PLUS",
+      "watch": [
+        {
+          "label": "BIG_TEN_PLUS_logo.png",
+          "url": "https://www.bigtenplus.com/"
+        }
+      ],
       "exhibition": false,
       "status": "as_scheduled",
       "venue": "home",
@@ -2387,8 +2392,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-10-31T01:23:05.149288+00:00"
     },
     "6ac9c81c34552ffbe2afff37@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7848,31 +7853,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "South Carolina:Albany-home"
@@ -7897,45 +7877,35 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io": {
-      "hash": "fbb5a84d154ec3854c5c6e1e7485e4a0e74a696e6cc2a8d33fcb9ac1e7132f8d",
-      "first_seen": "2026-10-30T19:08:23.444760+00:00",
-      "candidate": {
-        "source_ids": [
-          "UCLA:19385"
-        ],
-        "teams": [
-          "UCLA",
-          "Penn State"
-        ],
-        "date": "2027-01-15",
-        "start": "2027-01-16T03:00:00+00:00",
-        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
-        "network": "BIG TEN PLUS",
-        "watch": [
-          {
-            "label": "BIG_TEN_PLUS_logo.png",
-            "url": "https://www.bigtenplus.com/"
-          }
-        ],
-        "exhibition": false,
-        "status": "as_scheduled",
-        "venue": "home",
-        "note": "",
-        "sources": [
-          "https://uclabruins.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "77bd63f1ba53cc1c88c818a9@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-30T19:08:23.444760+00:00",
+  "pending": {},
+  "updated": "2026-10-31T01:23:05.149288+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
