@@ -1459,19 +1459,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs NC State
 DTSTART;TZID=America/Los_Angeles:20261128T133000
 DTEND;TZID=America/Los_Angeles:20261128T154500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261101T012949Z
 UID:2c9c140c4902ad89b92dfa1c@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ION\n\nStreaming: ION — free over-the-air where ava
  ilable\; verify the official streaming listing.\n\nTipoff (Pacific): Sat N
- ov 28\, 2026 01:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch UR
- L TBA — no official streaming link has been published.\n\nOfficial sched
- ule: https://lsusports.net/sports/wbball/schedule/\n\nOfficial schedule: h
- ttps://gopack.com/sports/womens-basketball/schedule\n\nFort Myers Tip-Off
-LAST-MODIFIED:20261019T235708Z
+ ov 28\, 2026 01:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService 
+ / channel page (not a game deep link) — ION: https://iontelevision.com/s
+ chedule\nLink check: reachable\; playback requires the appropriate login\n
+ \nOfficial schedule: https://lsusports.net/sports/wbball/schedule/\n\nOffi
+ cial schedule: https://gopack.com/sports/womens-basketball/schedule\n\nFor
+ t Myers Tip-Off
+LAST-MODIFIED:20261101T012949Z
 LOCATION:Fort Myers\, Fla. (Suncoast Credit Union Arena)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://iontelevision.com/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Duke

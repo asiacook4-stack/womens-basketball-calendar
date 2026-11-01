@@ -3552,7 +3552,12 @@
       "start": "2026-11-28T21:30:00+00:00",
       "location": "Fort Myers, Fla. (Suncoast Credit Union Arena)",
       "network": "ION",
-      "watch": [],
+      "watch": [
+        {
+          "label": "ION",
+          "url": "https://iontelevision.com/schedule"
+        }
+      ],
       "exhibition": false,
       "status": "as_scheduled",
       "venue": "neutral",
@@ -3563,8 +3568,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "2c9c140c4902ad89b92dfa1c@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-01T01:29:49.797005+00:00"
     },
     "b92b9eab5af58899bfb147ac@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7853,31 +7858,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7902,47 +7882,35 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "2c9c140c4902ad89b92dfa1c@wbb.asiacook4-stack.github.io": {
-      "hash": "747b7e51689d6d9447cbba4926fd24f0047a49dbe2289b1736dd1a8a1ddc3e7d",
-      "first_seen": "2026-10-31T19:05:20.649404+00:00",
-      "candidate": {
-        "source_ids": [
-          "LSU:20830",
-          "NC State:24750"
-        ],
-        "teams": [
-          "LSU",
-          "NC State"
-        ],
-        "date": "2026-11-28",
-        "start": "2026-11-28T21:30:00+00:00",
-        "location": "Fort Myers, Fla. (Suncoast Credit Union Arena)",
-        "network": "ION",
-        "watch": [
-          {
-            "label": "ION",
-            "url": "https://iontelevision.com/schedule"
-          }
-        ],
-        "exhibition": false,
-        "status": "as_scheduled",
-        "venue": "neutral",
-        "note": "Fort Myers Tip-Off",
-        "sources": [
-          "https://lsusports.net/sports/wbball/schedule/",
-          "https://gopack.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "2c9c140c4902ad89b92dfa1c@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    }
-  },
-  "updated": "2026-10-31T19:05:20.649404+00:00",
+  "pending": {},
+  "updated": "2026-11-01T01:29:49.797005+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
