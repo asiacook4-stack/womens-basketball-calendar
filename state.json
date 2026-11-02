@@ -7491,7 +7491,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "N",
       "note": "Oui-Play Paris",
       "sources": [
@@ -7500,8 +7500,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-02T13:31:39.523446+00:00"
     },
     "fff9e7d22baaade27e44fd3b@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7910,44 +7910,37 @@
     }
   },
   "pending": {
-    "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io": {
-      "hash": "c34ac0044c1acef9507d0812a439f2c07c4b64c45f7d5b6e8b6c5bad81a76a96",
-      "first_seen": "2026-11-02T07:47:29.928759+00:00",
+    "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io": {
+      "hash": "ebb56b1507ce7c5fa6361bf49e170f5958997edd821fc19c77917897afa3f32a",
+      "first_seen": "2026-11-02T13:31:39.523446+00:00",
       "candidate": {
         "source_ids": [
-          "Oklahoma:15824",
-          "North Carolina:27108"
+          "USC:35529"
         ],
         "teams": [
-          "Oklahoma",
-          "North Carolina"
+          "USC",
+          "UNLV"
         ],
         "date": "2026-11-02",
-        "start": "2026-11-02T19:30:00+00:00",
-        "location": "Adidas Arena • Paris, France",
-        "network": "ESPN2",
-        "watch": [
-          {
-            "label": "ESPN2",
-            "url": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05"
-          }
-        ],
+        "start": "2026-11-02T21:00:00+00:00",
+        "location": "Las Vegas, Nev.",
+        "network": "CBS Sports Network",
+        "watch": [],
         "exhibition": false,
         "status": "PREGAME",
         "venue": "N",
-        "note": "Oui-Play Paris",
+        "note": "Hall of Fame Series - Las Vegas",
         "sources": [
-          "https://soonersports.com/sports/womens-basketball/schedule",
-          "https://goheels.com/sports/womens-basketball/schedule"
+          "https://usctrojans.com/sports/wbball/schedule"
         ],
-        "coverage": "National spotlight",
-        "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
+        "coverage": "Full team schedule",
+        "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-02T07:47:29.928759+00:00",
+  "updated": "2026-11-02T13:31:39.523446+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
