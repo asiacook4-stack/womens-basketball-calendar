@@ -5497,7 +5497,7 @@
         }
       ],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "neutral",
       "note": "Eternal City Tip-Off",
       "sources": [
@@ -5505,8 +5505,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-21T01:05:30.812622+00:00"
+      "sequence": 2,
+      "modified": "2026-11-02T07:47:29.928759+00:00"
     },
     "1b98c9fe2cdc1ac5872bf12d@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7858,31 +7858,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7907,45 +7882,72 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io": {
-      "hash": "f228149cccc800d7cc8ddbeab8d3455016dce95402e9384e3ab459858f7789b6",
-      "first_seen": "2026-11-02T01:29:42.879961+00:00",
+    "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io": {
+      "hash": "c34ac0044c1acef9507d0812a439f2c07c4b64c45f7d5b6e8b6c5bad81a76a96",
+      "first_seen": "2026-11-02T07:47:29.928759+00:00",
       "candidate": {
         "source_ids": [
-          "Notre Dame:20483"
+          "Oklahoma:15824",
+          "North Carolina:27108"
         ],
         "teams": [
-          "Notre Dame",
-          "Villanova"
+          "Oklahoma",
+          "North Carolina"
         ],
-        "date": "2026-11-01",
-        "start": "2026-11-01T17:00:00+00:00",
-        "location": "Rome, Italy / Palazzo dello Sport",
-        "network": "FS1",
+        "date": "2026-11-02",
+        "start": "2026-11-02T19:30:00+00:00",
+        "location": "Adidas Arena • Paris, France",
+        "network": "ESPN2",
         "watch": [
           {
-            "label": "FS1",
-            "url": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE"
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05"
           }
         ],
         "exhibition": false,
-        "status": "completed",
-        "venue": "neutral",
-        "note": "Eternal City Tip-Off",
+        "status": "PREGAME",
+        "venue": "N",
+        "note": "Oui-Play Paris",
         "sources": [
-          "https://fightingirish.com/sports/wbball/schedule/"
+          "https://soonersports.com/sports/womens-basketball/schedule",
+          "https://goheels.com/sports/womens-basketball/schedule"
         ],
-        "coverage": "Full team schedule",
-        "uid": "7ecc60be55b10c598587d5d9@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-21T01:05:30.812622+00:00"
+        "coverage": "National spotlight",
+        "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-02T01:29:42.879961+00:00",
+  "updated": "2026-11-02T07:47:29.928759+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
