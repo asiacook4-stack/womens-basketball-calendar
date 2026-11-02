@@ -418,16 +418,16 @@ BEGIN:VEVENT
 SUMMARY:USC vs UNLV
 DTSTART;TZID=America/Los_Angeles:20261102T130000
 DTEND;TZID=America/Los_Angeles:20261102T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261102T191700Z
 UID:ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: CBS Sports Network\n\nStreaming: CBS / CBS Sports Net
  work — additional access may be required. Paramount+ does not automatica
  lly include CBS Sports Network.\n\nTipoff (Pacific): Mon Nov 02\, 2026 01:
  00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA — no off
  icial streaming link has been published.\n\nOfficial schedule: https://usc
  trojans.com/sports/wbball/schedule\n\nHall of Fame Series - Las Vegas
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261102T191700Z
 LOCATION:Las Vegas\, Nev.
 TRANSP:TRANSPARENT
 URL:https://usctrojans.com/sports/wbball/schedule

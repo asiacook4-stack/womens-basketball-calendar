@@ -2763,7 +2763,7 @@
       "network": "CBS Sports Network",
       "watch": [],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "N",
       "note": "Hall of Fame Series - Las Vegas",
       "sources": [
@@ -2771,8 +2771,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-02T19:17:00.954233+00:00"
     },
     "1a486d25539a27ddc7b53e52@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7910,37 +7910,42 @@
     }
   },
   "pending": {
-    "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io": {
-      "hash": "ebb56b1507ce7c5fa6361bf49e170f5958997edd821fc19c77917897afa3f32a",
-      "first_seen": "2026-11-02T13:31:39.523446+00:00",
+    "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io": {
+      "hash": "4baca97416886a102228d6a0ff0586f93b200cfaae914d9d0919d746cbda85e4",
+      "first_seen": "2026-11-02T19:17:00.954233+00:00",
       "candidate": {
         "source_ids": [
-          "USC:35529"
+          "Duke:25739"
         ],
         "teams": [
-          "USC",
-          "UNLV"
+          "Duke",
+          "Green Bay"
         ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T21:00:00+00:00",
-        "location": "Las Vegas, Nev.",
-        "network": "CBS Sports Network",
-        "watch": [],
+        "date": "2026-11-03",
+        "start": "2026-11-04T00:00:00+00:00",
+        "location": "Durham, N.C.",
+        "network": "ACCNX",
+        "watch": [
+          {
+            "label": "ACCNX",
+            "url": "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca"
+          }
+        ],
         "exhibition": false,
-        "status": "PREGAME",
-        "venue": "N",
-        "note": "Hall of Fame Series - Las Vegas",
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
         "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
+          "https://goduke.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
+        "uid": "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-02T13:31:39.523446+00:00",
+  "updated": "2026-11-02T19:17:00.954233+00:00",
   "missing_retained": [
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
