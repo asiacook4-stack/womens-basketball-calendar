@@ -334,9 +334,9 @@ BEGIN:VEVENT
 SUMMARY:Oklahoma vs North Carolina
 DTSTART;TZID=America/Los_Angeles:20261102T113000
 DTEND;TZID=America/Los_Angeles:20261102T134500
-DTSTAMP:20261102T133139Z
+DTSTAMP:20261103T073553Z
 UID:f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Mon
   Nov 02\, 2026 11:30 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -346,7 +346,7 @@ DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  tball/schedule\n\nOfficial schedule: https://goheels.com/sports/womens-bas
  ketball/schedule\n\nOui-Play Paris\n\nNational spotlight: matchup between 
  teams in the published contender pool.
-LAST-MODIFIED:20261102T133139Z
+LAST-MODIFIED:20261103T073553Z
 LOCATION:Adidas Arena • Paris\, France
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f82
@@ -379,29 +379,28 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Lehigh
 DTSTART;TZID=America/Los_Angeles:20261102T113000
 DTEND;TZID=America/Los_Angeles:20261102T134500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261103T073553Z
 UID:4a34b7b204b302a94dd62f36@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
- scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
- c): Mon Nov 02\, 2026 11:30 AM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Mon Nov 02
+ \, 2026 11:30 AM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://uclabruins.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261103T073553Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Cornell
 DTSTART;TZID=America/Los_Angeles:20261102T140000
 DTEND;TZID=America/Los_Angeles:20261102T161500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261103T073553Z
 UID:69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
   your Peacock Premium.\n\nTipoff (Pacific): Mon Nov 02\, 2026 02:00 PM PST
  \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
@@ -409,7 +408,7 @@ DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
  tv.com/sports/college-basketball\nLink check: reachable\; playback require
  s the appropriate login\n\nOfficial schedule: https://uconnhuskies.com/spo
  rts/womens-basketball/schedule/
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261103T073553Z
 LOCATION:Hartford\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/sports/college-basketball
@@ -418,16 +417,16 @@ BEGIN:VEVENT
 SUMMARY:USC vs UNLV
 DTSTART;TZID=America/Los_Angeles:20261102T130000
 DTEND;TZID=America/Los_Angeles:20261102T151500
-DTSTAMP:20261102T191700Z
+DTSTAMP:20261103T073553Z
 UID:ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: CBS Sports Network\n\nStreaming: CBS / CBS Sports Net
  work — additional access may be required. Paramount+ does not automatica
  lly include CBS Sports Network.\n\nTipoff (Pacific): Mon Nov 02\, 2026 01:
  00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA — no off
  icial streaming link has been published.\n\nOfficial schedule: https://usc
  trojans.com/sports/wbball/schedule\n\nHall of Fame Series - Las Vegas
-LAST-MODIFIED:20261102T191700Z
+LAST-MODIFIED:20261103T073553Z
 LOCATION:Las Vegas\, Nev.
 TRANSP:TRANSPARENT
 URL:https://usctrojans.com/sports/wbball/schedule
