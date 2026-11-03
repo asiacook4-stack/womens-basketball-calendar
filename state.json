@@ -6275,7 +6275,12 @@
       "start": "2026-11-04T00:00:00+00:00",
       "location": "Durham, N.C.",
       "network": "ACCNX",
-      "watch": [],
+      "watch": [
+        {
+          "label": "ACCNX",
+          "url": "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca"
+        }
+      ],
       "exhibition": false,
       "status": "SCHEDULED",
       "venue": "H",
@@ -6285,8 +6290,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-03T01:27:58.009020+00:00"
     },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6967,36 +6972,6 @@
       "uid": "23f513abf1dab2bfccff4462@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "b8f29b9659687301d7771420@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7858,30 +7833,35 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "NC State:24744"
+        "Maryland:22435"
       ],
       "teams": [
-        "NC State",
-        "Kentucky"
+        "Maryland",
+        "North Carolina"
       ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
       "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
       "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
+        "https://umterps.com/sports/womens-basketball/schedule"
       ],
       "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7907,46 +7887,161 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io": {
-      "hash": "4baca97416886a102228d6a0ff0586f93b200cfaae914d9d0919d746cbda85e4",
-      "first_seen": "2026-11-02T19:17:00.954233+00:00",
+    "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io": {
+      "hash": "15e1db90cb54e582ffb59f4197a4951ae3d3232d7473368f27afec34113a5f81",
+      "first_seen": "2026-11-03T01:27:58.009020+00:00",
       "candidate": {
         "source_ids": [
-          "Duke:25739"
+          "UConn:25768"
         ],
         "teams": [
-          "Duke",
-          "Green Bay"
+          "UConn",
+          "Cornell"
         ],
-        "date": "2026-11-03",
-        "start": "2026-11-04T00:00:00+00:00",
-        "location": "Durham, N.C.",
-        "network": "ACCNX",
-        "watch": [
-          {
-            "label": "ACCNX",
-            "url": "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca"
-          }
-        ],
+        "date": "2026-11-02",
+        "start": "2026-11-02T22:00:00+00:00",
+        "location": "Hartford, Conn.",
+        "network": "Peacock/NBCSN",
+        "watch": [],
         "exhibition": false,
-        "status": "SCHEDULED",
+        "status": "FULLTIME",
         "venue": "H",
         "note": "",
         "sources": [
-          "https://goduke.com/sports/womens-basketball/schedule"
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
         ],
         "coverage": "Full team schedule",
-        "uid": "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io",
+        "uid": "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
+    },
+    "4a34b7b204b302a94dd62f36@wbb.asiacook4-stack.github.io": {
+      "hash": "cd7050e5f46e83cd3b5ba15812139b12a21a53d617f94d47a50da26e540ba23c",
+      "first_seen": "2026-11-03T01:27:58.009020+00:00",
+      "candidate": {
+        "source_ids": [
+          "UCLA:19148"
+        ],
+        "teams": [
+          "UCLA",
+          "Lehigh"
+        ],
+        "date": "2026-11-02",
+        "start": "2026-11-02T19:30:00+00:00",
+        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
+        "network": "",
+        "watch": [],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://uclabruins.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "4a34b7b204b302a94dd62f36@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io": {
+      "hash": "825d76d5c692bc40cc8b23e8d92640fdcef445e94876c07d98ebb1e2e3951166",
+      "first_seen": "2026-11-03T01:27:58.009020+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35529"
+        ],
+        "teams": [
+          "USC",
+          "UNLV"
+        ],
+        "date": "2026-11-02",
+        "start": "2026-11-02T21:00:00+00:00",
+        "location": "Las Vegas, Nev.",
+        "network": "CBS Sports Network",
+        "watch": [],
+        "exhibition": false,
+        "status": "FULLTIME",
+        "venue": "N",
+        "note": "Hall of Fame Series - Las Vegas",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-02T19:17:00.954233+00:00"
+      }
+    },
+    "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io": {
+      "hash": "53cc46ed33033ce1c77a6bfb014fd842d71a50374ad14788c885ebb056ba2227",
+      "first_seen": "2026-11-03T01:27:58.009020+00:00",
+      "candidate": {
+        "source_ids": [
+          "Oklahoma:15824",
+          "North Carolina:27108"
+        ],
+        "teams": [
+          "Oklahoma",
+          "North Carolina"
+        ],
+        "date": "2026-11-02",
+        "start": "2026-11-02T19:30:00+00:00",
+        "location": "Adidas Arena • Paris, France",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05"
+          }
+        ],
+        "exhibition": false,
+        "status": "FULLTIME",
+        "venue": "N",
+        "note": "Oui-Play Paris",
+        "sources": [
+          "https://soonersports.com/sports/womens-basketball/schedule",
+          "https://goheels.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-02T13:31:39.523446+00:00"
+      }
     }
   },
-  "updated": "2026-11-02T19:17:00.954233+00:00",
+  "updated": "2026-11-03T01:27:58.009020+00:00",
   "missing_retained": [
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io"
   ]
