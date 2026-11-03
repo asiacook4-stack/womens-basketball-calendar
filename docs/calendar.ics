@@ -314,9 +314,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Southeastern Louisiana
 DTSTART;TZID=America/Los_Angeles:20261102T160000
 DTEND;TZID=America/Los_Angeles:20261102T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261103T132837Z
 UID:7bb39ff2bb04ded2fb22ea63@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with 
  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific
  ): Mon Nov 02\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\n
@@ -324,7 +324,7 @@ DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with
  -3870-48b4-8fdb-352ccea6391f\nLink check: reachable\; playback requires th
  e appropriate login\n\nOfficial schedule: https://lsusports.net/sports/wbb
  all/schedule/
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261103T132837Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea
@@ -435,9 +435,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Green Bay
 DTSTART;TZID=America/Los_Angeles:20261103T160000
 DTEND;TZID=America/Los_Angeles:20261103T181500
-DTSTAMP:20261103T012758Z
+DTSTAMP:20261103T132837Z
 UID:e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Tue
   Nov 03\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -445,7 +445,7 @@ DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
  234-c803ae2f26ca\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/
  schedule
-LAST-MODIFIED:20261103T012758Z
+LAST-MODIFIED:20261103T132837Z
 LOCATION:Durham\, N.C.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2
