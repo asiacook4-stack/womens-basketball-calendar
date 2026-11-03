@@ -340,7 +340,7 @@
       "network": "Peacock/NBCSN",
       "watch": [],
       "exhibition": false,
-      "status": "FULLTIME",
+      "status": "GAMECOMPLETE",
       "venue": "H",
       "note": "",
       "sources": [
@@ -348,8 +348,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-03T07:35:53.354069+00:00"
+      "sequence": 2,
+      "modified": "2026-11-03T19:15:58.398704+00:00"
     },
     "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -2758,7 +2758,7 @@
       "network": "CBS Sports Network",
       "watch": [],
       "exhibition": false,
-      "status": "FULLTIME",
+      "status": "GAMECOMPLETE",
       "venue": "N",
       "note": "Hall of Fame Series - Las Vegas",
       "sources": [
@@ -2766,8 +2766,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-03T07:35:53.354069+00:00"
+      "sequence": 3,
+      "modified": "2026-11-03T19:15:58.398704+00:00"
     },
     "1a486d25539a27ddc7b53e52@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7461,7 +7461,7 @@
         }
       ],
       "exhibition": false,
-      "status": "FULLTIME",
+      "status": "GAMECOMPLETE",
       "venue": "N",
       "note": "Oui-Play Paris",
       "sources": [
@@ -7470,8 +7470,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-03T07:35:53.354069+00:00"
+      "sequence": 3,
+      "modified": "2026-11-03T19:15:58.398704+00:00"
     },
     "fff9e7d22baaade27e44fd3b@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7828,6 +7828,31 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -7882,130 +7907,10 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io": {
-      "hash": "5af2f29d29dddbdfb97608a55f123481c9a74ab857330c7ee37539576a3431fd",
-      "first_seen": "2026-11-03T13:28:37.608745+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25768"
-        ],
-        "teams": [
-          "UConn",
-          "Cornell"
-        ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T22:00:00+00:00",
-        "location": "Hartford, Conn.",
-        "network": "Peacock/NBCSN",
-        "watch": [],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "H",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "69f8f839ceb1ab042eca5eb0@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-03T07:35:53.354069+00:00"
-      }
-    },
-    "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io": {
-      "hash": "24fb3bf8a81b4eb67859365d2d3448179adafee5a7a22c9d293afcdc6675279e",
-      "first_seen": "2026-11-03T13:28:37.608745+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35529"
-        ],
-        "teams": [
-          "USC",
-          "UNLV"
-        ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T21:00:00+00:00",
-        "location": "Las Vegas, Nev.",
-        "network": "CBS Sports Network",
-        "watch": [],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "N",
-        "note": "Hall of Fame Series - Las Vegas",
-        "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "ee6ae1f0813fc9955024d4af@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-03T07:35:53.354069+00:00"
-      }
-    },
-    "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io": {
-      "hash": "161438d1f417562c332581f2d19ac7c6d622f21f9d6d2be8021fd705e920746a",
-      "first_seen": "2026-11-03T13:28:37.608745+00:00",
-      "candidate": {
-        "source_ids": [
-          "Oklahoma:15824",
-          "North Carolina:27108"
-        ],
-        "teams": [
-          "Oklahoma",
-          "North Carolina"
-        ],
-        "date": "2026-11-02",
-        "start": "2026-11-02T19:30:00+00:00",
-        "location": "Adidas Arena • Paris, France",
-        "network": "ESPN2",
-        "watch": [
-          {
-            "label": "ESPN2",
-            "url": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05"
-          }
-        ],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "N",
-        "note": "Oui-Play Paris",
-        "sources": [
-          "https://soonersports.com/sports/womens-basketball/schedule",
-          "https://goheels.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-03T07:35:53.354069+00:00"
-      }
-    }
-  },
-  "updated": "2026-11-03T13:28:37.608745+00:00",
+  "pending": {},
+  "updated": "2026-11-03T19:15:58.398704+00:00",
   "missing_retained": [
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
