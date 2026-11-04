@@ -432,9 +432,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Green Bay
 DTSTART;TZID=America/Los_Angeles:20261103T160000
 DTEND;TZID=America/Los_Angeles:20261103T181500
-DTSTAMP:20261103T132837Z
+DTSTAMP:20261104T192149Z
 UID:e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Tue
   Nov 03\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -442,7 +442,7 @@ DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
  234-c803ae2f26ca\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/
  schedule
-LAST-MODIFIED:20261103T132837Z
+LAST-MODIFIED:20261104T192149Z
 LOCATION:Durham\, N.C.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2
