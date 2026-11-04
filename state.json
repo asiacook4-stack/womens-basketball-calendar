@@ -4794,39 +4794,33 @@
     },
     "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25601",
         "Texas:23172"
       ],
       "teams": [
-        "UConn",
-        "Texas"
+        "Texas",
+        "UConn"
       ],
       "date": "2026-10-19",
       "start": "2026-10-19T23:00:00+00:00",
       "location": "Hartford, Conn.",
-      "network": "WFSB/UConn+ / UConn+ ($)",
+      "network": "UConn+ ($)",
       "watch": [
-        {
-          "label": "WFSB/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7462"
-        },
         {
           "label": "UConn+ ($)",
           "url": "https://uconnhuskies.com/watch/purchase.aspx#register"
         }
       ],
       "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
+      "status": "SCHEDULED",
+      "venue": "A",
       "note": "",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/",
         "https://texaslonghorns.com/sports/womens-basketball/schedule"
       ],
       "coverage": "Full team schedule",
       "uid": "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-22T01:03:42.762423+00:00"
+      "sequence": 2,
+      "modified": "2026-11-04T13:29:46.729303+00:00"
     },
     "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7768,35 +7762,35 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "Maryland:22435"
+        "UConn:25767"
       ],
       "teams": [
-        "Maryland",
-        "North Carolina"
+        "UConn",
+        "Army"
       ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
       "watch": [
         {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
         }
       ],
-      "exhibition": false,
+      "exhibition": true,
       "status": "GAMECOMPLETE",
       "venue": "H",
-      "note": "Exhibition",
+      "note": "",
       "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
       ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
       "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7878,75 +7872,41 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25767"
+        "Maryland:22435"
       ],
       "teams": [
-        "UConn",
-        "Army"
+        "Maryland",
+        "North Carolina"
       ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
       "watch": [
         {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
         }
       ],
-      "exhibition": true,
+      "exhibition": false,
       "status": "GAMECOMPLETE",
       "venue": "H",
-      "note": "",
+      "note": "Exhibition",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        "https://umterps.com/sports/womens-basketball/schedule"
       ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
+      "modified": "2026-10-25T18:54:50.867818+00:00"
     }
   },
   "pending": {
-    "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io": {
-      "hash": "7e7c9cbfebed768120405c92f7a3a16e5f0e0b04ea7ba3a43c3930645775945c",
-      "first_seen": "2026-11-04T07:39:10.364071+00:00",
-      "candidate": {
-        "source_ids": [
-          "Texas:23172"
-        ],
-        "teams": [
-          "Texas",
-          "UConn"
-        ],
-        "date": "2026-10-19",
-        "start": "2026-10-19T23:00:00+00:00",
-        "location": "Hartford, Conn.",
-        "network": "UConn+ ($)",
-        "watch": [
-          {
-            "label": "UConn+ ($)",
-            "url": "https://uconnhuskies.com/watch/purchase.aspx#register"
-          }
-        ],
-        "exhibition": true,
-        "status": "SCHEDULED",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-22T01:03:42.762423+00:00"
-      }
-    },
     "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io": {
-      "hash": "a1ddfe0102c058bd1343878a183122f755838193fed4997bced8f83138b3554c",
-      "first_seen": "2026-11-04T07:39:10.364071+00:00",
+      "hash": "45274c70ac1fc497090fd42bacf28dc73c2d200de5dc9bafe769e5e8cfadf350",
+      "first_seen": "2026-11-04T13:29:46.729303+00:00",
       "candidate": {
         "source_ids": [
           "Duke:25739"
@@ -7966,7 +7926,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -7979,7 +7939,7 @@
       }
     }
   },
-  "updated": "2026-11-04T07:39:10.364071+00:00",
+  "updated": "2026-11-04T13:29:46.729303+00:00",
   "missing_retained": [
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",

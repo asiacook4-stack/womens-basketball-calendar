@@ -88,26 +88,23 @@ TRANSP:TRANSPARENT
 URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:UConn vs Texas [Exhibition]
+SUMMARY:Texas vs UConn [Exhibition]
 DTSTART;TZID=America/Los_Angeles:20261019T160000
 DTEND;TZID=America/Los_Angeles:20261019T181500
-DTSTAMP:20261022T010342Z
+DTSTAMP:20261104T132946Z
 UID:424e5b3b680c418c7e2d3f37@wbb.asiacook4-stack.github.io
-SEQUENCE:1
-DESCRIPTION:Network: WFSB/UConn+ / UConn+ ($)\n\nStreaming: UConn+ — sep
- arate service\; check event access requirements.\n\nTipoff (Pacific): Mon 
- Oct 19\, 2026 04:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nGame li
- nk — WFSB/UConn+: https://uconnhuskies.com/showcase?Live=7462\nLink chec
- k: reachable\; playback requires the appropriate login\n\nService / channe
- l page (not a game deep link) — UConn+ ($): https://uconnhuskies.com/wat
- ch/purchase.aspx#register\nLink check: reachable\; playback requires the a
- ppropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports/wom
- ens-basketball/schedule/\n\nOfficial schedule: https://texaslonghorns.com/
- sports/womens-basketball/schedule
-LAST-MODIFIED:20261022T010342Z
+SEQUENCE:2
+DESCRIPTION:Network: UConn+ ($)\n\nStreaming: UConn+ — separate service\
+ ; check event access requirements.\n\nTipoff (Pacific): Mon Oct 19\, 2026 
+ 04:00 PM PDT\n\nEnd time is an estimate (2h 15m).\n\nService / channel pag
+ e (not a game deep link) — UConn+ ($): https://uconnhuskies.com/watch/pu
+ rchase.aspx#register\nLink check: reachable\; playback requires the approp
+ riate login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens
+ -basketball/schedule
+LAST-MODIFIED:20261104T132946Z
 LOCATION:Hartford\, Conn.
 TRANSP:TRANSPARENT
-URL:https://uconnhuskies.com/showcase?Live=7462
+URL:https://uconnhuskies.com/watch/purchase.aspx#register
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs UNT Dallas [Exhibition]
