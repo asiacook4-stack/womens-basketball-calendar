@@ -7828,31 +7828,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -7883,6 +7858,31 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "South Carolina:Albany-home"
@@ -7909,8 +7909,43 @@
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-11-03T19:15:58.398704+00:00",
+  "pending": {
+    "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io": {
+      "hash": "1c2066651d2aae15876bf2bd9009691199d15486779da3d18d8725b38827f6ba",
+      "first_seen": "2026-11-04T01:27:32.936252+00:00",
+      "candidate": {
+        "source_ids": [
+          "Duke:25739"
+        ],
+        "teams": [
+          "Duke",
+          "Green Bay"
+        ],
+        "date": "2026-11-03",
+        "start": "2026-11-04T00:00:00+00:00",
+        "location": "Durham, N.C.",
+        "network": "ACCNX",
+        "watch": [
+          {
+            "label": "ACCNX",
+            "url": "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca"
+          }
+        ],
+        "exhibition": false,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://goduke.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-11-03T13:28:37.608745+00:00"
+      }
+    }
+  },
+  "updated": "2026-11-04T01:27:32.936252+00:00",
   "missing_retained": [
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
