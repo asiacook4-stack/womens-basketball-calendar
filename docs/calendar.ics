@@ -452,9 +452,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs FDU
 DTSTART;TZID=America/Los_Angeles:20261104T170000
 DTEND;TZID=America/Los_Angeles:20261104T191500
-DTSTAMP:20261027T011038Z
+DTSTAMP:20261105T191755Z
 UID:d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
   Nov 04\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -462,7 +462,7 @@ DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  ddc-f01591ae0410\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-bas
  ketball/schedule
-LAST-MODIFIED:20261027T011038Z
+LAST-MODIFIED:20261105T191755Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591a
