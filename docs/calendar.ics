@@ -657,20 +657,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Utah State
 DTSTART;TZID=America/Los_Angeles:20261108T170000
 DTEND;TZID=America/Los_Angeles:20261108T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:d3273d941e5717e182313909@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Sun Nov 08\, 2026 05:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534\nLink
+  check: reachable\; playback requires the appropriate login\n\nOfficial sc
+ hedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/utah-state-aggies-
+ vs-usc-trojans-nov-08-2026-game-boxscore-389534
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs McNeese
@@ -714,20 +716,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs College of Charleston
 DTSTART;TZID=America/Los_Angeles:20261110T193000
 DTEND;TZID=America/Los_Angeles:20261110T214500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:37050141d9b7fc552c7230af@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Tue Nov 10\, 2026 07:30 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659\nLin
+ k check: reachable\; playback requires the appropriate login\n\nOfficial s
+ chedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/charleston-cougars
+ -vs-usc-trojans-nov-10-2026-game-boxscore-389659
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs South Dakota State
@@ -1175,22 +1179,24 @@ BEGIN:VEVENT
 SUMMARY:USC vs Baylor
 DTSTART;TZID=America/Los_Angeles:20261120T200000
 DTEND;TZID=America/Los_Angeles:20261120T221500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Fri Nov 20\, 2026 08:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: h
- ttps://baylorbears.com/sports/womens-basketball/schedule\n\nHollywood Hard
- wood Classic
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173\nLink chec
+ k: reachable\; playback requires the appropriate login\n\nOfficial schedul
+ e: https://usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: htt
+ ps://baylorbears.com/sports/womens-basketball/schedule\n\nHollywood Hardwo
+ od Classic
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Inglewood\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-us
+ c-trojans-nov-20-2026-game-boxscore-390173
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Columbia
@@ -1295,19 +1301,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Northern Arizona
 DTSTART;TZID=America/Los_Angeles:20261123T190000
 DTEND;TZID=America/Los_Angeles:20261123T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:6537d751b97a22467c69d767@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Mon 
  Nov 23\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.foxsports.com
+ /womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov
+ -23-2026-game-boxscore-390287\nLink check: reachable\; playback requires t
+ he appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/w
+ bball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/northern-arizona-l
+ umberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Davidson
@@ -1440,19 +1449,20 @@ BEGIN:VEVENT
 SUMMARY:USC vs Saint Joseph's
 DTSTART;TZID=America/Los_Angeles:20261127T103000
 DTEND;TZID=America/Los_Angeles:20261127T124500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: BDG Live\n\nStreaming: BDG Live — separate event pl
  atform\; confirm price and access on the official listing.\n\nTipoff (Paci
  fic): Fri Nov 27\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h 15m).\
- n\nWatch URL TBA — no official streaming link has been published.\n\nOff
- icial schedule: https://usctrojans.com/sports/wbball/schedule\n\nBaha Mar 
- Hoops Nassau Championship
-LAST-MODIFIED:20261019T235708Z
+ n\nService / channel page (not a game deep link) — BDG Live: https://www
+ .bdgsportslive.com/\nLink check: reachable\; playback requires the appropr
+ iate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sche
+ dule\n\nBaha Mar Hoops Nassau Championship
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Nassau\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://usctrojans.com/sports/wbball/schedule
+URL:https://www.bdgsportslive.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs NC State
@@ -1537,20 +1547,21 @@ BEGIN:VEVENT
 SUMMARY:USC vs Iowa State
 DTSTART;TZID=America/Los_Angeles:20261129T103000
 DTEND;TZID=America/Los_Angeles:20261129T124500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: BDG Live\n\nStreaming: BDG Live — separate event pl
  atform\; confirm price and access on the official listing.\n\nTipoff (Paci
  fic): Sun Nov 29\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h 15m).\
- n\nWatch URL TBA — no official streaming link has been published.\n\nOff
- icial schedule: https://usctrojans.com/sports/wbball/schedule\n\nOfficial 
- schedule: https://cyclones.com/sports/womens-basketball/schedule\n\nBaha M
- ar Hoops Nassau Championship
-LAST-MODIFIED:20261019T235708Z
+ n\nService / channel page (not a game deep link) — BDG Live: https://www
+ .bdgsportslive.com/\nLink check: reachable\; playback requires the appropr
+ iate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sche
+ dule\n\nOfficial schedule: https://cyclones.com/sports/womens-basketball/s
+ chedule\n\nBaha Mar Hoops Nassau Championship
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Nassau\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://usctrojans.com/sports/wbball/schedule
+URL:https://www.bdgsportslive.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs North Carolina
@@ -1720,20 +1731,19 @@ BEGIN:VEVENT
 SUMMARY:USC vs Washington
 DTSTART;TZID=America/Los_Angeles:20261205T150000
 DTEND;TZID=America/Los_Angeles:20261205T171500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:c5cd69ab769880bb01686587@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Sat Dec 05\, 2026 03:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Seattle\, Wash.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Virginia Tech
@@ -1852,19 +1862,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Grambling State
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:a21cd4b0a80d6fa3feb17bd3@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Tue 
  Dec 08\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.foxsports.com
+ /womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-
+ 08-2026-game-boxscore-390977\nLink check: reachable\; playback requires th
+ e appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wb
+ ball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/grambling-state-la
+ dy-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iowa State vs Iowa
@@ -2111,19 +2124,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Youngstown State
 DTSTART;TZID=America/Los_Angeles:20261213T140000
 DTEND;TZID=America/Los_Angeles:20261213T161500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:c45285f5f85eb8bf353e8b69@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Sun 
  Dec 13\, 2026 02:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.foxsports.com
+ /womens-college-basketball/youngstown-state-penguins-vs-usc-trojans-dec-13
+ -2026-game-boxscore-391153\nLink check: reachable\; playback requires the 
+ appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
+ ll/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/youngstown-state-p
+ enguins-vs-usc-trojans-dec-13-2026-game-boxscore-391153
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Stonehill
@@ -2322,21 +2338,23 @@ BEGIN:VEVENT
 SUMMARY:USC vs Notre Dame
 DTSTART;TZID=America/Los_Angeles:20261219T200000
 DTEND;TZID=America/Los_Angeles:20261219T221500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:5936bfee4ed553bef08c9516@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sat 
  Dec 19\, 2026 08:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
   / channel page (not a game deep link) — ESPN: https://www.espn.com/watc
- h/\nLink check: reachable\; playback requires the appropriate login\n\nOff
- icial schedule: https://usctrojans.com/sports/wbball/schedule\n\nOfficial 
- schedule: https://fightingirish.com/sports/wbball/schedule/\n\nPlayers Era
-  Showcase
-LAST-MODIFIED:20261019T235708Z
+ h/schedule/_/type/upcoming\nLink check: reachable\; playback requires the 
+ appropriate login\n\nService / channel page (not a game deep link) — ESP
+ N: https://www.espn.com/watch/\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/
+ wbball/schedule\n\nOfficial schedule: https://fightingirish.com/sports/wbb
+ all/schedule/\n\nPlayers Era Showcase
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Las Vegas\, Nev.
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/schedule/_/type/upcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs South Carolina
@@ -2404,21 +2422,21 @@ BEGIN:VEVENT
 SUMMARY:USC vs Duke
 DTSTART;TZID=America/Los_Angeles:20261220T190000
 DTEND;TZID=America/Los_Angeles:20261220T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:7a19c8f83ad34576b0a10cf9@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Dec 20\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN watch directory: https://w
- ww.espn.com/watch/\nLink check: reachable\; playback requires the appropri
- ate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sched
- ule\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/sche
- dule\n\nPlayers Era Showcase
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — ESPN: https://www.espn.com/watc
+ h/schedule/_/type/upcoming\nLink check: reachable\; playback requires the 
+ appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
+ ll/schedule\n\nOfficial schedule: https://goduke.com/sports/womens-basketb
+ all/schedule\n\nPlayers Era Showcase
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Las Vegas\, Nev.
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/schedule/_/type/upcoming
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Villanova
@@ -2537,20 +2555,19 @@ BEGIN:VEVENT
 SUMMARY:USC vs Wisconsin
 DTSTART;TZID=America/Los_Angeles:20261229T120000
 DTEND;TZID=America/Los_Angeles:20261229T141500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:1dbd0ddb0cde1a200d920d63@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Tue Dec 29\, 2026 12:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Madison\, Wis.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TCU vs Iowa State
@@ -2772,19 +2789,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Northwestern
 DTSTART;TZID=America/Los_Angeles:20270102T140000
 DTEND;TZID=America/Los_Angeles:20270102T161500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:e18ff4ea34c91fe19302ea96@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Sat 
  Jan 02\, 2027 02:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.foxsports.com
+ /womens-college-basketball/northwestern-wildcats-vs-usc-trojans-jan-02-202
+ 7-game-boxscore-391862\nLink check: reachable\; playback requires the appr
+ opriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/s
+ chedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/northwestern-wildc
+ ats-vs-usc-trojans-jan-02-2027-game-boxscore-391862
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs NC State
@@ -2928,20 +2948,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Nebraska
 DTSTART;TZID=America/Los_Angeles:20270105T190000
 DTEND;TZID=America/Los_Angeles:20270105T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:7300bd4d2001e1d1c7d6716f@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Tue Jan 05\, 2027 07:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960\nL
+ ink check: reachable\; playback requires the appropriate login\n\nOfficial
+  schedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/nebraska-cornhuske
+ rs-vs-usc-trojans-jan-05-2027-game-boxscore-391960
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Texas A&M
@@ -3079,21 +3101,20 @@ BEGIN:VEVENT
 SUMMARY:USC vs Maryland
 DTSTART;TZID=America/Los_Angeles:20270108T170000
 DTEND;TZID=America/Los_Angeles:20270108T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:7af9bc28a5a5636395f859ed@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Fri Jan 08\, 2027 05:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule\n\nOfficial schedule: https://umterps.com/sports/womens-basket
- ball/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule\n\nOfficial schedule: https://umterps.com/
+ sports/womens-basketball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:College Park\, Md.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Florida
@@ -3236,20 +3257,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Rutgers
 DTSTART;TZID=America/Los_Angeles:20270111T160000
 DTEND;TZID=America/Los_Angeles:20270111T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:2c5abb9aa28592ce01ed6706@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Mon Jan 11\, 2027 04:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263
+ \nLink check: reachable\; playback requires the appropriate login\n\nOffic
+ ial schedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Piscataway\, N.J.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rut
+ gers-scarlet-knights-jan-11-2027-game-boxscore-392263
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Minnesota
@@ -3429,19 +3452,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Minnesota
 DTSTART;TZID=America/Los_Angeles:20270115T190000
 DTEND;TZID=America/Los_Angeles:20270115T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:1efeb26578a10520b80efacb@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: BIG+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Fri 
  Jan 15\, 2027 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — BIG+: https://www.foxsports.com
+ /womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-
+ 2027-game-boxscore-392406\nLink check: reachable\; playback requires the a
+ ppropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbbal
+ l/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/minnesota-golden-g
+ ophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Stanford
@@ -3584,20 +3610,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Penn State
 DTSTART;TZID=America/Los_Angeles:20270118T130000
 DTEND;TZID=America/Los_Angeles:20270118T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:072fe4b3c93e96491f96154f@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Mon Jan 18\, 2027 01:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/penn-state-lady-lions-vs-usc-trojans-jan-18-2027-game-boxscore-392562\n
+ Link check: reachable\; playback requires the appropriate login\n\nOfficia
+ l schedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/penn-state-lady-li
+ ons-vs-usc-trojans-jan-18-2027-game-boxscore-392562
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Boston College
@@ -3854,38 +3882,40 @@ BEGIN:VEVENT
 SUMMARY:USC vs Purdue
 DTSTART;TZID=America/Los_Angeles:20270124T090000
 DTEND;TZID=America/Los_Angeles:20270124T111500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:15ea414e14d09ce62707502d@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Sun 
  Jan 24\, 2027 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — B1G+ service page: https://www.
- bigtenplus.com/\nLink check: reachable\; playback requires the appropriate
-  login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+  / channel page (not a game deep link) — B1G+: https://www.foxsports.com
+ /womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-
+ game-boxscore-392828\nLink check: reachable\; playback requires the approp
+ riate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sch
+ edule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:West Lafayette\, Ind.
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-pur
+ due-boilermakers-jan-24-2027-game-boxscore-392828
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Indiana
 DTSTART;TZID=America/Los_Angeles:20270127T160000
 DTEND;TZID=America/Los_Angeles:20270127T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:ec2372e6fe2017f3f3224c68@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Wed Jan 27\, 2027 04:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Bloomington\, Ind.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Florida State
@@ -4067,21 +4097,23 @@ BEGIN:VEVENT
 SUMMARY:USC vs Michigan
 DTSTART;TZID=America/Los_Angeles:20270130T143000
 DTEND;TZID=America/Los_Angeles:20270130T164500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:a886cec03f790fb39f2dac33@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FOX / Fox\n\nStreaming: FOX Sports / FOX One or a qua
  lifying TV provider — additional access required\; verify channel availa
  bility.\n\nTipoff (Pacific): Sat Jan 30\, 2027 02:30 PM PST\n\nEnd time is
   an estimate (2h 15m).\n\nService / channel page (not a game deep link) 
- — FOX Sports live directory: https://www.foxsports.com/live\nLink check:
-  reachable\; playback requires the appropriate login\n\nOfficial schedule:
-  https://usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: https
- ://mgoblue.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ — FOX: https://www.foxsports.com/womens-college-basketball/michigan-wolv
+ erines-vs-usc-trojans-jan-30-2027-game-boxscore-393065\nLink check: reacha
+ ble\; playback requires the appropriate login\n\nOfficial schedule: https:
+ //usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: https://mgob
+ lue.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/michigan-wolverine
+ s-vs-usc-trojans-jan-30-2027-game-boxscore-393065
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs North Carolina
@@ -4203,20 +4235,19 @@ BEGIN:VEVENT
 SUMMARY:USC vs Illinois
 DTSTART;TZID=America/Los_Angeles:20270202T190000
 DTEND;TZID=America/Los_Angeles:20270202T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:7490e7f6b4afcd40261811a4@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Tue Feb 02\, 2027 07:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Kentucky
@@ -4418,18 +4449,21 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs USC
 DTSTART;TZID=America/Los_Angeles:20270207T170000
 DTEND;TZID=America/Los_Angeles:20270207T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:e2c576aecae98fb183a5d956@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FOX\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Sun Feb 07\, 2027 05:00 PM PST\n\nEnd time is an es
  timate (2h 15m).\n\nService / channel page (not a game deep link) — FOX_
  logo.png: https://www.foxsports.com/live/\nLink check: reachable\; playbac
- k requires the appropriate login\n\nOfficial schedule: https://uclabruins.
- com/sports/womens-basketball/schedule\n\nOfficial schedule: https://usctro
- jans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ k requires the appropriate login\n\nService / channel page (not a game dee
+ p link) — FOX: https://www.foxsports.com/womens-college-basketball/usc-t
+ rojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422\nLink check: reacha
+ ble\; playback requires the appropriate login\n\nOfficial schedule: https:
+ //uclabruins.com/sports/womens-basketball/schedule\n\nOfficial schedule: h
+ ttps://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
@@ -4632,27 +4666,29 @@ BEGIN:VEVENT
 SUMMARY:USC vs Iowa
 DTSTART;TZID=America/Los_Angeles:20270211T160000
 DTEND;TZID=America/Los_Angeles:20270211T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:c3ee7f1d89b832e5d920c089@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  OX One or a qualifying TV provider — additional access required\; verify
   channel availability.\n\nTipoff (Pacific): Thu Feb 11\, 2027 04:00 PM PST
  \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
- e deep link) — Fox One Logo: https://www.fox.com/sports/football/college
- -football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_
- th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B\nLink check: reachable\; pla
- yback requires the appropriate login\n\nService / channel page (not a game
-  deep link) — FS1: https://www.foxsports.com/live\nLink check: reachable
- \; playback requires the appropriate login\n\nOfficial schedule: https://u
- sctrojans.com/sports/wbball/schedule\n\nOfficial schedule: https://hawkeye
- sports.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ e deep link) — FS1: https://www.foxsports.com/womens-college-basketball/
+ usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502\nLink check:
+  reachable\; playback requires the appropriate login\n\nService / channel 
+ page (not a game deep link) — Fox One Logo: https://www.fox.com/sports/f
+ ootball/college-football?cmpid=org=one::ag=partnership::mc=referral::src=U
+ OI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B\nLink check: 
+ reachable\; playback requires the appropriate login\n\nService / channel p
+ age (not a game deep link) — FS1: https://www.foxsports.com/live\nLink c
+ heck: reachable\; playback requires the appropriate login\n\nOfficial sche
+ dule: https://usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: 
+ https://hawkeyesports.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Iowa City\, Iowa
 TRANSP:TRANSPARENT
-URL:https://www.fox.com/sports/football/college-football?cmpid=org=one::ag
- =partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_2
- 9_08_00_41_00_02_B
+URL:https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iow
+ a-hawkeyes-feb-11-2027-game-boxscore-393502
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Xavier
@@ -4900,20 +4936,19 @@ BEGIN:VEVENT
 SUMMARY:USC vs Michigan State
 DTSTART;TZID=America/Los_Angeles:20270218T190000
 DTEND;TZID=America/Los_Angeles:20270218T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:fc151d5e477c15797f8abc23@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Thu Feb 18\, 2027 07:00 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock college basketball directory: https://www.peacocktv.com
- /sports/college-basketball\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/wbba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  link) — Peacock: https://www.peacocktv.com/\nLink check: reachable\; pl
+ ayback requires the appropriate login\n\nOfficial schedule: https://usctro
+ jans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports/college-basketball
+URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Wake Forest
@@ -5096,21 +5131,23 @@ BEGIN:VEVENT
 SUMMARY:USC vs Ohio State
 DTSTART;TZID=America/Los_Angeles:20270221T130000
 DTEND;TZID=America/Los_Angeles:20270221T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:c79cc503e33fe6b22af061bf@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: NBC\n\nStreaming: Streaming access not confirmed\; se
  e official schedule. Your ESPN Unlimited and Peacock subscriptions do not 
  cover every network.\n\nTipoff (Pacific): Sun Feb 21\, 2027 01:00 PM PST\n
  \nEnd time is an estimate (2h 15m).\n\nService / channel page (not a game 
- deep link) — NBC: https://www.nbc.com/\nLink check: reachable\; playback
-  requires the appropriate login\n\nOfficial schedule: https://usctrojans.c
- om/sports/wbball/schedule\n\nOfficial schedule: https://ohiostatebuckeyes.
- com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ deep link) — NBC: https://www.nbc.com/live?brand=nbc\nLink check: reacha
+ ble\; playback requires the appropriate login\n\nService / channel page (n
+ ot a game deep link) — NBC: https://www.nbc.com/\nLink check: reachable\
+ ; playback requires the appropriate login\n\nOfficial schedule: https://us
+ ctrojans.com/sports/wbball/schedule\n\nOfficial schedule: https://ohiostat
+ ebuckeyes.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
-URL:https://www.nbc.com/
+URL:https://www.nbc.com/live?brand=nbc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs SMU
@@ -5216,17 +5253,19 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs USC
 DTSTART;TZID=America/Los_Angeles:20270225T183000
 DTEND;TZID=America/Los_Angeles:20270225T204500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:b3329adf65350899e9904e96@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
  Peacock Premium.\n\nTipoff (Pacific): Thu Feb 25\, 2027 06:30 PM PST\n\nEn
  d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
   link) — Peacock logo: https://www.peacocktv.com/sports\nLink check: rea
- chable\; playback requires the appropriate login\n\nOfficial schedule: htt
- ps://uclabruins.com/sports/womens-basketball/schedule\n\nOfficial schedule
- : https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ chable\; playback requires the appropriate login\n\nService / channel page
+  (not a game deep link) — Peacock: https://www.peacocktv.com/\nLink chec
+ k: reachable\; playback requires the appropriate login\n\nOfficial schedul
+ e: https://uclabruins.com/sports/womens-basketball/schedule\n\nOfficial sc
+ hedule: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Los Angeles\, Calif. / Galen Center
 TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/sports
@@ -5438,19 +5477,21 @@ BEGIN:VEVENT
 SUMMARY:USC vs Oregon
 DTSTART;TZID=America/Los_Angeles:20270228T130000
 DTEND;TZID=America/Los_Angeles:20270228T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T074059Z
 UID:52c04683e922c65b4a24adab@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Sun Feb 28\, 2027 01:00 PM PST\n\nEnd t
  ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — FOX Sports live directory: https://www.foxsports.com/live\nLink ch
- eck: reachable\; playback requires the appropriate login\n\nOfficial sched
- ule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ nk) — Big Ten Network: https://www.foxsports.com/womens-college-basketba
+ ll/usc-trojans-vs-oregon-ducks-feb-28-2027-game-boxscore-394314\nLink chec
+ k: reachable\; playback requires the appropriate login\n\nOfficial schedul
+ e: https://usctrojans.com/sports/wbball/schedule
+LAST-MODIFIED:20261105T074059Z
 LOCATION:Eugene\, Ore.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ore
+ gon-ducks-feb-28-2027-game-boxscore-394314
 END:VEVENT
 END:VCALENDAR
