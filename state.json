@@ -20,7 +20,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "A",
       "note": "",
       "sources": [
@@ -29,8 +29,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-05T01:30:08.693970+00:00"
+      "sequence": 2,
+      "modified": "2026-11-05T13:35:34.899319+00:00"
     },
     "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7902,31 +7902,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -7956,36 +7931,6 @@
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8041,48 +7986,67 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io": {
-      "hash": "2cedecc45939c250924fcaf202a5936fc26d70c7583ee3a25bbacac59a2e0216",
-      "first_seen": "2026-11-05T07:40:59.925367+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25602",
-          "Michigan:30933"
-        ],
-        "teams": [
-          "UConn",
-          "Michigan"
-        ],
-        "date": "2026-11-05",
-        "start": "2026-11-05T23:30:00+00:00",
-        "location": "Ann Arbor, Mich.",
-        "network": "FS1",
-        "watch": [
-          {
-            "label": "FS1",
-            "url": "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368"
-          }
-        ],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
-          "https://mgoblue.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-05T01:30:08.693970+00:00"
-      }
-    },
     "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io": {
-      "hash": "878c8a8b5e799700287f9a2dfb22c82e534a4fb62673ea6cd219eef204e392f6",
-      "first_seen": "2026-11-05T07:40:59.925367+00:00",
+      "hash": "b85ceaec24f722a1262017cb3fcd0e9fa1af011fc2684e6b71cd07714193e3fe",
+      "first_seen": "2026-11-05T13:35:34.899319+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23174"
@@ -8102,7 +8066,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8115,7 +8079,7 @@
       }
     }
   },
-  "updated": "2026-11-05T07:40:59.925367+00:00",
+  "updated": "2026-11-05T13:35:34.899319+00:00",
   "missing_retained": [
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
