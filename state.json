@@ -13,7 +13,12 @@
       "start": "2026-11-05T23:30:00+00:00",
       "location": "Ann Arbor, Mich.",
       "network": "FS1",
-      "watch": [],
+      "watch": [
+        {
+          "label": "FS1",
+          "url": "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368"
+        }
+      ],
       "exhibition": false,
       "status": "SCHEDULED",
       "venue": "A",
@@ -24,8 +29,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-05T01:30:08.693970+00:00"
     },
     "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -4921,7 +4926,7 @@
         "Tarleton State"
       ],
       "date": "2026-11-14",
-      "start": null,
+      "start": "2026-11-14T18:00:00+00:00",
       "location": "Austin, Texas",
       "network": "SECN+",
       "watch": [
@@ -4939,8 +4944,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-05T01:30:08.693970+00:00"
     },
     "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7762,6 +7767,31 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -7791,61 +7821,6 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7877,88 +7852,344 @@
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "NC State:24744"
+        "Maryland:22435"
       ],
       "teams": [
-        "NC State",
-        "Kentucky"
+        "Maryland",
+        "North Carolina"
       ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
       "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
       "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
+        "https://umterps.com/sports/womens-basketball/schedule"
       ],
       "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io": {
-      "hash": "f2e3ea13225e2f2a031843c08610e745df1c6875da10e5d614dbdbf982da588d",
-      "first_seen": "2026-11-04T19:21:49.030802+00:00",
+    "e2c576aecae98fb183a5d956@wbb.asiacook4-stack.github.io": {
+      "hash": "6598522c39f9491c6c35a46492da9a2aa2e3fecfdf6f7bb84925b9141e81c0ef",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
       "candidate": {
         "source_ids": [
-          "UConn:25602",
-          "Michigan:30933"
+          "UCLA:19390",
+          "USC:35642"
         ],
         "teams": [
-          "UConn",
-          "Michigan"
+          "UCLA",
+          "USC"
         ],
-        "date": "2026-11-05",
-        "start": "2026-11-05T23:30:00+00:00",
-        "location": "Ann Arbor, Mich.",
-        "network": "FS1",
+        "date": "2027-02-07",
+        "start": "2027-02-08T01:00:00+00:00",
+        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
+        "network": "FOX",
         "watch": [
           {
-            "label": "FS1",
-            "url": "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368"
+            "label": "FOX_logo.png",
+            "url": "https://www.foxsports.com/live/"
+          },
+          {
+            "label": "FOX",
+            "url": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422"
           }
         ],
         "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "A",
+        "status": "as_scheduled",
+        "venue": "home",
         "note": "",
         "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
-          "https://mgoblue.com/sports/womens-basketball/schedule"
+          "https://uclabruins.com/sports/womens-basketball/schedule",
+          "https://usctrojans.com/sports/wbball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io",
+        "uid": "e2c576aecae98fb183a5d956@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     },
-    "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io": {
-      "hash": "327090f097b22fac248b46cdfbd04697641542b19a30851a7a7f3fe27fd00984",
-      "first_seen": "2026-11-04T19:21:49.030802+00:00",
+    "b3329adf65350899e9904e96@wbb.asiacook4-stack.github.io": {
+      "hash": "24cadc223f789dabc524c7c2970998a36652adc8cd0ed58a10b2fe31cb939998",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23177"
+          "UCLA:19395",
+          "USC:35646"
         ],
         "teams": [
-          "Texas",
-          "Tarleton State"
+          "UCLA",
+          "USC"
         ],
-        "date": "2026-11-14",
-        "start": "2026-11-14T18:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "SECN+",
+        "date": "2027-02-25",
+        "start": "2027-02-26T02:30:00+00:00",
+        "location": "Los Angeles, Calif. / Galen Center",
+        "network": "Peacock",
         "watch": [
           {
-            "label": "SECN+",
-            "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+            "label": "Peacock logo",
+            "url": "https://www.peacocktv.com/sports"
+          },
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "away",
+        "note": "",
+        "sources": [
+          "https://uclabruins.com/sports/womens-basketball/schedule",
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "b3329adf65350899e9904e96@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "5936bfee4ed553bef08c9516@wbb.asiacook4-stack.github.io": {
+      "hash": "4aaca29e9374adf5187c42e717e04792bb7ec6bfbb4ca79c6b8cbfe9ef6d30cd",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35532",
+          "Notre Dame:20939"
+        ],
+        "teams": [
+          "USC",
+          "Notre Dame"
+        ],
+        "date": "2026-12-19",
+        "start": "2026-12-20T04:00:00+00:00",
+        "location": "Las Vegas, Nev.",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/schedule/_/type/upcoming"
+          },
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "Players Era Showcase",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://fightingirish.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "5936bfee4ed553bef08c9516@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "7a19c8f83ad34576b0a10cf9@wbb.asiacook4-stack.github.io": {
+      "hash": "a4d52399a037807e8c6c27d8e4122726c6aacca61417b5187424b93e94277943",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35533",
+          "Duke:25749"
+        ],
+        "teams": [
+          "USC",
+          "Duke"
+        ],
+        "date": "2026-12-20",
+        "start": "2026-12-21T03:00:00+00:00",
+        "location": "Las Vegas, Nev.",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/schedule/_/type/upcoming"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "Players Era Showcase",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://goduke.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "7a19c8f83ad34576b0a10cf9@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io": {
+      "hash": "26f3b407245b191a1772bc6fc8be1c8896e3c8928001c14462f9df9bfc2e3d96",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35544"
+        ],
+        "teams": [
+          "USC",
+          "Saint Joseph's"
+        ],
+        "date": "2026-11-27",
+        "start": "2026-11-27T18:30:00+00:00",
+        "location": "Nassau, Bahamas",
+        "network": "BDG Live",
+        "watch": [
+          {
+            "label": "BDG Live",
+            "url": "https://www.bdgsportslive.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "Baha Mar Hoops Nassau Championship",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io": {
+      "hash": "e9e9e036cfdf4341d4c764442c32959d7b27c811ab6dde5a76ead32a28c0635a",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35545",
+          "Iowa State:18918"
+        ],
+        "teams": [
+          "USC",
+          "Iowa State"
+        ],
+        "date": "2026-11-29",
+        "start": "2026-11-29T18:30:00+00:00",
+        "location": "Nassau, Bahamas",
+        "network": "BDG Live",
+        "watch": [
+          {
+            "label": "BDG Live",
+            "url": "https://www.bdgsportslive.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "Baha Mar Hoops Nassau Championship",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://cyclones.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io": {
+      "hash": "bd7aafd51e55bfdda9713b9f33878178adb7a459ee6a085f2a884f9fc55febf6",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35619",
+          "Baylor:30099"
+        ],
+        "teams": [
+          "USC",
+          "Baylor"
+        ],
+        "date": "2026-11-20",
+        "start": "2026-11-21T04:00:00+00:00",
+        "location": "Inglewood, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "Hollywood Hardwood Classic",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://baylorbears.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "d3273d941e5717e182313909@wbb.asiacook4-stack.github.io": {
+      "hash": "5265459766ff6a4c6479e2c49994dae7e9fa92c1c41651490b9e6b617d9cbcba",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35624"
+        ],
+        "teams": [
+          "USC",
+          "Utah State"
+        ],
+        "date": "2026-11-08",
+        "start": "2026-11-09T01:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534"
           }
         ],
         "exhibition": false,
@@ -7966,16 +8197,750 @@
         "venue": "H",
         "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+          "https://usctrojans.com/sports/wbball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
+        "uid": "d3273d941e5717e182313909@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
+    },
+    "37050141d9b7fc552c7230af@wbb.asiacook4-stack.github.io": {
+      "hash": "a95be59b677d3777952b1c2c5d2a17a30afbfbcf74aaca70acd04150e0b6c2cc",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35625"
+        ],
+        "teams": [
+          "USC",
+          "College of Charleston"
+        ],
+        "date": "2026-11-10",
+        "start": "2026-11-11T03:30:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "37050141d9b7fc552c7230af@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "6537d751b97a22467c69d767@wbb.asiacook4-stack.github.io": {
+      "hash": "0f0b626fb98c6085eba119a8bfc8a2c115716e9291cb15a930001ddaa06519ca",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35626"
+        ],
+        "teams": [
+          "USC",
+          "Northern Arizona"
+        ],
+        "date": "2026-11-23",
+        "start": "2026-11-24T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.foxsports.com/womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "6537d751b97a22467c69d767@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "a21cd4b0a80d6fa3feb17bd3@wbb.asiacook4-stack.github.io": {
+      "hash": "9c42a1688b2c9e28871fb02019aa14bc1cb45aba9c0cae34effc071a194dc1dc",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35627"
+        ],
+        "teams": [
+          "USC",
+          "Grambling State"
+        ],
+        "date": "2026-12-08",
+        "start": "2026-12-09T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.foxsports.com/womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "a21cd4b0a80d6fa3feb17bd3@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "c45285f5f85eb8bf353e8b69@wbb.asiacook4-stack.github.io": {
+      "hash": "fbb0c139b83f849afe52aa5dff233c689c2e954a7f57f0353ffa8c0e9537020a",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35628"
+        ],
+        "teams": [
+          "USC",
+          "Youngstown State"
+        ],
+        "date": "2026-12-13",
+        "start": "2026-12-13T22:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.foxsports.com/womens-college-basketball/youngstown-state-penguins-vs-usc-trojans-dec-13-2026-game-boxscore-391153"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "c45285f5f85eb8bf353e8b69@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "c5cd69ab769880bb01686587@wbb.asiacook4-stack.github.io": {
+      "hash": "fc833418ab13cdfaebd9819ccf49581d4cdd369d5bdbdb02ac5971ccc930a492",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35630"
+        ],
+        "teams": [
+          "USC",
+          "Washington"
+        ],
+        "date": "2026-12-05",
+        "start": "2026-12-05T23:00:00+00:00",
+        "location": "Seattle, Wash.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "c5cd69ab769880bb01686587@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "1dbd0ddb0cde1a200d920d63@wbb.asiacook4-stack.github.io": {
+      "hash": "763da3d096b25689fd26585aea4917fa9dbba329d68e6db7b5a02077c214f15a",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35631"
+        ],
+        "teams": [
+          "USC",
+          "Wisconsin"
+        ],
+        "date": "2026-12-29",
+        "start": "2026-12-29T20:00:00+00:00",
+        "location": "Madison, Wis.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "1dbd0ddb0cde1a200d920d63@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "e18ff4ea34c91fe19302ea96@wbb.asiacook4-stack.github.io": {
+      "hash": "4c442a9c0e981cab6103559e69c8037e0a06cb3f56675c539f0f58907a4d5e37",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35632"
+        ],
+        "teams": [
+          "USC",
+          "Northwestern"
+        ],
+        "date": "2027-01-02",
+        "start": "2027-01-02T22:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.foxsports.com/womens-college-basketball/northwestern-wildcats-vs-usc-trojans-jan-02-2027-game-boxscore-391862"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "e18ff4ea34c91fe19302ea96@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "7300bd4d2001e1d1c7d6716f@wbb.asiacook4-stack.github.io": {
+      "hash": "e909d5d8cf455e31b84104ec387c1b2cce829508951473d2ac6319741660f105",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35633"
+        ],
+        "teams": [
+          "USC",
+          "Nebraska"
+        ],
+        "date": "2027-01-05",
+        "start": "2027-01-06T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "7300bd4d2001e1d1c7d6716f@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "7af9bc28a5a5636395f859ed@wbb.asiacook4-stack.github.io": {
+      "hash": "d5ee2ab006737ed9e0b585685b85cee99529f5b8d383aca64a060f91c16a5697",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35634",
+          "Maryland:22460"
+        ],
+        "teams": [
+          "USC",
+          "Maryland"
+        ],
+        "date": "2027-01-08",
+        "start": "2027-01-09T01:00:00+00:00",
+        "location": "College Park, Md.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://umterps.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "7af9bc28a5a5636395f859ed@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "2c5abb9aa28592ce01ed6706@wbb.asiacook4-stack.github.io": {
+      "hash": "60a8209f73e2e28d7050530ad3e3949256e59ba14c2861c1cc316a30a5225e3a",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35635"
+        ],
+        "teams": [
+          "USC",
+          "Rutgers"
+        ],
+        "date": "2027-01-11",
+        "start": "2027-01-12T00:00:00+00:00",
+        "location": "Piscataway, N.J.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "2c5abb9aa28592ce01ed6706@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "1efeb26578a10520b80efacb@wbb.asiacook4-stack.github.io": {
+      "hash": "06134186f4d213b095b8dc521b8a17d041a2d2a989d06a025ca0708d6a90d7bf",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35636"
+        ],
+        "teams": [
+          "USC",
+          "Minnesota"
+        ],
+        "date": "2027-01-15",
+        "start": "2027-01-16T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "BIG+",
+        "watch": [
+          {
+            "label": "BIG+",
+            "url": "https://www.foxsports.com/womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "1efeb26578a10520b80efacb@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "072fe4b3c93e96491f96154f@wbb.asiacook4-stack.github.io": {
+      "hash": "7488d34550cca858b74e88537974c6db6affcc9c9996eee5b531e65e0f52db0b",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35637"
+        ],
+        "teams": [
+          "USC",
+          "Penn State"
+        ],
+        "date": "2027-01-18",
+        "start": "2027-01-18T21:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/penn-state-lady-lions-vs-usc-trojans-jan-18-2027-game-boxscore-392562"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "072fe4b3c93e96491f96154f@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "15ea414e14d09ce62707502d@wbb.asiacook4-stack.github.io": {
+      "hash": "3a02c59ced83db9383a7afbaa9afd1b5842c8dea28a28680df8a2795ead9fd8f",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35638"
+        ],
+        "teams": [
+          "USC",
+          "Purdue"
+        ],
+        "date": "2027-01-24",
+        "start": "2027-01-24T17:00:00+00:00",
+        "location": "West Lafayette, Ind.",
+        "network": "B1G+",
+        "watch": [
+          {
+            "label": "B1G+",
+            "url": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-game-boxscore-392828"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "15ea414e14d09ce62707502d@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "ec2372e6fe2017f3f3224c68@wbb.asiacook4-stack.github.io": {
+      "hash": "8dcf8d453f6a2d1d3bc8f411a44396eb47e473ae4bc62939d48d3dba2f07415b",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35639"
+        ],
+        "teams": [
+          "USC",
+          "Indiana"
+        ],
+        "date": "2027-01-27",
+        "start": "2027-01-28T00:00:00+00:00",
+        "location": "Bloomington, Ind.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "ec2372e6fe2017f3f3224c68@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "a886cec03f790fb39f2dac33@wbb.asiacook4-stack.github.io": {
+      "hash": "a68656adced4fd05a0a7c1859cc953488b39b8539fe691bc2bdea7ec1140f7e3",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35640",
+          "Michigan:30919"
+        ],
+        "teams": [
+          "USC",
+          "Michigan"
+        ],
+        "date": "2027-01-30",
+        "start": "2027-01-30T22:30:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "FOX / Fox",
+        "watch": [
+          {
+            "label": "FOX",
+            "url": "https://www.foxsports.com/womens-college-basketball/michigan-wolverines-vs-usc-trojans-jan-30-2027-game-boxscore-393065"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://mgoblue.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "a886cec03f790fb39f2dac33@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "7490e7f6b4afcd40261811a4@wbb.asiacook4-stack.github.io": {
+      "hash": "afc3d2c0937b548155600a0f318ae493bea236995257353bd777d3246bd8bf64",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35641"
+        ],
+        "teams": [
+          "USC",
+          "Illinois"
+        ],
+        "date": "2027-02-02",
+        "start": "2027-02-03T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "7490e7f6b4afcd40261811a4@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "c3ee7f1d89b832e5d920c089@wbb.asiacook4-stack.github.io": {
+      "hash": "91d1b4f136cdeb4ec5a49b0c7d64899f23d00397c197922b84ca25a98ac4e8df",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35643",
+          "Iowa:23220"
+        ],
+        "teams": [
+          "USC",
+          "Iowa"
+        ],
+        "date": "2027-02-11",
+        "start": "2027-02-12T00:00:00+00:00",
+        "location": "Iowa City, Iowa",
+        "network": "FS1 / Fox One Logo / FS1",
+        "watch": [
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502"
+          },
+          {
+            "label": "Fox One Logo",
+            "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
+          },
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/live"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://hawkeyesports.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "c3ee7f1d89b832e5d920c089@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "fc151d5e477c15797f8abc23@wbb.asiacook4-stack.github.io": {
+      "hash": "5a58945198934bb155d394c7d1db1f347a246779be1c5d126e223491b179598d",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35644"
+        ],
+        "teams": [
+          "USC",
+          "Michigan State"
+        ],
+        "date": "2027-02-18",
+        "start": "2027-02-19T03:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Peacock",
+        "watch": [
+          {
+            "label": "Peacock",
+            "url": "https://www.peacocktv.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "fc151d5e477c15797f8abc23@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "c79cc503e33fe6b22af061bf@wbb.asiacook4-stack.github.io": {
+      "hash": "f6b27b40e03ca9801a42ea05f019b3eaa1c7ef1adb64befddd99ad43c934878f",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35645",
+          "Ohio State:22908"
+        ],
+        "teams": [
+          "USC",
+          "Ohio State"
+        ],
+        "date": "2027-02-21",
+        "start": "2027-02-21T21:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "NBC",
+        "watch": [
+          {
+            "label": "NBC",
+            "url": "https://www.nbc.com/live?brand=nbc"
+          },
+          {
+            "label": "NBC",
+            "url": "https://www.nbc.com/"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule",
+          "https://ohiostatebuckeyes.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "c79cc503e33fe6b22af061bf@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "52c04683e922c65b4a24adab@wbb.asiacook4-stack.github.io": {
+      "hash": "94be458f67beaa77678d620cd5a6ec97bb059b32de0294d238b636bbb398c0cb",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35647"
+        ],
+        "teams": [
+          "USC",
+          "Oregon"
+        ],
+        "date": "2027-02-28",
+        "start": "2027-02-28T21:00:00+00:00",
+        "location": "Eugene, Ore.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-oregon-ducks-feb-28-2027-game-boxscore-394314"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "52c04683e922c65b4a24adab@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io": {
+      "hash": "2569f7b514235a62c0e3f2d4bb4a9cb31f17266fb787d951f8136b46b3507ec7",
+      "first_seen": "2026-11-05T01:30:08.693970+00:00",
+      "candidate": {
+        "source_ids": [
+          "Texas:23174"
+        ],
+        "teams": [
+          "Texas",
+          "FDU"
+        ],
+        "date": "2026-11-04",
+        "start": "2026-11-05T01:00:00+00:00",
+        "location": "Austin, Texas",
+        "network": "SECN+",
+        "watch": [
+          {
+            "label": "SECN+",
+            "url": "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410"
+          }
+        ],
+        "exhibition": false,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "d71caf8ea224f4ea94ea891b@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-27T01:10:38.021711+00:00"
+      }
     }
   },
-  "updated": "2026-11-04T19:21:49.030802+00:00",
+  "updated": "2026-11-05T01:30:08.693970+00:00",
   "missing_retained": [
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",

@@ -512,21 +512,23 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Michigan
 DTSTART;TZID=America/Los_Angeles:20261105T153000
 DTEND;TZID=America/Los_Angeles:20261105T174500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261105T013008Z
 UID:1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Thu Nov 05\, 2026 03:30 PM PST\n\nEnd time is an es
- timate (2h 15m).\n\nService / channel page (not a game deep link) — FOX 
- Sports live directory: https://www.foxsports.com/live\nLink check: reachab
- le\; playback requires the appropriate login\n\nOfficial schedule: https:/
- /uconnhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule:
-  https://mgoblue.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ timate (2h 15m).\n\nService / channel page (not a game deep link) — FS1:
+  https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-mich
+ igan-wolverines-nov-05-2026-game-boxscore-389368\nLink check: reachable\; 
+ playback requires the appropriate login\n\nOfficial schedule: https://ucon
+ nhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule: http
+ s://mgoblue.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261105T013008Z
 LOCATION:Ann Arbor\, Mich.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-m
+ ichigan-wolverines-nov-05-2026-game-boxscore-389368
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Stonehill
@@ -862,20 +864,20 @@ TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Texas vs Tarleton State [Time TBA]
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-DTSTAMP:20261019T235708Z
+SUMMARY:Texas vs Tarleton State
+DTSTART;TZID=America/Los_Angeles:20261114T100000
+DTEND;TZID=America/Los_Angeles:20261114T121500
+DTSTAMP:20261105T013008Z
 UID:784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nAll-day placeholder: 
- tipoff time has not been announced. Date is the official schedule date.\n\
- nService / channel page (not a game deep link) — SECN+: https://texaslon
- ghorns.com/sports/womens-basketball/Watch\nLink check: published by the of
- ficial team\; automated verification unavailable\, HTTP 404\n\nOfficial sc
- hedule: https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sat
+  Nov 14\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
+ e / channel page (not a game deep link) — SECN+: https://texaslonghorns.
+ com/sports/womens-basketball/Watch\nLink check: published by the official 
+ team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
+  https://texaslonghorns.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261105T013008Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule
