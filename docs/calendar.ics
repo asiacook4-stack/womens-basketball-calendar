@@ -472,9 +472,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Texas Southern
 DTSTART;TZID=America/Los_Angeles:20261105T170000
 DTEND;TZID=America/Los_Angeles:20261105T191500
-DTSTAMP:20261023T070912Z
+DTSTAMP:20261106T132911Z
 UID:89e087d3205cafedbe5e4da2@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Thu Nov 05\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
@@ -482,7 +482,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  c0-9772-4545-9d19-99f0b08f29ed\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/
-LAST-MODIFIED:20261023T070912Z
+LAST-MODIFIED:20261106T132911Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08
@@ -492,21 +492,20 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs UC Irvine
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T211500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261106T132911Z
 UID:aa19a8d0258ea8b1100b6bb5@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
- scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
- c): Thu Nov 05\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Thu Nov 05
+ \, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://uclabruins.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261106T132911Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Michigan
