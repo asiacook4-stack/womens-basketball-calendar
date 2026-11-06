@@ -511,9 +511,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Michigan
 DTSTART;TZID=America/Los_Angeles:20261105T153000
 DTEND;TZID=America/Los_Angeles:20261105T174500
-DTSTAMP:20261106T073836Z
+DTSTAMP:20261106T191715Z
 UID:1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Thu Nov 05\, 2026 03:30 PM PST\n\nEnd time is an es
@@ -523,7 +523,7 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  playback requires the appropriate login\n\nOfficial schedule: https://ucon
  nhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule: http
  s://mgoblue.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261106T073836Z
+LAST-MODIFIED:20261106T191715Z
 LOCATION:Ann Arbor\, Mich.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-m
@@ -565,6 +565,26 @@ LAST-MODIFIED:20261019T235708Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Duke vs Florida Atlantic
+DTSTART;TZID=America/Los_Angeles:20261108T100000
+DTEND;TZID=America/Los_Angeles:20261108T121500
+DTSTAMP:20261106T191715Z
+UID:b209f894e6f2fad3b3754487@wbb.asiacook4-stack.github.io
+SEQUENCE:0
+DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
+ SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun
+  Nov 08\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ESPN+: https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8
+ 300-dbb18c3bf677\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/
+ schedule
+LAST-MODIFIED:20261106T191715Z
+LOCATION:Boca Raton\, Fla.
+TRANSP:TRANSPARENT
+URL:https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3
+ bf677
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs North Texas
@@ -1238,9 +1258,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Ohio State
 DTSTART;TZID=America/Los_Angeles:20261122T100000
 DTEND;TZID=America/Los_Angeles:20261122T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261106T191715Z
 UID:77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 22\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
@@ -1251,8 +1271,8 @@ DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  k: reachable\; playback requires the appropriate login\n\nOfficial schedul
  e: https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficia
  l schedule: https://ohiostatebuckeyes.com/sports/womens-basketball/schedul
- e\n\nWomen’s Funkytown Showdown
-LAST-MODIFIED:20261019T235708Z
+ e\n\nLS² Hoops with Heart
+LAST-MODIFIED:20261106T191715Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/
@@ -1822,9 +1842,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs TCU
 DTSTART;TZID=America/Los_Angeles:20261206T100000
 DTEND;TZID=America/Los_Angeles:20261206T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261106T191715Z
 UID:1ba9173322311ed7ec1c6f39@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun
   Dec 06\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
@@ -1832,9 +1852,9 @@ DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  com/sports/womens-basketball/Watch\nLink check: published by the official 
  team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
   https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficial 
- schedule: https://gofrogs.com/sports/womens-basketball/schedule\n\nWomen
- ’s Battle for Texas
-LAST-MODIFIED:20261019T235708Z
+ schedule: https://gofrogs.com/sports/womens-basketball/schedule\n\nLS² Ho
+ ops with Heart
+LAST-MODIFIED:20261106T191715Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule
