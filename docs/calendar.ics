@@ -1567,21 +1567,22 @@ BEGIN:VEVENT
 SUMMARY:LSU vs North Carolina
 DTSTART;TZID=America/Los_Angeles:20261202T161500
 DTEND;TZID=America/Los_Angeles:20261202T183000
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261106T013327Z
 UID:d97bf9201b7290a763acf09e@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
-  Dec 02\, 2026 04:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN2: https://watchespn.com/\
- nLink check: published by the official team\; automated verification unava
- ilable\, HTTP unknown\n\nOfficial schedule: https://lsusports.net/sports/w
- bball/schedule/\n\nOfficial schedule: https://goheels.com/sports/womens-ba
- sketball/schedule\n\nSEC/ACC Challenge
-LAST-MODIFIED:20261019T235708Z
+  Dec 02\, 2026 04:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ESPN2: https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8
+ cd1-b403720df357\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://lsusports.net/sports/wbball/schedule
+ /\n\nOfficial schedule: https://goheels.com/sports/womens-basketball/sched
+ ule\n\nSEC/ACC Challenge
+LAST-MODIFIED:20261106T013327Z
 LOCATION:Chapel Hill\, N.C. (Carmichael Arena)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8cd1-b403720
+ df357
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NC State vs Ole Miss
