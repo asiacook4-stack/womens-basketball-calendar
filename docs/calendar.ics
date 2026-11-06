@@ -512,9 +512,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Michigan
 DTSTART;TZID=America/Los_Angeles:20261105T153000
 DTEND;TZID=America/Los_Angeles:20261105T174500
-DTSTAMP:20261105T133534Z
+DTSTAMP:20261106T073836Z
 UID:1dd6ffc2d4fa544a5a9c36d4@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Thu Nov 05\, 2026 03:30 PM PST\n\nEnd time is an es
@@ -524,7 +524,7 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  playback requires the appropriate login\n\nOfficial schedule: https://ucon
  nhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule: http
  s://mgoblue.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261105T133534Z
+LAST-MODIFIED:20261106T073836Z
 LOCATION:Ann Arbor\, Mich.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-m
