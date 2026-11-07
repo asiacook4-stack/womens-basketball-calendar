@@ -48,7 +48,7 @@
       "watch": [
         {
           "label": "Fox One Logo",
-          "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
+          "url": "https://www.fox.com/sports/basketball/womens-college-basketball"
         },
         {
           "label": "FS1",
@@ -65,8 +65,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-07T07:25:32.352527+00:00"
     },
     "3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7902,36 +7902,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25767"
-      ],
-      "teams": [
-        "UConn",
-        "Army"
-      ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -7961,31 +7931,6 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8066,51 +8011,129 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     }
   },
   "pending": {
-    "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
-      "hash": "99717e0501d04ff697fcff19164bef93baea77f8e435f9abbd8fb943e7000c59",
-      "first_seen": "2026-11-07T01:24:33.079937+00:00",
+    "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io": {
+      "hash": "8309c593619c26fa28174d2dcb35fe4d6c157782c3f426d78fc82083cbfa94bb",
+      "first_seen": "2026-11-07T07:25:32.352527+00:00",
       "candidate": {
         "source_ids": [
-          "UConn:25603",
-          "Iowa:23091"
+          "South Carolina:Clemson-away"
         ],
         "teams": [
-          "UConn",
-          "Iowa"
+          "South Carolina",
+          "Clemson"
         ],
-        "date": "2026-11-08",
-        "start": "2026-11-08T19:00:00+00:00",
-        "location": "Storrs, Conn.",
-        "network": "FS1 / Fox One Logo / FS1",
+        "date": "2026-11-12",
+        "start": "2026-11-13T00:00:00+00:00",
+        "location": "Clemson, SC",
+        "network": "ESPN2",
         "watch": [
           {
-            "label": "Fox One Logo",
-            "url": "https://www.fox.com/sports/basketball/womens-college-basketball"
-          },
-          {
-            "label": "FS1",
-            "url": "https://www.foxsports.com/live"
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd"
           }
         ],
         "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "H",
-        "note": "",
+        "status": "",
+        "venue": "",
+        "note": "Palmetto Series",
         "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
-          "https://hawkeyesports.com/sports/wbball/schedule"
+          "https://gamecocksonline.com/sports/wbball/schedule/"
         ],
         "coverage": "Full team schedule",
-        "uid": "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io",
+        "uid": "331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-21T07:09:45.954534+00:00"
+      }
+    },
+    "ad317278f81164da2a645166@wbb.asiacook4-stack.github.io": {
+      "hash": "cd6f198f002c00598e5e7f43f798a7544175cf417ed8895f74c0f874c90fa4d2",
+      "first_seen": "2026-11-07T07:25:32.352527+00:00",
+      "candidate": {
+        "source_ids": [
+          "Notre Dame:20985"
+        ],
+        "teams": [
+          "Notre Dame",
+          "Stonehill"
+        ],
+        "date": "2026-11-06",
+        "start": "2026-11-07T00:00:00+00:00",
+        "location": "South Bend, IN",
+        "network": "",
+        "watch": [],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://fightingirish.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "ad317278f81164da2a645166@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-07T01:24:33.079937+00:00",
+  "updated": "2026-11-07T07:25:32.352527+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",

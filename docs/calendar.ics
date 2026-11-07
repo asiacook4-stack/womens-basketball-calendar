@@ -651,27 +651,24 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Iowa
 DTSTART;TZID=America/Los_Angeles:20261108T110000
 DTEND;TZID=America/Los_Angeles:20261108T131500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261107T072532Z
 UID:5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  OX One or a qualifying TV provider — additional access required\; verify
   channel availability.\n\nTipoff (Pacific): Sun Nov 08\, 2026 11:00 AM PST
  \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
- e deep link) — Fox One Logo: https://www.fox.com/sports/football/college
- -football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_
- th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B\nLink check: reachable\; pla
- yback requires the appropriate login\n\nService / channel page (not a game
-  deep link) — FS1: https://www.foxsports.com/live\nLink check: reachable
- \; playback requires the appropriate login\n\nOfficial schedule: https://u
- connhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule: h
- ttps://hawkeyesports.com/sports/wbball/schedule
-LAST-MODIFIED:20261019T235708Z
+ e deep link) — Fox One Logo: https://www.fox.com/sports/basketball/women
+ s-college-basketball\nLink check: reachable\; playback requires the approp
+ riate login\n\nService / channel page (not a game deep link) — FS1: http
+ s://www.foxsports.com/live\nLink check: reachable\; playback requires the 
+ appropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports/wo
+ mens-basketball/schedule/\n\nOfficial schedule: https://hawkeyesports.com/
+ sports/wbball/schedule
+LAST-MODIFIED:20261107T072532Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
-URL:https://www.fox.com/sports/football/college-football?cmpid=org=one::ag
- =partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_2
- 9_08_00_41_00_02_B
+URL:https://www.fox.com/sports/basketball/womens-college-basketball
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Utah State
