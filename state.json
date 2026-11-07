@@ -5002,7 +5002,7 @@
       "watch": [
         {
           "label": "SECN+",
-          "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+          "url": "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179"
         }
       ],
       "exhibition": false,
@@ -5014,8 +5014,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-07T01:24:33.079937+00:00"
     },
     "17c32c538b530397e72d2208@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7902,31 +7902,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -7956,36 +7931,6 @@
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8017,28 +7962,28 @@
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "NC State:24744"
+        "Duke:25740"
       ],
       "teams": [
-        "NC State",
-        "Kentucky"
+        "Duke",
+        "North Texas"
       ],
       "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
       "watch": [],
       "exhibition": false,
       "status": "SCHEDULED",
       "venue": "N",
-      "note": "Ally Tipoff",
+      "note": "The Foundry Classic",
       "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
+        "https://goduke.com/sports/womens-basketball/schedule"
       ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8066,28 +8011,88 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
     }
   },
   "pending": {
-    "a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io": {
-      "hash": "fc2edb468e08debb22ab7ee674a0cc859c5a539f23ace4d0556dfb83ba9b3b2f",
-      "first_seen": "2026-11-06T19:17:15.755859+00:00",
+    "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
+      "hash": "99717e0501d04ff697fcff19164bef93baea77f8e435f9abbd8fb943e7000c59",
+      "first_seen": "2026-11-07T01:24:33.079937+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23175"
+          "UConn:25603",
+          "Iowa:23091"
         ],
         "teams": [
-          "Texas",
-          "Northern Colorado"
+          "UConn",
+          "Iowa"
         ],
-        "date": "2026-11-07",
-        "start": "2026-11-08T01:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "SECN+",
+        "date": "2026-11-08",
+        "start": "2026-11-08T19:00:00+00:00",
+        "location": "Storrs, Conn.",
+        "network": "FS1 / Fox One Logo / FS1",
         "watch": [
           {
-            "label": "SECN+",
-            "url": "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179"
+            "label": "Fox One Logo",
+            "url": "https://www.fox.com/sports/basketball/womens-college-basketball"
+          },
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/live"
           }
         ],
         "exhibition": false,
@@ -8095,16 +8100,17 @@
         "venue": "H",
         "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://hawkeyesports.com/sports/wbball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io",
+        "uid": "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-06T19:17:15.755859+00:00",
+  "updated": "2026-11-07T01:24:33.079937+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",

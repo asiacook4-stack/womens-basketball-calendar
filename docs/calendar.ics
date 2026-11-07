@@ -551,20 +551,21 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Northern Colorado
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261107T012433Z
 UID:a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sat
-  Nov 07\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — SECN+: https://texaslonghorns.
- com/sports/womens-basketball/Watch\nLink check: published by the official 
- team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
-  https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+  Nov 07\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — SECN+: https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b
+ 347-1316e933e179\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-bas
+ ketball/schedule
+LAST-MODIFIED:20261107T012433Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e93
+ 3e179
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Florida Atlantic
