@@ -533,19 +533,19 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Stonehill
 DTSTART;TZID=America/Los_Angeles:20261106T160000
 DTEND;TZID=America/Los_Angeles:20261106T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261107T131457Z
 UID:ad317278f81164da2a645166@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Fri
-  Nov 06\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ACCNX: https://fightingirish.c
- om\nLink check: reachable\; playback requires the appropriate login\n\nOff
- icial schedule: https://fightingirish.com/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Fri Nov 06
+ \, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://fightingirish.com/sports/wbball/schedule/
+LAST-MODIFIED:20261107T131457Z
 LOCATION:South Bend\, IN
 TRANSP:TRANSPARENT
-URL:https://fightingirish.com
+URL:https://fightingirish.com/sports/wbball/schedule/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Northern Colorado
@@ -790,9 +790,9 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Clemson
 DTSTART;TZID=America/Los_Angeles:20261112T160000
 DTEND;TZID=America/Los_Angeles:20261112T181500
-DTSTAMP:20261021T070945Z
+DTSTAMP:20261107T131457Z
 UID:331922d26ed7f3490c074ceb@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Thu
   Nov 12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -800,8 +800,8 @@ DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  03c-a89742ed3efd\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/sc
  hedule/\n\nPalmetto Series
-LAST-MODIFIED:20261021T070945Z
-LOCATION:Clemson SC
+LAST-MODIFIED:20261107T131457Z
+LOCATION:Clemson\, SC
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742e
  d3efd
