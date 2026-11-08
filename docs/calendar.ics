@@ -551,9 +551,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Northern Colorado
 DTSTART;TZID=America/Los_Angeles:20261107T170000
 DTEND;TZID=America/Los_Angeles:20261107T191500
-DTSTAMP:20261107T012433Z
+DTSTAMP:20261108T190637Z
 UID:a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sat
   Nov 07\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -561,7 +561,7 @@ DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  347-1316e933e179\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-bas
  ketball/schedule
-LAST-MODIFIED:20261107T012433Z
+LAST-MODIFIED:20261108T190637Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e93
