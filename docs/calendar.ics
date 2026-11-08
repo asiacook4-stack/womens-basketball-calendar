@@ -571,9 +571,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Florida Atlantic
 DTSTART;TZID=America/Los_Angeles:20261108T100000
 DTEND;TZID=America/Los_Angeles:20261108T121500
-DTSTAMP:20261106T191715Z
+DTSTAMP:20261108T131420Z
 UID:b209f894e6f2fad3b3754487@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun
   Nov 08\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -581,7 +581,7 @@ DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  300-dbb18c3bf677\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/
  schedule
-LAST-MODIFIED:20261106T191715Z
+LAST-MODIFIED:20261108T131420Z
 LOCATION:Boca Raton\, Fla.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3
@@ -651,9 +651,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Iowa
 DTSTART;TZID=America/Los_Angeles:20261108T110000
 DTEND;TZID=America/Los_Angeles:20261108T131500
-DTSTAMP:20261107T072532Z
+DTSTAMP:20261108T131420Z
 UID:5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  OX One or a qualifying TV provider — additional access required\; verify
   channel availability.\n\nTipoff (Pacific): Sun Nov 08\, 2026 11:00 AM PST
@@ -665,7 +665,7 @@ DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  appropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports/wo
  mens-basketball/schedule/\n\nOfficial schedule: https://hawkeyesports.com/
  sports/wbball/schedule
-LAST-MODIFIED:20261107T072532Z
+LAST-MODIFIED:20261108T131420Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/sports/basketball/womens-college-basketball
