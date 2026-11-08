@@ -7897,31 +7897,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -7952,6 +7927,36 @@
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
     },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Duke:25740"
@@ -7974,31 +7979,6 @@
       ],
       "coverage": "Full team schedule",
       "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8032,41 +8012,101 @@
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
     },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "Maryland:22435"
+        "NC State:24744"
       ],
       "teams": [
-        "Maryland",
-        "North Carolina"
+        "NC State",
+        "Kentucky"
       ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
       "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
       "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
+        "https://gopack.com/sports/womens-basketball/schedule"
       ],
       "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
+    "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
+      "hash": "881173c38280a8a29595fc331ff32941bdda6f97ffd0c9d21636298f57c7b273",
+      "first_seen": "2026-11-08T07:26:29.686450+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25603",
+          "Iowa:23091"
+        ],
+        "teams": [
+          "UConn",
+          "Iowa"
+        ],
+        "date": "2026-11-08",
+        "start": "2026-11-08T19:00:00+00:00",
+        "location": "Storrs, Conn.",
+        "network": "FS1 / Fox One Logo / FS1",
+        "watch": [
+          {
+            "label": "Fox One Logo",
+            "url": "https://www.fox.com/sports/basketball/womens-college-basketball"
+          },
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/live"
+          }
+        ],
+        "exhibition": false,
+        "status": "PREGAME",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://hawkeyesports.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-07T07:25:32.352527+00:00"
+      }
+    },
     "a920e7c6b06606caaa3ee8ac@wbb.asiacook4-stack.github.io": {
-      "hash": "d3a623e1496b6a8d753d06673ae2cc118fd63854b2007da8b9aa61f32715de00",
-      "first_seen": "2026-11-08T01:29:28.654134+00:00",
+      "hash": "0eec23449ea73bbf06fbc2408a626ee19dbc404bf3447e7167a01c652b6b6b5d",
+      "first_seen": "2026-11-08T07:26:29.686450+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23175"
@@ -8086,7 +8126,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "FULLTIME",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8097,9 +8137,43 @@
         "sequence": 1,
         "modified": "2026-11-07T01:24:33.079937+00:00"
       }
+    },
+    "b209f894e6f2fad3b3754487@wbb.asiacook4-stack.github.io": {
+      "hash": "909638452951cbde97dc24226e8769acceb31974186bd5d457c1ee8b8aa7004f",
+      "first_seen": "2026-11-08T07:26:29.686450+00:00",
+      "candidate": {
+        "source_ids": [
+          "Duke:25916"
+        ],
+        "teams": [
+          "Duke",
+          "Florida Atlantic"
+        ],
+        "date": "2026-11-08",
+        "start": "2026-11-08T18:00:00+00:00",
+        "location": "Boca Raton, Fla.",
+        "network": "ESPN+",
+        "watch": [
+          {
+            "label": "ESPN+",
+            "url": "https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3bf677"
+          }
+        ],
+        "exhibition": false,
+        "status": "PREGAME",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://goduke.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "b209f894e6f2fad3b3754487@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-11-06T19:17:15.755859+00:00"
+      }
     }
   },
-  "updated": "2026-11-08T01:29:28.654134+00:00",
+  "updated": "2026-11-08T07:26:29.686450+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
