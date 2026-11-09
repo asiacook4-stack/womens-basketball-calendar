@@ -654,9 +654,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Iowa
 DTSTART;TZID=America/Los_Angeles:20261108T110000
 DTEND;TZID=America/Los_Angeles:20261108T131500
-DTSTAMP:20261109T074936Z
+DTSTAMP:20261109T191642Z
 UID:5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  OX One or a qualifying TV provider — additional access required\; verify
   channel availability.\n\nTipoff (Pacific): Sun Nov 08\, 2026 11:00 AM PST
@@ -668,7 +668,7 @@ DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  appropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports/wo
  mens-basketball/schedule/\n\nOfficial schedule: https://hawkeyesports.com/
  sports/wbball/schedule
-LAST-MODIFIED:20261109T074936Z
+LAST-MODIFIED:20261109T191642Z
 LOCATION:Storrs\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/sports/basketball/womens-college-basketball
@@ -677,9 +677,9 @@ BEGIN:VEVENT
 SUMMARY:USC vs Utah State
 DTSTART;TZID=America/Los_Angeles:20261108T170000
 DTEND;TZID=America/Los_Angeles:20261108T191500
-DTSTAMP:20261105T074059Z
+DTSTAMP:20261109T191642Z
 UID:d3273d941e5717e182313909@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Sun Nov 08\, 2026 05:00 PM PST\n\nEnd t
@@ -688,7 +688,7 @@ DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
  ll/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534\nLink
   check: reachable\; playback requires the appropriate login\n\nOfficial sc
  hedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261105T074059Z
+LAST-MODIFIED:20261109T191642Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/utah-state-aggies-
