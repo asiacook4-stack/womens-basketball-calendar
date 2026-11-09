@@ -7897,6 +7897,31 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -7919,31 +7944,6 @@
       ],
       "coverage": "National spotlight",
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -7977,28 +7977,28 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "South Carolina:Albany-home"
+        "Duke:25740"
       ],
       "teams": [
-        "South Carolina",
-        "Albany"
+        "Duke",
+        "North Texas"
       ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
       "watch": [],
       "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
       "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
+        "https://goduke.com/sports/womens-basketball/schedule"
       ],
       "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8065,8 +8065,8 @@
   },
   "pending": {
     "5ca552a823a305c66d88b489@wbb.asiacook4-stack.github.io": {
-      "hash": "7fc9849cf43d9706b138e1653c76885758c78bb008a34eee30b185ca079aa24c",
-      "first_seen": "2026-11-08T19:06:37.654701+00:00",
+      "hash": "424b82516974dffd06e0cf38dc15bc2fae6686e7e35317c7cd5e57987908a907",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
       "candidate": {
         "source_ids": [
           "UConn:25603",
@@ -8091,7 +8091,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "FULLTIME",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8103,9 +8103,417 @@
         "sequence": 2,
         "modified": "2026-11-08T13:14:20.779848+00:00"
       }
+    },
+    "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io": {
+      "hash": "f8ec5b545a6834a26d868844ea59d9e3ccf96cb4f4dae5417cdcde538127a002",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25609",
+          "Louisville:26442"
+        ],
+        "teams": [
+          "UConn",
+          "Louisville"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T22:30:00+00:00",
+        "location": "Louisville, Ky.",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "Official watch link",
+            "url": "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://gocards.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "ef9797fab04dfddbe8617e94@wbb.asiacook4-stack.github.io": {
+      "hash": "07ca8449b3c5b3579f506f1605f4dcaf2ef4c9b89f8ffcee1e393419efa3eeb0",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "South Carolina:Oklahoma-away",
+          "Oklahoma:15914"
+        ],
+        "teams": [
+          "South Carolina",
+          "Oklahoma"
+        ],
+        "date": "2027-02-08",
+        "start": "2027-02-09T00:00:00+00:00",
+        "location": "Norman, OK",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "",
+        "venue": "",
+        "note": "(SEC)",
+        "sources": [
+          "https://gamecocksonline.com/sports/wbball/schedule/",
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "ef9797fab04dfddbe8617e94@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "2d75bf8c5a5b420d789ac003@wbb.asiacook4-stack.github.io": {
+      "hash": "dc6fca7475f3f7a6f1111eed96f33c57193452ad8d60d502934a3e3273c961eb",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "South Carolina:Oklahoma-home",
+          "Oklahoma:15908"
+        ],
+        "teams": [
+          "South Carolina",
+          "Oklahoma"
+        ],
+        "date": "2027-01-14",
+        "start": "2027-01-15T00:30:00+00:00",
+        "location": "Columbia, SC",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "",
+        "venue": "",
+        "note": "(SEC)",
+        "sources": [
+          "https://gamecocksonline.com/sports/wbball/schedule/",
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "2d75bf8c5a5b420d789ac003@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "d3273d941e5717e182313909@wbb.asiacook4-stack.github.io": {
+      "hash": "40f1138bf5efc5810efc03abeda5846f9512ae2f5d3ac50565650fba08858885",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "USC:35624"
+        ],
+        "teams": [
+          "USC",
+          "Utah State"
+        ],
+        "date": "2026-11-08",
+        "start": "2026-11-09T01:00:00+00:00",
+        "location": "Los Angeles, Calif.",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network",
+            "url": "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534"
+          }
+        ],
+        "exhibition": false,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://usctrojans.com/sports/wbball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "d3273d941e5717e182313909@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-05T07:40:59.925367+00:00"
+      }
+    },
+    "95d7795928b6d92c57bd3ced@wbb.asiacook4-stack.github.io": {
+      "hash": "d07a322173ed7a1a480d3a0935b081a448964bcf32a0d1cf709ac44f634192c2",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21056",
+          "Oklahoma:15919"
+        ],
+        "teams": [
+          "LSU",
+          "Oklahoma"
+        ],
+        "date": "2027-02-28",
+        "start": "2027-02-28T19:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "ESPN/2 / ESPN/ESPN2",
+        "watch": [
+          {
+            "label": "ESPN/2",
+            "url": "https://watchespn.com/"
+          },
+          {
+            "label": "ESPN/ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/",
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "95d7795928b6d92c57bd3ced@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "4327b24764107893caf2851d@wbb.asiacook4-stack.github.io": {
+      "hash": "c28ea67f18449893d95c8aeed32f79a2f3ec353dae0c35360a69314e74634a55",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Texas:22926",
+          "Oklahoma:15918"
+        ],
+        "teams": [
+          "Texas",
+          "Oklahoma"
+        ],
+        "date": "2027-02-25",
+        "start": "2027-02-26T01:00:00+00:00",
+        "location": "Norman, Okla.",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+          },
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://texaslonghorns.com/sports/womens-basketball/schedule",
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "4327b24764107893caf2851d@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "3be307fd0b341411826d7d34@wbb.asiacook4-stack.github.io": {
+      "hash": "5819a4c8e28dd22c33b5dcb4f896135f360e5bb6b628218d80e2b042333483fe",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Tennessee:30228",
+          "Oklahoma:15907"
+        ],
+        "teams": [
+          "Tennessee",
+          "Oklahoma"
+        ],
+        "date": "2027-01-10",
+        "start": "2027-01-10T22:00:00+00:00",
+        "location": "Knoxville, TN",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://utsports.com/sports/womens-basketball/schedule",
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "3be307fd0b341411826d7d34@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io": {
+      "hash": "ee95fec725a70ee8799e275576afdd4c1868868a9652df04a444904788bb4b94",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Oklahoma:15824",
+          "North Carolina:27108"
+        ],
+        "teams": [
+          "Oklahoma",
+          "North Carolina"
+        ],
+        "date": "2026-11-02",
+        "start": "2026-11-02T19:30:00+00:00",
+        "location": "Adidas Arena • Paris, France",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          },
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05"
+          }
+        ],
+        "exhibition": false,
+        "status": "GAMECOMPLETE",
+        "venue": "N",
+        "note": "Oui-Play Paris",
+        "sources": [
+          "https://soonersports.com/sports/womens-basketball/schedule",
+          "https://goheels.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "f69bff45c3cba6dadca4e016@wbb.asiacook4-stack.github.io",
+        "sequence": 3,
+        "modified": "2026-11-03T19:15:58.398704+00:00"
+      }
+    },
+    "fff9e7d22baaade27e44fd3b@wbb.asiacook4-stack.github.io": {
+      "hash": "9cab8268ae4599334b9dd415e03da3442c49cf379a233d334432ab15c31e8e76",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Oklahoma:15904",
+          "Ole Miss:16375"
+        ],
+        "teams": [
+          "Oklahoma",
+          "Ole Miss"
+        ],
+        "date": "2026-12-31",
+        "start": "2027-01-01T01:00:00+00:00",
+        "location": "SJB Pavilion • Oxford, Miss.",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://soonersports.com/sports/womens-basketball/schedule",
+          "https://olemisssports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "fff9e7d22baaade27e44fd3b@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "8412c69ec55495a1b9be8a1a@wbb.asiacook4-stack.github.io": {
+      "hash": "a65a8d2620663df3574344e0fbd9134ca5098bd35d972438f3118af30232fedb",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Oklahoma:15910"
+        ],
+        "teams": [
+          "Oklahoma",
+          "Kentucky"
+        ],
+        "date": "2027-01-24",
+        "start": null,
+        "location": "",
+        "network": "ESPN/ESPN2/EPSNU",
+        "watch": [
+          {
+            "label": "ESPN/ESPN2/EPSNU",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://soonersports.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "8412c69ec55495a1b9be8a1a@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "a654d4ffbda9137acfe2a45e@wbb.asiacook4-stack.github.io": {
+      "hash": "d48a02cc03f9f9cca6079ac757e41789ac55a92db2184b91813b2ae2eb102355",
+      "first_seen": "2026-11-09T01:33:48.669954+00:00",
+      "candidate": {
+        "source_ids": [
+          "Oklahoma:15911",
+          "Vanderbilt:10741"
+        ],
+        "teams": [
+          "Oklahoma",
+          "Vanderbilt"
+        ],
+        "date": "2027-01-28",
+        "start": "2027-01-29T02:00:00+00:00",
+        "location": "",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball"
+          },
+          {
+            "label": "ESPN2",
+            "url": "https://www.espn.com/watch/schedule"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://soonersports.com/sports/womens-basketball/schedule",
+          "https://vucommodores.com/sports/wbball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "a654d4ffbda9137acfe2a45e@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
     }
   },
-  "updated": "2026-11-08T19:06:37.654701+00:00",
+  "updated": "2026-11-09T01:33:48.669954+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
