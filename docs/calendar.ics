@@ -757,37 +757,42 @@ BEGIN:VEVENT
 SUMMARY:Texas vs South Dakota State
 DTSTART;TZID=America/Los_Angeles:20261111T160000
 DTEND;TZID=America/Los_Angeles:20261111T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261111T012719Z
 UID:17c32c538b530397e72d2208@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with 
  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific
  ): Wed Nov 11\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\n
- Service / channel page (not a game deep link) — SEC Network: https://tex
- aslonghorns.com/sports/womens-basketball/Watch\nLink check: published by t
- he official team\; automated verification unavailable\, HTTP 404\n\nOffici
- al schedule: https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ Game link — SEC Network: https://www.espn.com/watch/player/_/id/9b2c9207
+ -a9f9-4a46-bd4e-320bc8cf7e7a\nLink check: reachable\; playback requires th
+ e appropriate login\n\nOfficial schedule: https://texaslonghorns.com/sport
+ s/womens-basketball/schedule
+LAST-MODIFIED:20261111T012719Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8c
+ f7e7a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Norfolk State
 DTSTART;TZID=America/Los_Angeles:20261112T160000
 DTEND;TZID=America/Los_Angeles:20261112T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261111T012719Z
 UID:e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: MEAC Network\n\nStreaming: MEAC Network — check the
   official watch link for access requirements.\n\nTipoff (Pacific): Thu Nov
-  12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL 
- TBA — no official streaming link has been published.\n\nOfficial schedul
- e: https://goduke.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+  12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService / 
+ channel page (not a game deep link) — MEAC Network: https://watch.meacsp
+ orts.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c
+ 0a49f2b5c041610df3c72a\nLink check: reachable\; playback requires the appr
+ opriate login\n\nOfficial schedule: https://goduke.com/sports/womens-baske
+ tball/schedule
+LAST-MODIFIED:20261111T012719Z
 LOCATION:Norfolk\, Va.
 TRANSP:TRANSPARENT
-URL:https://goduke.com/sports/womens-basketball/schedule
+URL:https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839
+ c1556/program/050dccf95c0a49f2b5c041610df3c72a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Carolina vs Clemson
@@ -910,20 +915,21 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Marshall
 DTSTART;TZID=America/Los_Angeles:20261115T120000
 DTEND;TZID=America/Los_Angeles:20261115T141500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261111T012719Z
 UID:e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ACCN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
- Nov 15\, 2026 12:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN watch directory: https://w
- ww.espn.com/watch/\nLink check: reachable\; playback requires the appropri
- ate login\n\nOfficial schedule: https://goduke.com/sports/womens-basketbal
- l/schedule
-LAST-MODIFIED:20261019T235708Z
+ Nov 15\, 2026 12:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — ACCN: https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f4
+ 4-07eb756860a3\nLink check: reachable\; playback requires the appropriate 
+ login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/sc
+ hedule
+LAST-MODIFIED:20261111T012719Z
 LOCATION:Durham\, N.C.
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756
+ 860a3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Carolina vs USC
