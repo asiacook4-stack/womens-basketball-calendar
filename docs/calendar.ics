@@ -698,9 +698,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs McNeese
 DTSTART;TZID=America/Los_Angeles:20261110T170000
 DTEND;TZID=America/Los_Angeles:20261110T191500
-DTSTAMP:20261023T070912Z
+DTSTAMP:20261111T133342Z
 UID:3581ae96beeb10886ff6154e@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Tue Nov 10\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
@@ -708,7 +708,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  c0-8075-4656-9390-d876d25db5e7\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/
-LAST-MODIFIED:20261023T070912Z
+LAST-MODIFIED:20261111T133342Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/c3cbfcc0-8075-4656-9390-d876d25
@@ -718,27 +718,27 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Detroit Mercy
 DTSTART;TZID=America/Los_Angeles:20261110T160000
 DTEND;TZID=America/Los_Angeles:20261110T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261111T133342Z
 UID:6d709b77d5bd96d6a1d3bf6a@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Tue
-  Nov 10\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ACCNX: https://fightingirish.c
- om\nLink check: reachable\; playback requires the appropriate login\n\nOff
- icial schedule: https://fightingirish.com/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Tue Nov 10
+ \, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://fightingirish.com/sports/wbball/schedule/
+LAST-MODIFIED:20261111T133342Z
 LOCATION:South Bend\, IN
 TRANSP:TRANSPARENT
-URL:https://fightingirish.com
+URL:https://fightingirish.com/sports/wbball/schedule/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs College of Charleston
 DTSTART;TZID=America/Los_Angeles:20261110T193000
 DTEND;TZID=America/Los_Angeles:20261110T214500
-DTSTAMP:20261105T074059Z
+DTSTAMP:20261111T133342Z
 UID:37050141d9b7fc552c7230af@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Tue Nov 10\, 2026 07:30 PM PST\n\nEnd t
@@ -747,7 +747,7 @@ DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
  ll/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659\nLin
  k check: reachable\; playback requires the appropriate login\n\nOfficial s
  chedule: https://usctrojans.com/sports/wbball/schedule
-LAST-MODIFIED:20261105T074059Z
+LAST-MODIFIED:20261111T133342Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/charleston-cougars
