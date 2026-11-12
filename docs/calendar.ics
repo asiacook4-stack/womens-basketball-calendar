@@ -1289,21 +1289,24 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Tennessee
 DTSTART;TZID=America/Los_Angeles:20261122T143000
 DTEND;TZID=America/Los_Angeles:20261122T164500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261112T074202Z
 UID:87193c2cf20639d0e578abcf@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
- Nov 22\, 2026 02:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN logo: https://www.espn.com
- /watch/\nLink check: reachable\; playback requires the appropriate login\n
- \nOfficial schedule: https://uclabruins.com/sports/womens-basketball/sched
- ule\n\nOfficial schedule: https://utsports.com/sports/womens-basketball/sc
- hedule
-LAST-MODIFIED:20261019T235708Z
+ Nov 22\, 2026 02:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — ESPN: https://www.espn.com/watch/player/_/id/69ed4239-a205-4fe9-9a9
+ 4-524eb82dc7dd\nLink check: reachable\; playback requires the appropriate 
+ login\n\nService / channel page (not a game deep link) — ESPN logo: http
+ s://www.espn.com/watch/\nLink check: reachable\; playback requires the app
+ ropriate login\n\nOfficial schedule: https://uclabruins.com/sports/womens-
+ basketball/schedule\n\nOfficial schedule: https://utsports.com/sports/wome
+ ns-basketball/schedule
+LAST-MODIFIED:20261112T074202Z
 LOCATION:Knoxville\, Tenn. / Food City Center
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/69ed4239-a205-4fe9-9a94-524eb82
+ dc7dd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Belmont
