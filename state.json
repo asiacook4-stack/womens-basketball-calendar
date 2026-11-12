@@ -267,8 +267,7 @@
     },
     "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25769",
-        "Ohio State:22886"
+        "UConn:25769"
       ],
       "teams": [
         "UConn",
@@ -278,24 +277,18 @@
       "start": "2026-11-12T23:30:00+00:00",
       "location": "Columbus, Ohio",
       "network": "FS1",
-      "watch": [
-        {
-          "label": "FS1",
-          "url": "https://www.foxsports.com/live/fs1"
-        }
-      ],
+      "watch": [],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "A",
       "note": "",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/",
-        "https://ohiostatebuckeyes.com/sports/womens-basketball/schedule"
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
       ],
       "coverage": "Full team schedule",
       "uid": "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-12T13:37:27.301547+00:00"
     },
     "558644118eef40985cd2d79e@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6393,7 +6386,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "A",
       "note": "",
       "sources": [
@@ -6401,8 +6394,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-11T01:27:19.849350+00:00"
+      "sequence": 2,
+      "modified": "2026-11-12T13:37:27.301547+00:00"
     },
     "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7952,56 +7945,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -8032,35 +7975,30 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25767"
+        "South Carolina:Albany-home"
       ],
       "teams": [
-        "UConn",
-        "Army"
+        "South Carolina",
+        "Albany"
       ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
       "note": "",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        "https://gamecocksonline.com/sports/wbball/schedule/"
       ],
       "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8116,41 +8054,67 @@
       "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     }
   },
   "pending": {
-    "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io": {
-      "hash": "902bdeaa689a9486fcb39c01ae343b81f7ce0a39f929af394de4f69c198dd2ee",
-      "first_seen": "2026-11-12T07:42:02.127907+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25769"
-        ],
-        "teams": [
-          "UConn",
-          "Ohio State"
-        ],
-        "date": "2026-11-12",
-        "start": "2026-11-12T23:30:00+00:00",
-        "location": "Columbus, Ohio",
-        "network": "FS1",
-        "watch": [],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
     "17c32c538b530397e72d2208@wbb.asiacook4-stack.github.io": {
-      "hash": "5aae9c55b8080c85f624a8f5e1df25b7920da2b0fb67626c1adc69ba2d5b1a62",
-      "first_seen": "2026-11-12T07:42:02.127907+00:00",
+      "hash": "2519396d4cd5529b27defebabdd0758c5aa1fc77bfa5ee768d165f338c84600a",
+      "first_seen": "2026-11-12T13:37:27.301547+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23176"
@@ -8170,7 +8134,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8181,43 +8145,9 @@
         "sequence": 1,
         "modified": "2026-11-11T01:27:19.849350+00:00"
       }
-    },
-    "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io": {
-      "hash": "269422d40ccc2124eb8f78215921a62e85cc0d7da5f0f32c9007dbc54916d176",
-      "first_seen": "2026-11-12T07:42:02.127907+00:00",
-      "candidate": {
-        "source_ids": [
-          "Duke:25741"
-        ],
-        "teams": [
-          "Duke",
-          "Norfolk State"
-        ],
-        "date": "2026-11-12",
-        "start": "2026-11-13T00:00:00+00:00",
-        "location": "Norfolk, Va.",
-        "network": "MEAC Network",
-        "watch": [
-          {
-            "label": "MEAC Network",
-            "url": "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a"
-          }
-        ],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://goduke.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-11T01:27:19.849350+00:00"
-      }
     }
   },
-  "updated": "2026-11-12T07:42:02.127907+00:00",
+  "updated": "2026-11-12T13:37:27.301547+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
