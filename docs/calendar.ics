@@ -757,9 +757,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs South Dakota State
 DTSTART;TZID=America/Los_Angeles:20261111T160000
 DTEND;TZID=America/Los_Angeles:20261111T181500
-DTSTAMP:20261111T012719Z
+DTSTAMP:20261112T191837Z
 UID:17c32c538b530397e72d2208@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with 
  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific
  ): Wed Nov 11\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\n
@@ -767,7 +767,7 @@ DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with
  -a9f9-4a46-bd4e-320bc8cf7e7a\nLink check: reachable\; playback requires th
  e appropriate login\n\nOfficial schedule: https://texaslonghorns.com/sport
  s/womens-basketball/schedule
-LAST-MODIFIED:20261111T012719Z
+LAST-MODIFIED:20261112T191837Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8c
