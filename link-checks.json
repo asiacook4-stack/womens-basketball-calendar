@@ -1,51 +1,9 @@
 {
-  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422": {
+  "https://www.fox.com/sports/basketball/womens-college-basketball": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-game-boxscore-392828": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-game-boxscore-392828",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8cd1-b403720df357": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8cd1-b403720df357",
+    "final": "https://www.fox.com/sports/basketball/womens-college-basketball",
     "checked": "2026-11-11T13:33:42.903129+00:00"
-  },
-  "https://www.espn.com/watch/schedule/_/type/upcoming": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/schedule/_/type/upcoming",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8cf7e7a": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8cf7e7a",
-    "checked": "2026-11-11T01:27:19.849350+00:00"
-  },
-  "https://iontelevision.com/schedule": {
-    "ok": true,
-    "http": 200,
-    "final": "https://iontelevision.com/schedule",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd": {
     "ok": true,
@@ -53,100 +11,16 @@
     "final": "https://www.espn.com/watch/player/_/id/62603f53-7710-43fc-a03c-a89742ed3efd",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62": {
+  "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62",
+    "final": "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball",
-    "checked": "2026-11-11T13:33:42.903129+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977": {
+  "https://fightingirish.com": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba",
-    "checked": "2026-11-11T13:33:42.903129+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.nbc.com/live?brand=nbc": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.nbc.com/live?brand=nbc",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/eventCalendarId/401913740": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/eventCalendarId/401913740",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/live/fs1": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/live/fs1",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.bigtenplus.com/": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.bigtenplus.com/en-int/page/home",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://uconnhuskies.com/showcase?Live=7413": {
-    "ok": true,
-    "http": 200,
-    "final": "https://uconnhuskies.com/watch/?Live=7413&type=Live",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/schedule": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/schedule",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn": {
-    "ok": true,
-    "http": 200,
-    "final": "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn",
+    "final": "https://fightingirish.com/",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca": {
@@ -155,28 +29,28 @@
     "final": "https://www.espn.com/watch/player/_/id/290d6566-2703-4c6f-9234-c803ae2f26ca",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368": {
+  "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368",
-    "checked": "2026-11-11T13:33:42.903129+00:00"
-  },
-  "https://uconnhuskies.com/showcase?Live=7463": {
-    "ok": true,
-    "http": 200,
-    "final": "https://uconnhuskies.com/watch/?Live=7463&type=Live",
+    "final": "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee1462ae4c": {
+  "https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3bf677": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee1462ae4c",
-    "checked": "2026-11-11T13:33:42.903129+00:00"
+    "final": "https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3bf677",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B": {
+  "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173": {
     "ok": true,
     "http": 200,
-    "final": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B",
+    "final": "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.nbc.com/": {
@@ -185,15 +59,16 @@
     "final": "https://www.nbc.com/",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://watchespn.com/": {
-    "ok": false,
-    "reason": "SSLError",
+  "https://www.foxsports.com/womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6": {
+  "https://www.foxsports.com/womens-college-basketball/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659": {
     "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6",
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.peacocktv.com/sports": {
@@ -202,16 +77,136 @@
     "final": "https://www.peacocktv.com/sports",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
+  "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3",
+    "checked": "2026-11-12T01:36:44.847234+00:00"
+  },
+  "https://www.bigtenplus.com/": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.bigtenplus.com/en-int/page/home",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/catalog/45cd175c-f9f2-338b-83b9-6d7d64001733/ncaa-women-s-basketball",
+    "checked": "2026-11-11T13:33:42.903129+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba",
+    "checked": "2026-11-11T13:33:42.903129+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/eventCalendarId/401913740": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/eventCalendarId/401913740",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.nbc.com/live?brand=nbc": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.nbc.com/live?brand=nbc",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/schedule": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/schedule",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/5983c0d0-d396-4846-92c1-eb970c4a3ccb",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/996315ea-2752-4669-b9a1-cc5838bdf1c6",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/live/fs1": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/live/fs1",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/womens-college-basketball/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/nebraska-cornhuskers-vs-usc-trojans-jan-05-2027-game-boxscore-391960",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
   "https://www.foxsports.com/live/": {
     "ok": true,
     "http": 200,
     "final": "https://www.foxsports.com/live",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://texaslonghorns.com/sports/womens-basketball/Watch": {
-    "ok": false,
-    "http": 404,
-    "final": "https://texaslonghorns.com/404",
+  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994%7C205977581211%7C294932144853%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee1462ae4c": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/58e61028-0a17-441f-8b8c-06ee1462ae4c",
+    "checked": "2026-11-11T13:33:42.903129+00:00"
+  },
+  "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/uconn-huskies-vs-michigan-wolverines-nov-05-2026-game-boxscore-389368",
+    "checked": "2026-11-11T13:33:42.903129+00:00"
+  },
+  "https://www.foxsports.com/live/btn": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/live/btn",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.foxsports.com/womens-college-basketball/northwestern-wildcats-vs-usc-trojans-jan-02-2027-game-boxscore-391862": {
@@ -220,22 +215,88 @@
     "final": "https://www.foxsports.com/womens-college-basketball/northwestern-wildcats-vs-usc-trojans-jan-02-2027-game-boxscore-391862",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
+  "https://www.foxsports.com/womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/grambling-state-lady-tigers-vs-usc-trojans-dec-08-2026-game-boxscore-390977",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8cf7e7a": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/9b2c9207-a9f9-4a46-bd4e-320bc8cf7e7a",
+    "checked": "2026-11-12T01:36:44.847234+00:00"
+  },
+  "https://texaslonghorns.com/sports/womens-basketball/Watch": {
+    "ok": false,
+    "http": 404,
+    "final": "https://texaslonghorns.com/404",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099%7C200231910138%7C300168637889%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-ucla-bruins-feb-07-2027-game-boxscore-393422",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
   "https://www.bdgsportslive.com/": {
     "ok": true,
     "http": 200,
     "final": "https://www.bdgsportslive.com/",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.foxsports.com/live/btn": {
+  "https://www.espn.com/watch/schedule/_/type/upcoming": {
     "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/live/btn",
+    "http": 202,
+    "final": "https://www.espn.com/watch/schedule/_/type/upcoming",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.foxsports.com/womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406": {
+  "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-game-boxscore-392828": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/minnesota-golden-gophers-vs-usc-trojans-jan-15-2027-game-boxscore-392406",
+    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-purdue-boilermakers-jan-24-2027-game-boxscore-392828",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://uconnhuskies.com/showcase?Live=7413": {
+    "ok": true,
+    "http": 200,
+    "final": "https://uconnhuskies.com/watch/?Live=7413&type=Live",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.foxsports.com/live": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.foxsports.com/live",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8cd1-b403720df357": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/d4d43fc1-f889-404f-8cd1-b403720df357",
+    "checked": "2026-11-11T13:33:42.903129+00:00"
+  },
+  "https://www.peacocktv.com/": {
+    "ok": true,
+    "http": 200,
+    "final": "https://www.peacocktv.com/",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.foxsports.com/womens-college-basketball/penn-state-lady-lions-vs-usc-trojans-jan-18-2027-game-boxscore-392562": {
@@ -256,22 +317,10 @@
     "final": "https://www.foxsports.com/womens-college-basketball/youngstown-state-penguins-vs-usc-trojans-dec-13-2026-game-boxscore-391153",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3bf677": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/73590efd-cc7c-4981-8300-dbb18c3bf677",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/live": {
+  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/live",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://fightingirish.com": {
-    "ok": true,
-    "http": 200,
-    "final": "https://fightingirish.com/",
+    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-oregon-ducks-feb-28-2027-game-boxscore-394314": {
@@ -280,23 +329,35 @@
     "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-oregon-ducks-feb-28-2027-game-boxscore-394314",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
+  "https://uconnhuskies.com/watch/purchase.aspx#register": {
+    "ok": true,
+    "http": 200,
+    "final": "https://uconnhuskies.com/watch/purchase.aspx#register",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://iontelevision.com/schedule": {
+    "ok": true,
+    "http": 200,
+    "final": "https://iontelevision.com/schedule",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
   "https://www.espn.com/watch/player/_/id/c3cbfcc0-8075-4656-9390-d876d25db5e7": {
     "ok": true,
     "http": 202,
     "final": "https://www.espn.com/watch/player/_/id/c3cbfcc0-8075-4656-9390-d876d25db5e7",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3",
-    "checked": "2026-11-11T01:27:19.849350+00:00"
-  },
-  "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a": {
+  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502": {
     "ok": true,
     "http": 200,
-    "final": "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a",
-    "checked": "2026-11-11T01:27:19.849350+00:00"
+    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-iowa-hawkeyes-feb-11-2027-game-boxscore-393502",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62": {
+    "ok": true,
+    "http": 202,
+    "final": "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62",
+    "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05": {
     "ok": true,
@@ -304,88 +365,27 @@
     "final": "https://www.espn.com/watch/player/_/id/c82c064e-e058-41f6-94e6-4d58f8200a05",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994%7C205977581211%7C294932144853%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop",
+  "https://watchespn.com/": {
+    "ok": false,
+    "reason": "SSLError",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.foxsports.com/womens-college-basketball/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/charleston-cougars-vs-usc-trojans-nov-10-2026-game-boxscore-389659",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099|200231910138|300168637889|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=24134426099%7C200231910138%7C300168637889%7C000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=24134426099&gbraid=0AAAABAxC7zxUHPfDxXmGE",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164": {
+  "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/38e76656-03a8-4e8a-9cf5-292f9298a164",
+    "final": "https://www.espn.com/watch/player/_/id/e665e656-808c-4971-addc-f01591ae0410",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/usc-trojans-vs-rutgers-scarlet-knights-jan-11-2027-game-boxscore-392263",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.fox.com/sports/basketball/womens-college-basketball": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.fox.com/sports/basketball/womens-college-basketball",
-    "checked": "2026-11-11T13:33:42.903129+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/michigan-wolverines-vs-usc-trojans-jan-30-2027-game-boxscore-393065": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/michigan-wolverines-vs-usc-trojans-jan-30-2027-game-boxscore-393065",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.peacocktv.com/sports/college-basketball": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.peacocktv.com/sports/college-basketball",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172": {
+  "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/8993903e-9e5e-4c96-9ee1-21474c114172",
+    "final": "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/99585f8a-ffde-49d5-b510-a9b34fdec7d7",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725": {
+  "https://uconnhuskies.com/showcase?Live=7463": {
     "ok": true,
     "http": 200,
-    "final": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/utah-state-aggies-vs-usc-trojans-nov-08-2026-game-boxscore-389534",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08f29ed": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08f29ed",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.peacocktv.com/": {
-    "ok": true,
-    "http": 200,
-    "final": "https://www.peacocktv.com/",
+    "final": "https://uconnhuskies.com/watch/?Live=7463&type=Live",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
   "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695": {
@@ -394,34 +394,34 @@
     "final": "https://www.bigtenplus.com/en-int/livestream/exhibition-california-at-3-usc/2245695",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://uconnhuskies.com/watch/purchase.aspx#register": {
+  "https://www.peacocktv.com/sports/college-basketball": {
     "ok": true,
     "http": 200,
-    "final": "https://uconnhuskies.com/watch/purchase.aspx#register",
+    "final": "https://www.peacocktv.com/sports/college-basketball",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179": {
-    "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/1b13af44-b5d3-4654-b347-1316e933e179",
-    "checked": "2026-11-11T07:38:35.883309+00:00"
-  },
-  "https://www.foxsports.com/womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287": {
+  "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn": {
     "ok": true,
     "http": 200,
-    "final": "https://www.foxsports.com/womens-college-basketball/northern-arizona-lumberjacks-vs-usc-trojans-nov-23-2026-game-boxscore-390287",
+    "final": "https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f": {
+  "https://www.foxsports.com/womens-college-basketball/michigan-wolverines-vs-usc-trojans-jan-30-2027-game-boxscore-393065": {
     "ok": true,
-    "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/a8999033-3870-48b4-8fdb-352ccea6391f",
+    "http": 200,
+    "final": "https://www.foxsports.com/womens-college-basketball/michigan-wolverines-vs-usc-trojans-jan-30-2027-game-boxscore-393065",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   },
-  "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925": {
+  "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a": {
+    "ok": true,
+    "http": 200,
+    "final": "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a",
+    "checked": "2026-11-12T01:36:44.847234+00:00"
+  },
+  "https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08f29ed": {
     "ok": true,
     "http": 202,
-    "final": "https://www.espn.com/watch/player/_/id/2acbfc2a-0910-4ca0-a06d-6ceb11a54925",
+    "final": "https://www.espn.com/watch/player/_/id/2c77cec0-9772-4545-9d19-99f0b08f29ed",
     "checked": "2026-11-11T07:38:35.883309+00:00"
   }
 }
