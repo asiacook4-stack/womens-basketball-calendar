@@ -818,21 +818,20 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Arizona
 DTSTART;TZID=America/Los_Angeles:20261112T193000
 DTEND;TZID=America/Los_Angeles:20261112T214500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261113T133212Z
 UID:feaa547161fbe6875f6f21e8@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
-  a qualifying TV provider — additional access required\; verify channel 
- availability.\n\nTipoff (Pacific): Thu Nov 12\, 2026 07:30 PM PST\n\nEnd t
- ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — Big Ten Network logo: https://www.foxsports.com/live/btn\nLink che
- ck: reachable\; playback requires the appropriate login\n\nOfficial schedu
- le: https://uclabruins.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Thu Nov 12
+ \, 2026 07:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://uclabruins.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261113T133212Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live/btn
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Ohio State
