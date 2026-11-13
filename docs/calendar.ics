@@ -777,9 +777,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Norfolk State
 DTSTART;TZID=America/Los_Angeles:20261112T160000
 DTEND;TZID=America/Los_Angeles:20261112T181500
-DTSTAMP:20261112T133727Z
+DTSTAMP:20261113T191736Z
 UID:e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: MEAC Network\n\nStreaming: MEAC Network — check the
   official watch link for access requirements.\n\nTipoff (Pacific): Thu Nov
   12\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService / 
@@ -788,7 +788,7 @@ DESCRIPTION:Network: MEAC Network\n\nStreaming: MEAC Network — check the
  0a49f2b5c041610df3c72a\nLink check: reachable\; playback requires the appr
  opriate login\n\nOfficial schedule: https://goduke.com/sports/womens-baske
  tball/schedule
-LAST-MODIFIED:20261112T133727Z
+LAST-MODIFIED:20261113T191736Z
 LOCATION:Norfolk\, Va.
 TRANSP:TRANSPARENT
 URL:https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839
@@ -837,9 +837,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Ohio State
 DTSTART;TZID=America/Los_Angeles:20261112T153000
 DTEND;TZID=America/Los_Angeles:20261112T174500
-DTSTAMP:20261112T133727Z
+DTSTAMP:20261113T191736Z
 UID:192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Thu Nov 12\, 2026 03:30 PM PST\n\nEnd time is an es
@@ -847,7 +847,7 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  Sports live directory: https://www.foxsports.com/live\nLink check: reachab
  le\; playback requires the appropriate login\n\nOfficial schedule: https:/
  /uconnhuskies.com/sports/womens-basketball/schedule/
-LAST-MODIFIED:20261112T133727Z
+LAST-MODIFIED:20261113T191736Z
 LOCATION:Columbus\, Ohio
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/live

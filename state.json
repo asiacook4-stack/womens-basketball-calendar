@@ -279,7 +279,7 @@
       "network": "FS1",
       "watch": [],
       "exhibition": false,
-      "status": "PREGAME",
+      "status": "GAMECOMPLETE",
       "venue": "A",
       "note": "",
       "sources": [
@@ -287,8 +287,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-12T13:37:27.301547+00:00"
+      "sequence": 2,
+      "modified": "2026-11-13T19:17:36.144199+00:00"
     },
     "558644118eef40985cd2d79e@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6381,7 +6381,7 @@
         }
       ],
       "exhibition": false,
-      "status": "PREGAME",
+      "status": "GAMECOMPLETE",
       "venue": "A",
       "note": "",
       "sources": [
@@ -6389,8 +6389,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-12T13:37:27.301547+00:00"
+      "sequence": 3,
+      "modified": "2026-11-13T19:17:36.144199+00:00"
     },
     "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7940,61 +7940,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "South Carolina:Albany-home"
@@ -8017,31 +7962,6 @@
       ],
       "coverage": "Full team schedule",
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8075,6 +7995,31 @@
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
     },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -8104,74 +8049,65 @@
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
-    }
-  },
-  "pending": {
-    "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io": {
-      "hash": "3a21fcd63eee0e7499b0b9e4e4d6fa54294ce8deb2c8f1623a50056a9505b73d",
-      "first_seen": "2026-11-13T13:32:12.045259+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25769"
-        ],
-        "teams": [
-          "UConn",
-          "Ohio State"
-        ],
-        "date": "2026-11-12",
-        "start": "2026-11-12T23:30:00+00:00",
-        "location": "Columbus, Ohio",
-        "network": "FS1",
-        "watch": [],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-12T13:37:27.301547+00:00"
-      }
     },
-    "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io": {
-      "hash": "e319f6a1ee16dc458f2d560e0c2460f5daf193bfd8ae2dc20d8bdaced0fae3e2",
-      "first_seen": "2026-11-13T13:32:12.045259+00:00",
-      "candidate": {
-        "source_ids": [
-          "Duke:25741"
-        ],
-        "teams": [
-          "Duke",
-          "Norfolk State"
-        ],
-        "date": "2026-11-12",
-        "start": "2026-11-13T00:00:00+00:00",
-        "location": "Norfolk, Va.",
-        "network": "MEAC Network",
-        "watch": [
-          {
-            "label": "MEAC Network",
-            "url": "https://watch.meacsports.com/program-group/31ed483a1a2c1c910b82304a839c1556/program/050dccf95c0a49f2b5c041610df3c72a"
-          }
-        ],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://goduke.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-12T13:37:27.301547+00:00"
-      }
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "updated": "2026-11-13T13:32:12.045259+00:00",
+  "pending": {},
+  "updated": "2026-11-13T19:17:36.144199+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
