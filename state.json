@@ -5082,7 +5082,7 @@
       "watch": [
         {
           "label": "SECN+",
-          "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+          "url": "https://www.espn.com/watch/player/_/id/092561b3-e62c-425a-81d9-eb0ebcb96ea0"
         }
       ],
       "exhibition": false,
@@ -5094,8 +5094,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-05T01:30:08.693970+00:00"
+      "sequence": 2,
+      "modified": "2026-11-13T07:40:27.732198+00:00"
     },
     "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7945,6 +7945,56 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -7974,31 +8024,6 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8084,37 +8109,12 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
     "192660ce6b4270189e6f372e@wbb.asiacook4-stack.github.io": {
-      "hash": "6431c0fbdd490174c091a9bce64c97154f3de9181a149e5d259e68092bda8557",
-      "first_seen": "2026-11-13T01:30:15.995124+00:00",
+      "hash": "1b4566f833d5559891569b3c0f02d9c0f269891149679813d1ffa4ba515becd6",
+      "first_seen": "2026-11-13T07:40:27.732198+00:00",
       "candidate": {
         "source_ids": [
           "UConn:25769"
@@ -8129,7 +8129,7 @@
         "network": "FS1",
         "watch": [],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "POSTGAME",
         "venue": "A",
         "note": "",
         "sources": [
@@ -8141,43 +8141,38 @@
         "modified": "2026-11-12T13:37:27.301547+00:00"
       }
     },
-    "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io": {
-      "hash": "ab7e04bd70d06ad5dd3f2a89731583c432a94c30ae86c4c148f2889a4a7f90b5",
-      "first_seen": "2026-11-13T01:30:15.995124+00:00",
+    "feaa547161fbe6875f6f21e8@wbb.asiacook4-stack.github.io": {
+      "hash": "790ab4cc260ac73288c4d64d05b2b219d468c7d9969619a593047eabf75143e5",
+      "first_seen": "2026-11-13T07:40:27.732198+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23177"
+          "UCLA:19157"
         ],
         "teams": [
-          "Texas",
-          "Tarleton State"
+          "UCLA",
+          "Arizona"
         ],
-        "date": "2026-11-14",
-        "start": "2026-11-14T18:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "SECN+",
-        "watch": [
-          {
-            "label": "SECN+",
-            "url": "https://www.espn.com/watch/player/_/id/092561b3-e62c-425a-81d9-eb0ebcb96ea0"
-          }
-        ],
+        "date": "2026-11-12",
+        "start": "2026-11-13T03:30:00+00:00",
+        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
+        "network": "",
+        "watch": [],
         "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "H",
+        "status": "completed",
+        "venue": "home",
         "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+          "https://uclabruins.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-05T01:30:08.693970+00:00"
+        "uid": "feaa547161fbe6875f6f21e8@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     },
     "e57c4dadd0d6f0896124d8c6@wbb.asiacook4-stack.github.io": {
-      "hash": "19b5bd0483000732df2835396f2794a819257d44ee4d9cfcca82d8c874b76181",
-      "first_seen": "2026-11-13T01:30:15.995124+00:00",
+      "hash": "1282a63c7c755f2b987866d42e8a15a4b883f507dd93f9345b24d1ed3c2f85bc",
+      "first_seen": "2026-11-13T07:40:27.732198+00:00",
       "candidate": {
         "source_ids": [
           "Duke:25741"
@@ -8197,7 +8192,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "FULLTIME",
         "venue": "A",
         "note": "",
         "sources": [
@@ -8210,7 +8205,7 @@
       }
     }
   },
-  "updated": "2026-11-13T01:30:15.995124+00:00",
+  "updated": "2026-11-13T07:40:27.732198+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
