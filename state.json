@@ -7940,6 +7940,31 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -8000,28 +8025,28 @@
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
     },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "Duke:25740"
+        "NC State:24744"
       ],
       "teams": [
-        "Duke",
-        "North Texas"
+        "NC State",
+        "Kentucky"
       ],
       "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
       "watch": [],
       "exhibition": false,
       "status": "SCHEDULED",
       "venue": "N",
-      "note": "The Foundry Classic",
+      "note": "Ally Tipoff",
       "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
+        "https://gopack.com/sports/womens-basketball/schedule"
       ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8047,31 +8072,6 @@
       ],
       "coverage": "Full team schedule",
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8106,8 +8106,43 @@
       "modified": "2026-10-22T01:03:42.762423+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-11-14T01:27:40.248457+00:00",
+  "pending": {
+    "0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io": {
+      "hash": "d5a6685c46a04a73438de846c64da5e9453964ea11fcc65f537c2af7ffa7f549",
+      "first_seen": "2026-11-14T07:27:29.019460+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:21029"
+        ],
+        "teams": [
+          "LSU",
+          "Denver"
+        ],
+        "date": "2026-11-13",
+        "start": "2026-11-14T00:00:00+00:00",
+        "location": "Baton Rouge, La. (Maravich Center)",
+        "network": "SEC Network+",
+        "watch": [
+          {
+            "label": "SEC Network+",
+            "url": "https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f74b62"
+          }
+        ],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-10-23T07:09:12.993192+00:00"
+      }
+    }
+  },
+  "updated": "2026-11-14T07:27:29.019460+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
