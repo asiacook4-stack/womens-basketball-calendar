@@ -856,9 +856,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Denver
 DTSTART;TZID=America/Los_Angeles:20261113T160000
 DTEND;TZID=America/Los_Angeles:20261113T181500
-DTSTAMP:20261023T070912Z
+DTSTAMP:20261114T131524Z
 UID:0ab1291f4f1dfb8ee3533cc6@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Fri Nov 13\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
@@ -866,7 +866,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  80-9538-4b16-a7b6-186842f74b62\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/
-LAST-MODIFIED:20261023T070912Z
+LAST-MODIFIED:20261114T131524Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/b8f0a680-9538-4b16-a7b6-186842f
