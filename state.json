@@ -7940,6 +7940,56 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -7969,86 +8019,6 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25767"
-      ],
-      "teams": [
-        "UConn",
-        "Army"
-      ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8104,10 +8074,119 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-11-14T13:15:24.868247+00:00",
+  "pending": {
+    "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io": {
+      "hash": "77af4ec1420e4a236ee576f73bf2e29785f5b280abc270c19c1f5869739d35c2",
+      "first_seen": "2026-11-14T19:07:04.532459+00:00",
+      "candidate": {
+        "source_ids": [
+          "Texas:23177"
+        ],
+        "teams": [
+          "Texas",
+          "Tarleton State"
+        ],
+        "date": "2026-11-14",
+        "start": "2026-11-14T18:00:00+00:00",
+        "location": "Austin, Texas",
+        "network": "SECN+",
+        "watch": [
+          {
+            "label": "SECN+",
+            "url": "https://www.espn.com/watch/player/_/id/092561b3-e62c-425a-81d9-eb0ebcb96ea0"
+          }
+        ],
+        "exhibition": false,
+        "status": "LIVE",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-11-13T07:40:27.732198+00:00"
+      }
+    },
+    "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io": {
+      "hash": "5b40d4f9d5ce48cf7029b0c230cac377b0bed024e30a7c9b94bd59e806bb6d22",
+      "first_seen": "2026-11-14T19:07:04.532459+00:00",
+      "candidate": {
+        "source_ids": [
+          "Vanderbilt:10832",
+          "Iowa:23102"
+        ],
+        "teams": [
+          "Vanderbilt",
+          "Iowa"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T18:00:00+00:00",
+        "location": "Sioux City, Iowa • Tyson Events Center",
+        "network": "FS1 / Fox One Logo / FS1",
+        "watch": [
+          {
+            "label": "FS1",
+            "url": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop"
+          },
+          {
+            "label": "Fox One Logo",
+            "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
+          },
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/live"
+          }
+        ],
+        "exhibition": false,
+        "status": "as_scheduled",
+        "venue": "neutral",
+        "note": "Bad Boy Mowers Series - Sioux City",
+        "sources": [
+          "https://vucommodores.com/sports/wbball/schedule",
+          "https://hawkeyesports.com/sports/wbball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    }
+  },
+  "updated": "2026-11-14T19:07:04.532459+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
