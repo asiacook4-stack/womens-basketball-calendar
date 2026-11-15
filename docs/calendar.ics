@@ -894,9 +894,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Tarleton State
 DTSTART;TZID=America/Los_Angeles:20261114T100000
 DTEND;TZID=America/Los_Angeles:20261114T121500
-DTSTAMP:20261115T072935Z
+DTSTAMP:20261115T190802Z
 UID:784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io
-SEQUENCE:3
+SEQUENCE:4
 DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sat
   Nov 14\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -904,7 +904,7 @@ DESCRIPTION:Network: SECN+\n\nStreaming: ESPN app — included with your E
  1d9-eb0ebcb96ea0\nLink check: reachable\; playback requires the appropriat
  e login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-bas
  ketball/schedule
-LAST-MODIFIED:20261115T072935Z
+LAST-MODIFIED:20261115T190802Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/092561b3-e62c-425a-81d9-eb0ebcb
@@ -1174,14 +1174,14 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Thu Nov 19\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Seton Hall
@@ -1564,14 +1564,14 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Sun Nov 29\, 2026 02:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Iowa State
@@ -2026,14 +2026,14 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Fri Dec 11\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Carolina vs Wofford
@@ -2632,14 +2632,14 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Wed Dec 30\, 2026 06:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Virginia
@@ -2969,13 +2969,13 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Tue Jan 05\, 2027 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:West Lafayette\, Ind. / Mackey Arena
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Nebraska
@@ -3476,14 +3476,14 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Fri Jan 15\, 2027 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261031T012305Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Minnesota
@@ -3811,13 +3811,13 @@ DESCRIPTION:Network: BIG TEN PLUS\n\nStreaming: B1G+ — separate paid sub
  scription\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacifi
  c): Thu Jan 21\, 2027 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
  nService / channel page (not a game deep link) — BIG_TEN_PLUS_logo.png: 
- https://www.bigtenplus.com/\nLink check: reachable\; playback requires the
-  appropriate login\n\nOfficial schedule: https://uclabruins.com/sports/wom
- ens-basketball/schedule
+ https://www.bigtenplus.com/\nLink check: published by the official team\; 
+ automated verification unavailable\, HTTP unknown\n\nOfficial schedule: ht
+ tps://uclabruins.com/sports/womens-basketball/schedule
 LAST-MODIFIED:20261019T235708Z
 LOCATION:Piscataway\, N.J. / Jersey Mike's Arena
 TRANSP:TRANSPARENT
-URL:https://www.bigtenplus.com/
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Clemson
