@@ -7930,15 +7930,75 @@
       "exhibition": false,
       "status": "as_scheduled",
       "venue": "neutral",
-      "note": "",
+      "note": "Bad Boy Mowers Series - Sioux City",
       "sources": [
         "https://vucommodores.com/sports/wbball/schedule",
         "https://hawkeyesports.com/sports/wbball/schedule"
       ],
       "coverage": "National spotlight",
       "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-15T01:31:35.047746+00:00"
+    },
+    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25600"
+      ],
+      "teams": [
+        "UConn",
+        "Syracuse"
+      ],
+      "date": "2026-10-12",
+      "start": "2026-10-12T22:30:00+00:00",
+      "location": "Uncasville, Conn.",
+      "network": "NBC Sports Boston/UConn+",
+      "watch": [
+        {
+          "label": "NBC Sports Boston/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7413"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "N",
+      "note": "Hall of Fame Series Exhibition",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
+      "sequence": 1,
+      "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7962,6 +8022,31 @@
       ],
       "coverage": "National spotlight",
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
@@ -8019,97 +8104,12 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
-    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25600"
-      ],
-      "teams": [
-        "UConn",
-        "Syracuse"
-      ],
-      "date": "2026-10-12",
-      "start": "2026-10-12T22:30:00+00:00",
-      "location": "Uncasville, Conn.",
-      "network": "NBC Sports Boston/UConn+",
-      "watch": [
-        {
-          "label": "NBC Sports Boston/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7413"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "N",
-      "note": "Hall of Fame Series Exhibition",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-22T01:03:42.762423+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25767"
-      ],
-      "teams": [
-        "UConn",
-        "Army"
-      ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
     }
   },
   "pending": {
     "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io": {
-      "hash": "77af4ec1420e4a236ee576f73bf2e29785f5b280abc270c19c1f5869739d35c2",
-      "first_seen": "2026-11-14T19:07:04.532459+00:00",
+      "hash": "8816f0c5bbe6226712876f3946ac5c886d76dc681758220ec918fa931c1eb7d3",
+      "first_seen": "2026-11-15T01:31:35.047746+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23177"
@@ -8129,7 +8129,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "FULLTIME",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8141,52 +8141,37 @@
         "modified": "2026-11-13T07:40:27.732198+00:00"
       }
     },
-    "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io": {
-      "hash": "5b40d4f9d5ce48cf7029b0c230cac377b0bed024e30a7c9b94bd59e806bb6d22",
-      "first_seen": "2026-11-14T19:07:04.532459+00:00",
+    "1ad95a55083f23a3aea429c5@wbb.asiacook4-stack.github.io": {
+      "hash": "cb26dce8a7a4a4dde4a2781f96807caecd724dc8bb738f4166b065c4ce583d39",
+      "first_seen": "2026-11-15T01:31:35.047746+00:00",
       "candidate": {
         "source_ids": [
-          "Vanderbilt:10832",
-          "Iowa:23102"
+          "Notre Dame:21005"
         ],
         "teams": [
-          "Vanderbilt",
-          "Iowa"
+          "Notre Dame",
+          "DePaul"
         ],
-        "date": "2026-11-15",
-        "start": "2026-11-15T18:00:00+00:00",
-        "location": "Sioux City, Iowa • Tyson Events Center",
-        "network": "FS1 / Fox One Logo / FS1",
-        "watch": [
-          {
-            "label": "FS1",
-            "url": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop"
-          },
-          {
-            "label": "Fox One Logo",
-            "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
-          },
-          {
-            "label": "FS1",
-            "url": "https://www.foxsports.com/live"
-          }
-        ],
+        "date": "2026-11-14",
+        "start": "2026-11-14T18:00:00+00:00",
+        "location": "White Sulphur Springs, WV",
+        "network": "",
+        "watch": [],
         "exhibition": false,
-        "status": "as_scheduled",
+        "status": "completed",
         "venue": "neutral",
-        "note": "Bad Boy Mowers Series - Sioux City",
+        "note": "SoFi Shamrock Classic",
         "sources": [
-          "https://vucommodores.com/sports/wbball/schedule",
-          "https://hawkeyesports.com/sports/wbball/schedule"
+          "https://fightingirish.com/sports/wbball/schedule/"
         ],
-        "coverage": "National spotlight",
-        "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
+        "coverage": "Full team schedule",
+        "uid": "1ad95a55083f23a3aea429c5@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-14T19:07:04.532459+00:00",
+  "updated": "2026-11-15T01:31:35.047746+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",

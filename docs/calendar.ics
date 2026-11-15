@@ -996,9 +996,9 @@ BEGIN:VEVENT
 SUMMARY:Vanderbilt vs Iowa
 DTSTART;TZID=America/Los_Angeles:20261115T100000
 DTEND;TZID=America/Los_Angeles:20261115T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261115T013135Z
 UID:8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  OX One or a qualifying TV provider — additional access required\; verify
   channel availability.\n\nTipoff (Pacific): Sun Nov 15\, 2026 10:00 AM PST
@@ -1015,9 +1015,10 @@ DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
  ot a game deep link) — FS1: https://www.foxsports.com/live\nLink check: 
  reachable\; playback requires the appropriate login\n\nOfficial schedule: 
  https://vucommodores.com/sports/wbball/schedule\n\nOfficial schedule: http
- s://hawkeyesports.com/sports/wbball/schedule\n\nNational spotlight: matchu
- p between teams in the published contender pool.
-LAST-MODIFIED:20261019T235708Z
+ s://hawkeyesports.com/sports/wbball/schedule\n\nBad Boy Mowers Series - Si
+ oux City\n\nNational spotlight: matchup between teams in the published con
+ tender pool.
+LAST-MODIFIED:20261115T013135Z
 LOCATION:Sioux City\, Iowa • Tyson Events Center
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=
