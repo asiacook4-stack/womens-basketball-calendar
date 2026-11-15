@@ -5081,7 +5081,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "FULLTIME",
       "venue": "H",
       "note": "",
       "sources": [
@@ -5089,8 +5089,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-13T07:40:27.732198+00:00"
+      "sequence": 3,
+      "modified": "2026-11-15T07:29:35.733324+00:00"
     },
     "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6313,15 +6313,10 @@
       "date": "2026-11-14",
       "start": "2026-11-14T18:00:00+00:00",
       "location": "White Sulphur Springs, WV",
-      "network": "NBC/Peacock",
-      "watch": [
-        {
-          "label": "NBC/Peacock",
-          "url": "https://www.peacocktv.com/"
-        }
-      ],
+      "network": "",
+      "watch": [],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "neutral",
       "note": "SoFi Shamrock Classic",
       "sources": [
@@ -6329,8 +6324,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "1ad95a55083f23a3aea429c5@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-15T07:29:35.733324+00:00"
     },
     "e679b175394b43a8470a9350@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7940,6 +7935,31 @@
       "sequence": 1,
       "modified": "2026-11-15T01:31:35.047746+00:00"
     },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -7969,6 +7989,31 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8000,81 +8045,6 @@
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Maryland:22435"
@@ -8104,74 +8074,106 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io": {
-      "hash": "8816f0c5bbe6226712876f3946ac5c886d76dc681758220ec918fa931c1eb7d3",
-      "first_seen": "2026-11-15T01:31:35.047746+00:00",
+    "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io": {
+      "hash": "76ff8d9222e6c7c2d3139f199e02e965a2a102c96262b217368587e37dfa4b5d",
+      "first_seen": "2026-11-15T07:29:35.733324+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23177"
+          "UConn:25609",
+          "Louisville:26442"
         ],
         "teams": [
-          "Texas",
-          "Tarleton State"
+          "UConn",
+          "Louisville"
         ],
-        "date": "2026-11-14",
-        "start": "2026-11-14T18:00:00+00:00",
-        "location": "Austin, Texas",
-        "network": "SECN+",
+        "date": "2026-11-15",
+        "start": "2026-11-15T22:30:00+00:00",
+        "location": "Louisville, Ky.",
+        "network": "ESPN",
         "watch": [
           {
-            "label": "SECN+",
-            "url": "https://www.espn.com/watch/player/_/id/092561b3-e62c-425a-81d9-eb0ebcb96ea0"
+            "label": "Official watch link",
+            "url": "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba"
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "PREGAME",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://gocards.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-09T07:49:36.172587+00:00"
+      }
+    },
+    "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io": {
+      "hash": "7b8a69c427b4fe468c9f90f1ce28d77cb81bc72816fc4e7943d314f42b1176d6",
+      "first_seen": "2026-11-15T07:29:35.733324+00:00",
+      "candidate": {
+        "source_ids": [
+          "Duke:25742"
+        ],
+        "teams": [
+          "Duke",
+          "Marshall"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T20:00:00+00:00",
+        "location": "Durham, N.C.",
+        "network": "ACCN",
+        "watch": [
+          {
+            "label": "ACCN",
+            "url": "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3"
+          }
+        ],
+        "exhibition": false,
+        "status": "PREGAME",
         "venue": "H",
         "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+          "https://goduke.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "784c1be5f0f29a53b1a8aa6c@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-13T07:40:27.732198+00:00"
-      }
-    },
-    "1ad95a55083f23a3aea429c5@wbb.asiacook4-stack.github.io": {
-      "hash": "cb26dce8a7a4a4dde4a2781f96807caecd724dc8bb738f4166b065c4ce583d39",
-      "first_seen": "2026-11-15T01:31:35.047746+00:00",
-      "candidate": {
-        "source_ids": [
-          "Notre Dame:21005"
-        ],
-        "teams": [
-          "Notre Dame",
-          "DePaul"
-        ],
-        "date": "2026-11-14",
-        "start": "2026-11-14T18:00:00+00:00",
-        "location": "White Sulphur Springs, WV",
-        "network": "",
-        "watch": [],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "neutral",
-        "note": "SoFi Shamrock Classic",
-        "sources": [
-          "https://fightingirish.com/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "1ad95a55083f23a3aea429c5@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
+        "uid": "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-11T01:27:19.849350+00:00"
       }
     }
   },
-  "updated": "2026-11-15T01:31:35.047746+00:00",
+  "updated": "2026-11-15T07:29:35.733324+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
