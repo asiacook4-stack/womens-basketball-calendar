@@ -914,9 +914,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Marshall
 DTSTART;TZID=America/Los_Angeles:20261115T120000
 DTEND;TZID=America/Los_Angeles:20261115T141500
-DTSTAMP:20261115T131646Z
+DTSTAMP:20261116T152951Z
 UID:e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: ACCN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 15\, 2026 12:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
@@ -924,7 +924,7 @@ DESCRIPTION:Network: ACCN\n\nStreaming: ESPN app — included with your ES
  4-07eb756860a3\nLink check: reachable\; playback requires the appropriate 
  login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/sc
  hedule
-LAST-MODIFIED:20261115T131646Z
+LAST-MODIFIED:20261116T152951Z
 LOCATION:Durham\, N.C.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756
@@ -955,29 +955,28 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Princeton
 DTSTART;TZID=America/Los_Angeles:20261115T150000
 DTEND;TZID=America/Los_Angeles:20261115T171500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261116T152951Z
 UID:29e5fbbb10a207d7d3456ad9@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
-  a qualifying TV provider — additional access required\; verify channel 
- availability.\n\nTipoff (Pacific): Sun Nov 15\, 2026 03:00 PM PST\n\nEnd t
- ime is an estimate (2h 15m).\n\nService / channel page (not a game deep li
- nk) — Big Ten Network logo: https://www.foxsports.com/live/btn\nLink che
- ck: reachable\; playback requires the appropriate login\n\nOfficial schedu
- le: https://uclabruins.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Sun Nov 15
+ \, 2026 03:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://uclabruins.com/sports/womens-basketball/schedule
+LAST-MODIFIED:20261116T152951Z
 LOCATION:Los Angeles\, Calif. / Pauley Pavilion presented by Wescom Financ
  ial
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live/btn
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Louisville
 DTSTART;TZID=America/Los_Angeles:20261115T143000
 DTEND;TZID=America/Los_Angeles:20261115T164500
-DTSTAMP:20261115T131646Z
+DTSTAMP:20261116T152951Z
 UID:9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 15\, 2026 02:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
@@ -986,7 +985,7 @@ DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  he appropriate login\n\nOfficial schedule: https://uconnhuskies.com/sports
  /womens-basketball/schedule/\n\nOfficial schedule: https://gocards.com/spo
  rts/womens-basketball/schedule
-LAST-MODIFIED:20261115T131646Z
+LAST-MODIFIED:20261116T152951Z
 LOCATION:Louisville\, Ky.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb
