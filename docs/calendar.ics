@@ -996,35 +996,28 @@ BEGIN:VEVENT
 SUMMARY:Vanderbilt vs Iowa
 DTSTART;TZID=America/Los_Angeles:20261115T100000
 DTEND;TZID=America/Los_Angeles:20261115T121500
-DTSTAMP:20261115T013135Z
+DTSTAMP:20261116T090845Z
 UID:8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io
-SEQUENCE:1
-DESCRIPTION:Network: FS1 / Fox One Logo / FS1\n\nStreaming: FOX Sports / F
- OX One or a qualifying TV provider — additional access required\; verify
-  channel availability.\n\nTipoff (Pacific): Sun Nov 15\, 2026 10:00 AM PST
- \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
- e deep link) — FS1: https://www.fox.com/sports?cmpid=org=one::ag=paid::m
- c=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|2059
- 77581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&g
- ad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop\nLink check: reach
- able\; playback requires the appropriate login\n\nService / channel page (
- not a game deep link) — Fox One Logo: https://www.fox.com/sports/footbal
- l/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cm
- p=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B\nLink check: reacha
- ble\; playback requires the appropriate login\n\nService / channel page (n
- ot a game deep link) — FS1: https://www.foxsports.com/live\nLink check: 
- reachable\; playback requires the appropriate login\n\nOfficial schedule: 
- https://vucommodores.com/sports/wbball/schedule\n\nOfficial schedule: http
- s://hawkeyesports.com/sports/wbball/schedule\n\nBad Boy Mowers Series - Si
- oux City\n\nNational spotlight: matchup between teams in the published con
- tender pool.
-LAST-MODIFIED:20261115T013135Z
+SEQUENCE:2
+DESCRIPTION:Network: Fox One Logo / FS1\n\nStreaming: FOX Sports / FOX One
+  or a qualifying TV provider — additional access required\; verify chann
+ el availability.\n\nTipoff (Pacific): Sun Nov 15\, 2026 10:00 AM PST\n\nEn
+ d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
+  link) — Fox One Logo: https://www.fox.com/sports/football/college-footb
+ all?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::c
+ ont=m2_tp10::add=07_29_08_00_41_00_02_B\nLink check: reachable\; playback 
+ requires the appropriate login\n\nService / channel page (not a game deep 
+ link) — FS1: https://www.foxsports.com/live\nLink check: reachable\; pla
+ yback requires the appropriate login\n\nOfficial schedule: https://vucommo
+ dores.com/sports/wbball/schedule\n\nOfficial schedule: https://hawkeyespor
+ ts.com/sports/wbball/schedule\n\nBad Boy Mowers Series - Sioux City\n\nNat
+ ional spotlight: matchup between teams in the published contender pool.
+LAST-MODIFIED:20261116T090845Z
 LOCATION:Sioux City\, Iowa • Tyson Events Center
 TRANSP:TRANSPARENT
-URL:https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=
- SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144
- 853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=2291
- 2503994&gclid=CjwKCAjw25fWBhAVEiwAMop
+URL:https://www.fox.com/sports/football/college-football?cmpid=org=one::ag
+ =partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_2
+ 9_08_00_41_00_02_B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Troy

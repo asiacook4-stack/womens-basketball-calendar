@@ -7907,12 +7907,8 @@
       "date": "2026-11-15",
       "start": "2026-11-15T18:00:00+00:00",
       "location": "Sioux City, Iowa • Tyson Events Center",
-      "network": "FS1 / Fox One Logo / FS1",
+      "network": "Fox One Logo / FS1",
       "watch": [
-        {
-          "label": "FS1",
-          "url": "https://www.fox.com/sports?cmpid=org=one::ag=paid::mc=paidsearch::src=SA360::cmp=100_o2_th1::cont=m2_tp2::add=22912503994|205977581211|294932144853|000000000000000000000000&gclsrc=aw.ds&gad_source=1&gad_campaignid=22912503994&gclid=CjwKCAjw25fWBhAVEiwAMop"
-        },
         {
           "label": "Fox One Logo",
           "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
@@ -7923,7 +7919,7 @@
         }
       ],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "neutral",
       "note": "Bad Boy Mowers Series - Sioux City",
       "sources": [
@@ -7932,33 +7928,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-15T01:31:35.047746+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 2,
+      "modified": "2026-11-16T09:08:45.046215+00:00"
     },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8015,31 +7986,6 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -8069,6 +8015,56 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8103,8 +8099,8 @@
   },
   "pending": {
     "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io": {
-      "hash": "1937cb71d3f0e1a5655960387bdc83ed94c3054815b038b028276f9391d51ac0",
-      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "hash": "8fb89efe09e399c97d151f512f1bc32a003711001985390a8cd9f4a084d1bb98",
+      "first_seen": "2026-11-16T09:08:45.046215+00:00",
       "candidate": {
         "source_ids": [
           "UConn:25609",
@@ -8125,7 +8121,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "A",
         "note": "",
         "sources": [
@@ -8139,8 +8135,8 @@
       }
     },
     "29e5fbbb10a207d7d3456ad9@wbb.asiacook4-stack.github.io": {
-      "hash": "fc8eeac41c2d7ce8b8a8deb02a17ece45f0e09576368b1192e8e286a3415be49",
-      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "hash": "0b340d57c7ba001548de2f3fae14bd1abf704db9b67f64e1263f0e7ea33666d7",
+      "first_seen": "2026-11-16T09:08:45.046215+00:00",
       "candidate": {
         "source_ids": [
           "UCLA:19162"
@@ -8152,13 +8148,8 @@
         "date": "2026-11-15",
         "start": "2026-11-15T23:00:00+00:00",
         "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
-        "network": "Big Ten Network",
-        "watch": [
-          {
-            "label": "Big Ten Network logo",
-            "url": "https://www.foxsports.com/live/btn"
-          }
-        ],
+        "network": "",
+        "watch": [],
         "exhibition": false,
         "status": "completed",
         "venue": "home",
@@ -8173,8 +8164,8 @@
       }
     },
     "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io": {
-      "hash": "94b23d88df2876a32568a0b07cb1e5ae538bf561de8f04949023fcf593719cb9",
-      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "hash": "a47ff8a136ed57ba6edee97aa45f49475f84778b3ae39f23d12d5cd954d9b2ea",
+      "first_seen": "2026-11-16T09:08:45.046215+00:00",
       "candidate": {
         "source_ids": [
           "Duke:25742"
@@ -8194,7 +8185,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8205,49 +8196,9 @@
         "sequence": 2,
         "modified": "2026-11-15T13:16:46.553998+00:00"
       }
-    },
-    "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io": {
-      "hash": "6a6b21b50de8d9f0057b0e1427bff77b373311eb23bc333c96f5d5a6596ed9b5",
-      "first_seen": "2026-11-16T01:48:08.338964+00:00",
-      "candidate": {
-        "source_ids": [
-          "Vanderbilt:10832",
-          "Iowa:23102"
-        ],
-        "teams": [
-          "Vanderbilt",
-          "Iowa"
-        ],
-        "date": "2026-11-15",
-        "start": "2026-11-15T18:00:00+00:00",
-        "location": "Sioux City, Iowa • Tyson Events Center",
-        "network": "Fox One Logo / FS1",
-        "watch": [
-          {
-            "label": "Fox One Logo",
-            "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
-          },
-          {
-            "label": "FS1",
-            "url": "https://www.foxsports.com/live"
-          }
-        ],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "neutral",
-        "note": "Bad Boy Mowers Series - Sioux City",
-        "sources": [
-          "https://vucommodores.com/sports/wbball/schedule",
-          "https://hawkeyesports.com/sports/wbball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-15T01:31:35.047746+00:00"
-      }
     }
   },
-  "updated": "2026-11-16T01:48:08.338964+00:00",
+  "updated": "2026-11-16T09:08:45.046215+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
