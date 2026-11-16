@@ -7935,91 +7935,6 @@
       "sequence": 1,
       "modified": "2026-11-15T01:31:35.047746+00:00"
     },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25767"
-      ],
-      "teams": [
-        "UConn",
-        "Army"
-      ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -8070,6 +7985,61 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -8099,10 +8069,185 @@
       "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     }
   },
-  "pending": {},
-  "updated": "2026-11-15T19:08:02.435272+00:00",
+  "pending": {
+    "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io": {
+      "hash": "1937cb71d3f0e1a5655960387bdc83ed94c3054815b038b028276f9391d51ac0",
+      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "candidate": {
+        "source_ids": [
+          "UConn:25609",
+          "Louisville:26442"
+        ],
+        "teams": [
+          "UConn",
+          "Louisville"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T22:30:00+00:00",
+        "location": "Louisville, Ky.",
+        "network": "ESPN",
+        "watch": [
+          {
+            "label": "Official watch link",
+            "url": "https://www.espn.com/watch/player/_/id/111f36a9-d4b0-477c-acb9-9c596fb11cba"
+          }
+        ],
+        "exhibition": false,
+        "status": "FULLTIME",
+        "venue": "A",
+        "note": "",
+        "sources": [
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://gocards.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "9452c95629ca9034064e2648@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-11-15T13:16:46.553998+00:00"
+      }
+    },
+    "29e5fbbb10a207d7d3456ad9@wbb.asiacook4-stack.github.io": {
+      "hash": "fc8eeac41c2d7ce8b8a8deb02a17ece45f0e09576368b1192e8e286a3415be49",
+      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "candidate": {
+        "source_ids": [
+          "UCLA:19162"
+        ],
+        "teams": [
+          "UCLA",
+          "Princeton"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T23:00:00+00:00",
+        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
+        "network": "Big Ten Network",
+        "watch": [
+          {
+            "label": "Big Ten Network logo",
+            "url": "https://www.foxsports.com/live/btn"
+          }
+        ],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://uclabruins.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "29e5fbbb10a207d7d3456ad9@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io": {
+      "hash": "94b23d88df2876a32568a0b07cb1e5ae538bf561de8f04949023fcf593719cb9",
+      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "candidate": {
+        "source_ids": [
+          "Duke:25742"
+        ],
+        "teams": [
+          "Duke",
+          "Marshall"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T20:00:00+00:00",
+        "location": "Durham, N.C.",
+        "network": "ACCN",
+        "watch": [
+          {
+            "label": "ACCN",
+            "url": "https://www.espn.com/watch/player/_/id/297202b2-deff-440a-8f44-07eb756860a3"
+          }
+        ],
+        "exhibition": false,
+        "status": "FULLTIME",
+        "venue": "H",
+        "note": "",
+        "sources": [
+          "https://goduke.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "e86b7c0930fd84e614584936@wbb.asiacook4-stack.github.io",
+        "sequence": 2,
+        "modified": "2026-11-15T13:16:46.553998+00:00"
+      }
+    },
+    "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io": {
+      "hash": "6a6b21b50de8d9f0057b0e1427bff77b373311eb23bc333c96f5d5a6596ed9b5",
+      "first_seen": "2026-11-16T01:48:08.338964+00:00",
+      "candidate": {
+        "source_ids": [
+          "Vanderbilt:10832",
+          "Iowa:23102"
+        ],
+        "teams": [
+          "Vanderbilt",
+          "Iowa"
+        ],
+        "date": "2026-11-15",
+        "start": "2026-11-15T18:00:00+00:00",
+        "location": "Sioux City, Iowa • Tyson Events Center",
+        "network": "Fox One Logo / FS1",
+        "watch": [
+          {
+            "label": "Fox One Logo",
+            "url": "https://www.fox.com/sports/football/college-football?cmpid=org=one::ag=partnership::mc=referral::src=UOI::cmp=100_o1_th1::cont=m2_tp10::add=07_29_08_00_41_00_02_B"
+          },
+          {
+            "label": "FS1",
+            "url": "https://www.foxsports.com/live"
+          }
+        ],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "neutral",
+        "note": "Bad Boy Mowers Series - Sioux City",
+        "sources": [
+          "https://vucommodores.com/sports/wbball/schedule",
+          "https://hawkeyesports.com/sports/wbball/schedule"
+        ],
+        "coverage": "National spotlight",
+        "uid": "8af04a98d7e027196913d39c@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-15T01:31:35.047746+00:00"
+      }
+    }
+  },
+  "updated": "2026-11-16T01:48:08.338964+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
