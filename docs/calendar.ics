@@ -1692,21 +1692,22 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Duke
 DTSTART;TZID=America/Los_Angeles:20261203T160000
 DTEND;TZID=America/Los_Angeles:20261203T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T074216Z
 UID:9f78dd117c3e03f9c10dc8ff@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Thu 
- Dec 03\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN watch directory: https://w
- ww.espn.com/watch/\nLink check: reachable\; playback requires the appropri
- ate login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/
- schedule/\n\nOfficial schedule: https://goduke.com/sports/womens-basketbal
- l/schedule\n\nSEC-ACC Challenge
-LAST-MODIFIED:20261019T235708Z
+ Dec 03\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — ESPN: https://www.espn.com/watch/player/_/id/be8d351d-e254-4533-825
+ 1-64aa0b1a70b3\nLink check: reachable\; playback requires the appropriate 
+ login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/sche
+ dule/\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/sc
+ hedule\n\nSEC-ACC Challenge
+LAST-MODIFIED:20261117T074216Z
 LOCATION:Durham\, NC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/be8d351d-e254-4533-8251-64aa0b1
+ a70b3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Michigan vs Oklahoma
@@ -1826,20 +1827,21 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Oklahoma State
 DTSTART;TZID=America/Los_Angeles:20261206T130000
 DTEND;TZID=America/Los_Angeles:20261206T151500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T074216Z
 UID:f039a6176ffe047b6a6c86a2@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ABC\n\nStreaming: ESPN app — included with your ESP
  N Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun D
- ec 06\, 2026 01:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService 
- / channel page (not a game deep link) — ESPN watch directory: https://ww
- w.espn.com/watch/\nLink check: reachable\; playback requires the appropria
- te login\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/s
- chedule/
-LAST-MODIFIED:20261019T235708Z
+ ec 06\, 2026 01:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame lin
+ k — ABC: https://www.espn.com/watch/player/_/id/90f19f97-13f5-48f0-975c-
+ 3424502e711f\nLink check: reachable\; playback requires the appropriate lo
+ gin\n\nOfficial schedule: https://gamecocksonline.com/sports/wbball/schedu
+ le/
+LAST-MODIFIED:20261117T074216Z
 LOCATION:Columbia\, SC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/90f19f97-13f5-48f0-975c-3424502
+ e711f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs TCU
@@ -2031,20 +2033,21 @@ BEGIN:VEVENT
 SUMMARY:South Carolina vs Wofford
 DTSTART;TZID=America/Los_Angeles:20261212T090000
 DTEND;TZID=America/Los_Angeles:20261212T111500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T074216Z
 UID:817f8b840831dfc1e8a44bd4@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Sat Dec 12\, 2026 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — ESPN watch directory: h
- ttps://www.espn.com/watch/\nLink check: reachable\; playback requires the 
- appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sports
- /wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/a96350
+ 27-9c06-4e5a-9b7b-306981312312\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://gamecocksonline.com/sp
+ orts/wbball/schedule/
+LAST-MODIFIED:20261117T074216Z
 LOCATION:Columbia\, SC
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/a9635027-9c06-4e5a-9b7b-3069813
+ 12312
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Tennessee
