@@ -1022,9 +1022,9 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Troy
 DTSTART;TZID=America/Los_Angeles:20261116T170000
 DTEND;TZID=America/Los_Angeles:20261116T191500
-DTSTAMP:20261023T070912Z
+DTSTAMP:20261117T133531Z
 UID:59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Mon Nov 16\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
@@ -1032,7 +1032,7 @@ DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
  c2-3129-4ece-8664-1d392c561c04\nLink check: reachable\; playback requires 
  the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
  bball/schedule/
-LAST-MODIFIED:20261023T070912Z
+LAST-MODIFIED:20261117T133531Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c5

@@ -3821,7 +3821,7 @@
         }
       ],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "",
       "sources": [
@@ -3829,8 +3829,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-23T07:09:12.993192+00:00"
+      "sequence": 2,
+      "modified": "2026-11-17T13:35:31.475409+00:00"
     },
     "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7968,6 +7968,31 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -8077,70 +8102,10 @@
       "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
-  "pending": {
-    "59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io": {
-      "hash": "c7ab1c2653ae937e4687961b234c3ca258d9a685aa3c16e00d2db2efe40af75b",
-      "first_seen": "2026-11-17T07:42:16.163469+00:00",
-      "candidate": {
-        "source_ids": [
-          "LSU:21030"
-        ],
-        "teams": [
-          "LSU",
-          "Troy"
-        ],
-        "date": "2026-11-16",
-        "start": "2026-11-17T01:00:00+00:00",
-        "location": "Baton Rouge, La. (Maravich Center)",
-        "network": "SEC Network+",
-        "watch": [
-          {
-            "label": "SEC Network+",
-            "url": "https://www.espn.com/watch/player/_/id/2d8f0fc2-3129-4ece-8664-1d392c561c04"
-          }
-        ],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "home",
-        "note": "",
-        "sources": [
-          "https://lsusports.net/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "59f8fafec1dc6e7c4f4a3302@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-23T07:09:12.993192+00:00"
-      }
-    }
-  },
-  "updated": "2026-11-17T07:42:16.163469+00:00",
+  "pending": {},
+  "updated": "2026-11-17T13:35:31.475409+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
