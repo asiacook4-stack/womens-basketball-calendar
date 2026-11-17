@@ -1077,63 +1077,64 @@ TRANSP:TRANSPARENT
 URL:https://fightingirish.com
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ohio State vs Ole Miss
+SUMMARY:Ole Miss vs Ohio State
 DTSTART;TZID=America/Los_Angeles:20261118T160000
 DTEND;TZID=America/Los_Angeles:20261118T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T013653Z
 UID:aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
- g TV provider — additional access required\; verify channel availability
- .\n\nTipoff (Pacific): Wed Nov 18\, 2026 04:00 PM PST\n\nEnd time is an es
- timate (2h 15m).\n\nService / channel page (not a game deep link) — FS1:
-  https://www.foxsports.com/live/fs1\nLink check: reachable\; playback requ
- ires the appropriate login\n\nOfficial schedule: https://ohiostatebuckeyes
- .com/sports/womens-basketball/schedule\n\nOfficial schedule: https://olemi
- sssports.com/sports/womens-basketball/schedule\n\nNational spotlight: matc
- hup between teams in the published contender pool.
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Wed Nov 18
+ \, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://olemisssports.com/sports/womens-basketball/schedule\n\nNational sp
+ otlight: matchup between teams in the published contender pool.
+LAST-MODIFIED:20261117T013653Z
 LOCATION:Columbus\, Ohio
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live/fs1
+URL:https://olemisssports.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Green Bay
 DTSTART;TZID=America/Los_Angeles:20261118T163000
 DTEND;TZID=America/Los_Angeles:20261118T184500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T013653Z
 UID:d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
-  Nov 18\, 2026 04:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN+: https://texaslonghorns.
- com/sports/womens-basketball/Watch\nLink check: published by the official 
- team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
-  https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+  Nov 18\, 2026 04:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ESPN+: https://www.espn.com/watch/player/_/eventCalendarId/4019188
+ 43?gameId=401918843&sourceLang=en&om-navmethod=espn%3Aglobalsearch%3Aresul
+ ts\nLink check: reachable\; playback requires the appropriate login\n\nOff
+ icial schedule: https://texaslonghorns.com/sports/womens-basketball/schedu
+ le
+LAST-MODIFIED:20261117T013653Z
 LOCATION:Green Bay\, Wis.
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/eventCalendarId/401918843?gameId=4
+ 01918843&sourceLang=en&om-navmethod=espn%3Aglobalsearch%3Aresults
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duke vs Fordham
 DTSTART;TZID=America/Los_Angeles:20261119T080000
 DTEND;TZID=America/Los_Angeles:20261119T101500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261117T013653Z
 UID:b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Thu
-  Nov 19\, 2026 08:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN watch directory: https://
- www.espn.com/watch/\nLink check: reachable\; playback requires the appropr
- iate login\n\nOfficial schedule: https://goduke.com/sports/womens-basketba
- ll/schedule
-LAST-MODIFIED:20261019T235708Z
+  Nov 19\, 2026 08:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ACCNX: https://www.espn.com/watch/player/_/id/fb0bd24f-f8d6-4d32-8
+ 687-03ff8ce5f5f2\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://goduke.com/sports/womens-basketball/
+ schedule
+LAST-MODIFIED:20261117T013653Z
 LOCATION:Durham\, N.C.
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://www.espn.com/watch/player/_/id/fb0bd24f-f8d6-4d32-8687-03ff8ce
+ 5f5f2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs FDU
@@ -1260,24 +1261,21 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Ohio State
 DTSTART;TZID=America/Los_Angeles:20261122T100000
 DTEND;TZID=America/Los_Angeles:20261122T121500
-DTSTAMP:20261106T191715Z
+DTSTAMP:20261117T013653Z
 UID:77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 22\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
   / channel page (not a game deep link) — ESPN: https://texaslonghorns.co
  m/sports/womens-basketball/Watch\nLink check: published by the official te
- am\; automated verification unavailable\, HTTP 404\n\nService / channel pa
- ge (not a game deep link) — ESPN: https://www.espn.com/watch/\nLink chec
- k: reachable\; playback requires the appropriate login\n\nOfficial schedul
- e: https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficia
- l schedule: https://ohiostatebuckeyes.com/sports/womens-basketball/schedul
- e\n\nLS² Hoops with Heart
-LAST-MODIFIED:20261106T191715Z
+ am\; automated verification unavailable\, HTTP 404\n\nOfficial schedule: h
+ ttps://texaslonghorns.com/sports/womens-basketball/schedule\n\nLS² Hoops 
+ with Heart
+LAST-MODIFIED:20261117T013653Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
-URL:https://www.espn.com/watch/
+URL:https://texaslonghorns.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs Tennessee
