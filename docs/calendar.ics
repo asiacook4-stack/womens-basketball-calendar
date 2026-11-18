@@ -1099,9 +1099,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Green Bay
 DTSTART;TZID=America/Los_Angeles:20261118T163000
 DTEND;TZID=America/Los_Angeles:20261118T184500
-DTSTAMP:20261117T013653Z
+DTSTAMP:20261118T133810Z
 UID:d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
   Nov 18\, 2026 04:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -1110,7 +1110,7 @@ DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  ts\nLink check: reachable\; playback requires the appropriate login\n\nOff
  icial schedule: https://texaslonghorns.com/sports/womens-basketball/schedu
  le
-LAST-MODIFIED:20261117T013653Z
+LAST-MODIFIED:20261118T133810Z
 LOCATION:Green Bay\, Wis.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/eventCalendarId/401918843?gameId=4
