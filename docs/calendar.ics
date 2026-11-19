@@ -1258,12 +1258,12 @@ TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/sports/college-basketball
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Texas vs Ohio State
+SUMMARY:Texas vs No. 19 Ohio State
 DTSTART;TZID=America/Los_Angeles:20261122T100000
 DTEND;TZID=America/Los_Angeles:20261122T121500
-DTSTAMP:20261117T013653Z
+DTSTAMP:20261119T155329Z
 UID:77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 22\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
@@ -1272,7 +1272,7 @@ DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  am\; automated verification unavailable\, HTTP 404\n\nOfficial schedule: h
  ttps://texaslonghorns.com/sports/womens-basketball/schedule\n\nLS² Hoops 
  with Heart
-LAST-MODIFIED:20261117T013653Z
+LAST-MODIFIED:20261119T155329Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule

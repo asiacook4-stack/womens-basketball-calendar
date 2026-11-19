@@ -5138,7 +5138,7 @@
       ],
       "teams": [
         "Texas",
-        "Ohio State"
+        "No. 19 Ohio State"
       ],
       "date": "2026-11-22",
       "start": "2026-11-22T18:00:00+00:00",
@@ -5159,8 +5159,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-17T01:36:53.993379+00:00"
+      "sequence": 3,
+      "modified": "2026-11-19T15:53:29.266874+00:00"
     },
     "c9bd5bf09d48799e858a37a2@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7938,35 +7938,30 @@
       "sequence": 2,
       "modified": "2026-11-16T09:08:45.046215+00:00"
     },
-    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25600"
+        "South Carolina:Albany-home"
       ],
       "teams": [
-        "UConn",
-        "Syracuse"
+        "South Carolina",
+        "Albany"
       ],
-      "date": "2026-10-12",
-      "start": "2026-10-12T22:30:00+00:00",
-      "location": "Uncasville, Conn.",
-      "network": "NBC Sports Boston/UConn+",
-      "watch": [
-        {
-          "label": "NBC Sports Boston/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7413"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "N",
-      "note": "Hall of Fame Series Exhibition",
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        "https://gamecocksonline.com/sports/wbball/schedule/"
       ],
       "coverage": "Full team schedule",
-      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-22T01:03:42.762423+00:00"
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8028,6 +8023,36 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
+    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25600"
+      ],
+      "teams": [
+        "UConn",
+        "Syracuse"
+      ],
+      "date": "2026-10-12",
+      "start": "2026-10-12T22:30:00+00:00",
+      "location": "Uncasville, Conn.",
+      "network": "NBC Sports Boston/UConn+",
+      "watch": [
+        {
+          "label": "NBC Sports Boston/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7413"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "N",
+      "note": "Hall of Fame Series Exhibition",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
+      "sequence": 1,
+      "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
     "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "NC State:24744"
@@ -8077,37 +8102,12 @@
       "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
     "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io": {
-      "hash": "4110d8123aea07398d8dee266bd0b07015b3b0062a00cde2363ab3618e8db701",
-      "first_seen": "2026-11-19T01:38:08.739606+00:00",
+      "hash": "021fe2ebabcdd8a592cb1367239447a4a1ded14790754eb1c7891aa2dd3f3d7b",
+      "first_seen": "2026-11-19T15:53:29.266874+00:00",
       "candidate": {
         "source_ids": [
           "Texas:23178"
@@ -8127,7 +8127,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "GAMECOMPLETE",
         "venue": "A",
         "note": "",
         "sources": [
@@ -8139,43 +8139,72 @@
         "modified": "2026-11-18T13:38:10.221446+00:00"
       }
     },
-    "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io": {
-      "hash": "1ddd0e23365feac51c2c4b24cef1a95995b3591fcbfd24ad33d143d1e4924217",
-      "first_seen": "2026-11-19T01:38:08.739606+00:00",
+    "cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io": {
+      "hash": "b29df7e372d2f21ae78dc47783b83b41ee56e4b6259a7ff52a46e2b130d58c18",
+      "first_seen": "2026-11-19T15:53:29.266874+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23179"
+          "Notre Dame:20988"
         ],
         "teams": [
-          "Texas",
-          "No. 19 Ohio State"
+          "Notre Dame",
+          "Southern"
         ],
-        "date": "2026-11-22",
-        "start": "2026-11-22T18:00:00+00:00",
-        "location": "Fort Worth, Texas",
-        "network": "ESPN",
+        "date": "2026-11-18",
+        "start": "2026-11-19T00:00:00+00:00",
+        "location": "South Bend, IN",
+        "network": "",
+        "watch": [],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "home",
+        "note": "",
+        "sources": [
+          "https://fightingirish.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io": {
+      "hash": "7d34cd5eaec28b3374e669ab3ac1b65b1d18a43119f3ce1bb5cdc59596ce2bbc",
+      "first_seen": "2026-11-19T15:53:29.266874+00:00",
+      "candidate": {
+        "source_ids": [
+          "Duke:25743"
+        ],
+        "teams": [
+          "Duke",
+          "Fordham"
+        ],
+        "date": "2026-11-19",
+        "start": "2026-11-19T16:00:00+00:00",
+        "location": "Durham, N.C.",
+        "network": "ACCNX",
         "watch": [
           {
-            "label": "ESPN",
-            "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+            "label": "ACCNX",
+            "url": "https://www.espn.com/watch/player/_/id/fb0bd24f-f8d6-4d32-8687-03ff8ce5f5f2"
           }
         ],
         "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "N",
-        "note": "LS² Hoops with Heart",
+        "status": "PREGAME",
+        "venue": "H",
+        "note": "",
         "sources": [
-          "https://texaslonghorns.com/sports/womens-basketball/schedule"
+          "https://goduke.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
+        "uid": "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
         "modified": "2026-11-17T01:36:53.993379+00:00"
       }
     },
     "aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io": {
-      "hash": "daaf5d10cc29c71d01645d491f014027730b36be6aecb595421331e5d289faab",
-      "first_seen": "2026-11-19T01:38:08.739606+00:00",
+      "hash": "5d6d4ba30b42bca10c4a711d4b66d824ce0d64e3e32a7c5d68f58ce5b45fef16",
+      "first_seen": "2026-11-19T15:53:29.266874+00:00",
       "candidate": {
         "source_ids": [
           "Ole Miss:16570"
@@ -8195,7 +8224,7 @@
           }
         ],
         "exhibition": false,
-        "status": "LIVE",
+        "status": "GAMECOMPLETE",
         "venue": "A",
         "note": "",
         "sources": [
@@ -8208,7 +8237,7 @@
       }
     }
   },
-  "updated": "2026-11-19T01:38:08.739606+00:00",
+  "updated": "2026-11-19T15:53:29.266874+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
