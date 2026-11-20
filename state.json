@@ -5121,7 +5121,7 @@
         }
       ],
       "exhibition": false,
-      "status": "PREGAME",
+      "status": "GAMECOMPLETE",
       "venue": "A",
       "note": "",
       "sources": [
@@ -5129,8 +5129,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-18T13:38:10.221446+00:00"
+      "sequence": 3,
+      "modified": "2026-11-20T00:41:57.023764+00:00"
     },
     "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6257,15 +6257,10 @@
       "date": "2026-11-18",
       "start": "2026-11-19T00:00:00+00:00",
       "location": "South Bend, IN",
-      "network": "ACCNX",
-      "watch": [
-        {
-          "label": "ACCNX",
-          "url": "https://fightingirish.com"
-        }
-      ],
+      "network": "",
+      "watch": [],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "",
       "sources": [
@@ -6273,8 +6268,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-20T00:41:57.023764+00:00"
     },
     "ae40634d98edfd8000fad4d7@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7859,9 +7854,14 @@
       "start": "2026-11-19T00:00:00+00:00",
       "location": "Columbus, Ohio",
       "network": "",
-      "watch": [],
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.fox.com/detail/event/EVT-b1d3abba47ef632891585b4fc785b596/women-s-college-basketball-big-ten-women-s-ole-miss-at-ohio-st"
+        }
+      ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "GAMECOMPLETE",
       "venue": "A",
       "note": "",
       "sources": [
@@ -7869,8 +7869,8 @@
       ],
       "coverage": "National spotlight",
       "uid": "aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-17T01:36:53.993379+00:00"
+      "sequence": 2,
+      "modified": "2026-11-20T00:41:57.023764+00:00"
     },
     "5a43876eda3aef81d72b8c60@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7963,6 +7963,31 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -7992,36 +8017,6 @@
       "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8053,30 +8048,35 @@
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "NC State:24744"
+        "Maryland:22435"
       ],
       "teams": [
-        "NC State",
-        "Kentucky"
+        "Maryland",
+        "North Carolina"
       ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
       "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
       "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
+        "https://umterps.com/sports/womens-basketball/schedule"
       ],
       "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
     },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8105,72 +8105,43 @@
     }
   },
   "pending": {
-    "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io": {
-      "hash": "021fe2ebabcdd8a592cb1367239447a4a1ded14790754eb1c7891aa2dd3f3d7b",
-      "first_seen": "2026-11-19T15:53:29.266874+00:00",
+    "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io": {
+      "hash": "43a78aba36f7d210e30cfea7bfe62902553caa265e09fabb7f3d6c28cdab5067",
+      "first_seen": "2026-11-20T00:41:57.023764+00:00",
       "candidate": {
         "source_ids": [
-          "Texas:23178"
+          "Texas:23179"
         ],
         "teams": [
           "Texas",
-          "Green Bay"
+          "No. 19 Ohio State"
         ],
-        "date": "2026-11-18",
-        "start": "2026-11-19T00:30:00+00:00",
-        "location": "Green Bay, Wis.",
-        "network": "ESPN+",
+        "date": "2026-11-22",
+        "start": "2026-11-22T18:00:00+00:00",
+        "location": "Fort Worth, Texas",
+        "network": "ESPN",
         "watch": [
           {
-            "label": "ESPN+",
-            "url": "https://www.espn.com/watch/player/_/eventCalendarId/401918843?gameId=401918843&sourceLang=en&om-navmethod=espn%3Aglobalsearch%3Aresults"
+            "label": "ESPN",
+            "url": "https://www.espn.com/watch/player/_/id/e20608a2-4f25-4119-a758-3a0bdf0b392b"
           }
         ],
         "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "A",
-        "note": "",
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "LS² Hoops with Heart",
         "sources": [
           "https://texaslonghorns.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-18T13:38:10.221446+00:00"
-      }
-    },
-    "cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io": {
-      "hash": "b29df7e372d2f21ae78dc47783b83b41ee56e4b6259a7ff52a46e2b130d58c18",
-      "first_seen": "2026-11-19T15:53:29.266874+00:00",
-      "candidate": {
-        "source_ids": [
-          "Notre Dame:20988"
-        ],
-        "teams": [
-          "Notre Dame",
-          "Southern"
-        ],
-        "date": "2026-11-18",
-        "start": "2026-11-19T00:00:00+00:00",
-        "location": "South Bend, IN",
-        "network": "",
-        "watch": [],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "home",
-        "note": "",
-        "sources": [
-          "https://fightingirish.com/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
+        "uid": "77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io",
+        "sequence": 3,
+        "modified": "2026-11-19T15:53:29.266874+00:00"
       }
     },
     "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io": {
-      "hash": "7d34cd5eaec28b3374e669ab3ac1b65b1d18a43119f3ce1bb5cdc59596ce2bbc",
-      "first_seen": "2026-11-19T15:53:29.266874+00:00",
+      "hash": "6a4f7d0ef5f4bc4697c051092d7f986aed3e35645ebfbf62444d2061332b7377",
+      "first_seen": "2026-11-20T00:41:57.023764+00:00",
       "candidate": {
         "source_ids": [
           "Duke:25743"
@@ -8190,7 +8161,7 @@
           }
         ],
         "exhibition": false,
-        "status": "PREGAME",
+        "status": "FULLTIME",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8201,43 +8172,9 @@
         "sequence": 1,
         "modified": "2026-11-17T01:36:53.993379+00:00"
       }
-    },
-    "aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io": {
-      "hash": "5d6d4ba30b42bca10c4a711d4b66d824ce0d64e3e32a7c5d68f58ce5b45fef16",
-      "first_seen": "2026-11-19T15:53:29.266874+00:00",
-      "candidate": {
-        "source_ids": [
-          "Ole Miss:16570"
-        ],
-        "teams": [
-          "Ole Miss",
-          "Ohio State"
-        ],
-        "date": "2026-11-18",
-        "start": "2026-11-19T00:00:00+00:00",
-        "location": "Columbus, Ohio",
-        "network": "",
-        "watch": [
-          {
-            "label": "Official watch link",
-            "url": "https://www.fox.com/detail/event/EVT-b1d3abba47ef632891585b4fc785b596/women-s-college-basketball-big-ten-women-s-ole-miss-at-ohio-st"
-          }
-        ],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://olemisssports.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "National spotlight",
-        "uid": "aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-17T01:36:53.993379+00:00"
-      }
     }
   },
-  "updated": "2026-11-19T15:53:29.266874+00:00",
+  "updated": "2026-11-20T00:41:57.023764+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",

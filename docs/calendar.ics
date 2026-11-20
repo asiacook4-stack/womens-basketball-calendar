@@ -1062,46 +1062,50 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Southern
 DTSTART;TZID=America/Los_Angeles:20261118T160000
 DTEND;TZID=America/Los_Angeles:20261118T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261120T004157Z
 UID:cf5b5106b026c29f84b179d5@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ACCNX\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
-  Nov 18\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ACCNX: https://fightingirish.c
- om\nLink check: reachable\; playback requires the appropriate login\n\nOff
- icial schedule: https://fightingirish.com/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
-LOCATION:South Bend\, IN
-TRANSP:TRANSPARENT
-URL:https://fightingirish.com
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ole Miss vs Ohio State
-DTSTART;TZID=America/Los_Angeles:20261118T160000
-DTEND;TZID=America/Los_Angeles:20261118T181500
-DTSTAMP:20261117T013653Z
-UID:aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io
 SEQUENCE:1
 DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
  ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
   subscriptions do not cover every network.\n\nTipoff (Pacific): Wed Nov 18
  \, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
   — no official streaming link has been published.\n\nOfficial schedule: 
- https://olemisssports.com/sports/womens-basketball/schedule\n\nNational sp
- otlight: matchup between teams in the published contender pool.
-LAST-MODIFIED:20261117T013653Z
+ https://fightingirish.com/sports/wbball/schedule/
+LAST-MODIFIED:20261120T004157Z
+LOCATION:South Bend\, IN
+TRANSP:TRANSPARENT
+URL:https://fightingirish.com/sports/wbball/schedule/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ole Miss vs Ohio State
+DTSTART;TZID=America/Los_Angeles:20261118T160000
+DTEND;TZID=America/Los_Angeles:20261118T181500
+DTSTAMP:20261120T004157Z
+UID:aff6fd190fb6fb5bc4a1c7d2@wbb.asiacook4-stack.github.io
+SEQUENCE:2
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Wed Nov 18
+ \, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame link —
+  Official watch link: https://www.fox.com/detail/event/EVT-b1d3abba47ef632
+ 891585b4fc785b596/women-s-college-basketball-big-ten-women-s-ole-miss-at-o
+ hio-st\nLink check: reachable\; playback requires the appropriate login\n\
+ nOfficial schedule: https://olemisssports.com/sports/womens-basketball/sch
+ edule\n\nNational spotlight: matchup between teams in the published conten
+ der pool.
+LAST-MODIFIED:20261120T004157Z
 LOCATION:Columbus\, Ohio
 TRANSP:TRANSPARENT
-URL:https://olemisssports.com/sports/womens-basketball/schedule
+URL:https://www.fox.com/detail/event/EVT-b1d3abba47ef632891585b4fc785b596/
+ women-s-college-basketball-big-ten-women-s-ole-miss-at-ohio-st
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Green Bay
 DTSTART;TZID=America/Los_Angeles:20261118T163000
 DTEND;TZID=America/Los_Angeles:20261118T184500
-DTSTAMP:20261118T133810Z
+DTSTAMP:20261120T004157Z
 UID:d7900c66a570d0cae9d47e84@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
   Nov 18\, 2026 04:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
@@ -1110,7 +1114,7 @@ DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  ts\nLink check: reachable\; playback requires the appropriate login\n\nOff
  icial schedule: https://texaslonghorns.com/sports/womens-basketball/schedu
  le
-LAST-MODIFIED:20261118T133810Z
+LAST-MODIFIED:20261120T004157Z
 LOCATION:Green Bay\, Wis.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/eventCalendarId/401918843?gameId=4
