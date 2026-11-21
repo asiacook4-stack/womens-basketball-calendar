@@ -1225,9 +1225,9 @@ BEGIN:VEVENT
 SUMMARY:Duke vs Columbia
 DTSTART;TZID=America/Los_Angeles:20261121T160000
 DTEND;TZID=America/Los_Angeles:20261121T181500
-DTSTAMP:20261116T192103Z
+DTSTAMP:20261121T192844Z
 UID:5538d5b239c1d502e0fe2515@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN+/SNY\n\nStreaming: ESPN app — included with yo
  ur ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific):
   Sat Nov 21\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGa
@@ -1235,7 +1235,7 @@ DESCRIPTION:Network: ESPN+/SNY\n\nStreaming: ESPN app — included with yo
  8-4b6f-ba11-e90ae2aa44a3\nLink check: reachable\; playback requires the ap
  propriate login\n\nOfficial schedule: https://goduke.com/sports/womens-bas
  ketball/schedule
-LAST-MODIFIED:20261116T192103Z
+LAST-MODIFIED:20261121T192844Z
 LOCATION:New York\, N.Y.
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/1d56105c-66b8-4b6f-ba11-e90ae2a

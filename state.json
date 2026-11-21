@@ -6460,7 +6460,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "A",
       "note": "",
       "sources": [
@@ -6468,8 +6468,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "5538d5b239c1d502e0fe2515@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-16T19:21:03.790450+00:00"
+      "sequence": 2,
+      "modified": "2026-11-21T19:28:44.140286+00:00"
     },
     "d0caf10549315403f964b88f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7933,35 +7933,30 @@
       "sequence": 2,
       "modified": "2026-11-16T09:08:45.046215+00:00"
     },
-    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25600"
+        "NC State:24744"
       ],
       "teams": [
-        "UConn",
-        "Syracuse"
+        "NC State",
+        "Kentucky"
       ],
-      "date": "2026-10-12",
-      "start": "2026-10-12T22:30:00+00:00",
-      "location": "Uncasville, Conn.",
-      "network": "NBC Sports Boston/UConn+",
-      "watch": [
-        {
-          "label": "NBC Sports Boston/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7413"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
       "venue": "N",
-      "note": "Hall of Fame Series Exhibition",
+      "note": "Ally Tipoff",
       "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+        "https://gopack.com/sports/womens-basketball/schedule"
       ],
-      "coverage": "Full team schedule",
-      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-22T01:03:42.762423+00:00"
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     },
     "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7988,30 +7983,35 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "NC State:24744"
+        "UConn:25767"
       ],
       "teams": [
-        "NC State",
-        "Kentucky"
+        "UConn",
+        "Army"
       ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
       "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
       ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
     },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -8068,41 +8068,41 @@
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
     },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
-        "UConn:25767"
+        "UConn:25600"
       ],
       "teams": [
         "UConn",
-        "Army"
+        "Syracuse"
       ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
+      "date": "2026-10-12",
+      "start": "2026-10-12T22:30:00+00:00",
+      "location": "Uncasville, Conn.",
+      "network": "NBC Sports Boston/UConn+",
       "watch": [
         {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
+          "label": "NBC Sports Boston/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7413"
         }
       ],
       "exhibition": true,
       "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
+      "venue": "N",
+      "note": "Hall of Fame Series Exhibition",
       "sources": [
         "https://uconnhuskies.com/sports/womens-basketball/schedule/"
       ],
       "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
+      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
+      "sequence": 1,
+      "modified": "2026-10-22T01:03:42.762423+00:00"
     }
   },
   "pending": {
     "7eaa87502f4bd0ecfde3498a@wbb.asiacook4-stack.github.io": {
-      "hash": "a1f24c3cc13db47eb20ea94ba718dedf5eb8bb383f598d7d2dc71baaeeae09ae",
-      "first_seen": "2026-11-21T07:24:43.464203+00:00",
+      "hash": "b87748babff8df5995e9dec6289e00bca57bfece4b9a961fb8d60c1d3ca5339f",
+      "first_seen": "2026-11-21T19:28:44.140286+00:00",
       "candidate": {
         "source_ids": [
           "UConn:25900"
@@ -8117,7 +8117,7 @@
         "network": "Peacock/NBCSN",
         "watch": [],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8130,8 +8130,8 @@
       }
     },
     "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io": {
-      "hash": "44acbeb2ea68a37295c7ccc4c124c5411ad82ac229b47b205918d02f7399d255",
-      "first_seen": "2026-11-21T07:24:43.464203+00:00",
+      "hash": "e0ccbdcae287db1f3ab0d08cfcddb8f59fbf71bbc6896c2e89c9bc6609195e01",
+      "first_seen": "2026-11-21T19:28:44.140286+00:00",
       "candidate": {
         "source_ids": [
           "USC:35619",
@@ -8152,7 +8152,7 @@
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "GAMECOMPLETE",
         "venue": "N",
         "note": "Hollywood Hardwood Classic",
         "sources": [
@@ -8164,43 +8164,9 @@
         "sequence": 2,
         "modified": "2026-11-21T00:02:07.598792+00:00"
       }
-    },
-    "5538d5b239c1d502e0fe2515@wbb.asiacook4-stack.github.io": {
-      "hash": "6da4483955eb2dcad04223d40c67696157c977da8319d1376fef21826f4c740f",
-      "first_seen": "2026-11-21T07:24:43.464203+00:00",
-      "candidate": {
-        "source_ids": [
-          "Duke:25744"
-        ],
-        "teams": [
-          "Duke",
-          "Columbia"
-        ],
-        "date": "2026-11-21",
-        "start": "2026-11-22T00:00:00+00:00",
-        "location": "New York, N.Y.",
-        "network": "ESPN+/SNY",
-        "watch": [
-          {
-            "label": "ESPN+/SNY",
-            "url": "https://www.espn.com/watch/player/_/id/1d56105c-66b8-4b6f-ba11-e90ae2aa44a3"
-          }
-        ],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "A",
-        "note": "",
-        "sources": [
-          "https://goduke.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "5538d5b239c1d502e0fe2515@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-16T19:21:03.790450+00:00"
-      }
     }
   },
-  "updated": "2026-11-21T07:24:43.464203+00:00",
+  "updated": "2026-11-21T19:28:44.140286+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
