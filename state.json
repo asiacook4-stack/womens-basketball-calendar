@@ -1893,15 +1893,10 @@
       "date": "2026-11-19",
       "start": "2026-11-20T03:00:00+00:00",
       "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
-      "network": "BIG TEN PLUS",
-      "watch": [
-        {
-          "label": "BIG_TEN_PLUS_logo.png",
-          "url": "https://www.bigtenplus.com/"
-        }
-      ],
+      "network": "",
+      "watch": [],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "",
       "sources": [
@@ -1909,8 +1904,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "6b653fbdfb233ce1bba8a61f@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-21T00:02:07.598792+00:00"
     },
     "87193c2cf20639d0e578abcf@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -2873,7 +2868,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "N",
       "note": "Hollywood Hardwood Classic",
       "sources": [
@@ -2882,8 +2877,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-05T07:40:59.925367+00:00"
+      "sequence": 2,
+      "modified": "2026-11-21T00:02:07.598792+00:00"
     },
     "d3273d941e5717e182313909@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -3851,7 +3846,7 @@
         }
       ],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "",
       "sources": [
@@ -3859,8 +3854,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-23T07:09:12.993192+00:00"
+      "sequence": 2,
+      "modified": "2026-11-21T00:02:07.598792+00:00"
     },
     "3e5f12426e77cd140ba6c69b@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -6435,7 +6430,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "GAMECOMPLETE",
       "venue": "H",
       "note": "",
       "sources": [
@@ -6443,8 +6438,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-17T01:36:53.993379+00:00"
+      "sequence": 2,
+      "modified": "2026-11-21T00:02:07.598792+00:00"
     },
     "5538d5b239c1d502e0fe2515@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7938,6 +7933,121 @@
       "sequence": 2,
       "modified": "2026-11-16T09:08:45.046215+00:00"
     },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25600"
+      ],
+      "teams": [
+        "UConn",
+        "Syracuse"
+      ],
+      "date": "2026-10-12",
+      "start": "2026-10-12T22:30:00+00:00",
+      "location": "Uncasville, Conn.",
+      "network": "NBC Sports Boston/UConn+",
+      "watch": [
+        {
+          "label": "NBC Sports Boston/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7413"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "N",
+      "note": "Hall of Fame Series Exhibition",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
+      "sequence": 1,
+      "modified": "2026-10-22T01:03:42.762423+00:00"
+    },
+    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "UConn:25767"
+      ],
+      "teams": [
+        "UConn",
+        "Army"
+      ],
+      "date": "2026-10-25",
+      "start": "2026-10-25T20:00:00+00:00",
+      "location": "Storrs, Conn.",
+      "network": "The Wax/UConn+",
+      "watch": [
+        {
+          "label": "The Wax/UConn+",
+          "url": "https://uconnhuskies.com/showcase?Live=7463"
+        }
+      ],
+      "exhibition": true,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "",
+      "sources": [
+        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-26T19:09:03.910774+00:00"
+    },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Duke:25740"
@@ -7987,259 +8097,10 @@
       "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25767"
-      ],
-      "teams": [
-        "UConn",
-        "Army"
-      ],
-      "date": "2026-10-25",
-      "start": "2026-10-25T20:00:00+00:00",
-      "location": "Storrs, Conn.",
-      "network": "The Wax/UConn+",
-      "watch": [
-        {
-          "label": "The Wax/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7463"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-26T19:09:03.910774+00:00"
-    },
-    "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "UConn:25600"
-      ],
-      "teams": [
-        "UConn",
-        "Syracuse"
-      ],
-      "date": "2026-10-12",
-      "start": "2026-10-12T22:30:00+00:00",
-      "location": "Uncasville, Conn.",
-      "network": "NBC Sports Boston/UConn+",
-      "watch": [
-        {
-          "label": "NBC Sports Boston/UConn+",
-          "url": "https://uconnhuskies.com/showcase?Live=7413"
-        }
-      ],
-      "exhibition": true,
-      "status": "GAMECOMPLETE",
-      "venue": "N",
-      "note": "Hall of Fame Series Exhibition",
-      "sources": [
-        "https://uconnhuskies.com/sports/womens-basketball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-10-22T01:03:42.762423+00:00"
     }
   },
-  "pending": {
-    "6b653fbdfb233ce1bba8a61f@wbb.asiacook4-stack.github.io": {
-      "hash": "aede93f0eb9debe04adf7af2ca5ee84be54c21b9132a80b1bd768a49e727ba28",
-      "first_seen": "2026-11-20T15:36:43.866142+00:00",
-      "candidate": {
-        "source_ids": [
-          "UCLA:19177"
-        ],
-        "teams": [
-          "UCLA",
-          "Cal Poly"
-        ],
-        "date": "2026-11-19",
-        "start": "2026-11-20T03:00:00+00:00",
-        "location": "Los Angeles, Calif. / Pauley Pavilion presented by Wescom Financial",
-        "network": "",
-        "watch": [],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "home",
-        "note": "",
-        "sources": [
-          "https://uclabruins.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "6b653fbdfb233ce1bba8a61f@wbb.asiacook4-stack.github.io",
-        "sequence": 0,
-        "modified": "2026-10-19T23:57:08.631912+00:00"
-      }
-    },
-    "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io": {
-      "hash": "f16a6da63bcd2a59b9cc5e991da651e920e87e006ef2b8bbbdebf7a002b020b8",
-      "first_seen": "2026-11-20T15:36:43.866142+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35619",
-          "Baylor:30099"
-        ],
-        "teams": [
-          "USC",
-          "Baylor"
-        ],
-        "date": "2026-11-20",
-        "start": "2026-11-21T04:00:00+00:00",
-        "location": "Inglewood, Calif.",
-        "network": "Big Ten Network",
-        "watch": [
-          {
-            "label": "Big Ten Network",
-            "url": "https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-usc-trojans-nov-20-2026-game-boxscore-390173"
-          }
-        ],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "N",
-        "note": "Hollywood Hardwood Classic",
-        "sources": [
-          "https://usctrojans.com/sports/wbball/schedule",
-          "https://baylorbears.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-05T07:40:59.925367+00:00"
-      }
-    },
-    "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io": {
-      "hash": "f14b79ee5109a2798e7231df0b33cf40e984d4ff140eb69257dc3155cbe4202e",
-      "first_seen": "2026-11-20T15:36:43.866142+00:00",
-      "candidate": {
-        "source_ids": [
-          "LSU:21031"
-        ],
-        "teams": [
-          "LSU",
-          "FDU"
-        ],
-        "date": "2026-11-19",
-        "start": "2026-11-20T01:00:00+00:00",
-        "location": "Baton Rouge, La. (Maravich Center)",
-        "network": "SEC Network+",
-        "watch": [
-          {
-            "label": "SEC Network+",
-            "url": "https://www.espn.com/watch/player/_/id/1537c4de-1f9d-473b-acc0-3244d3b751c6"
-          }
-        ],
-        "exhibition": false,
-        "status": "completed",
-        "venue": "home",
-        "note": "",
-        "sources": [
-          "https://lsusports.net/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "7d371988d1b317dab3dde1ae@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-10-23T07:09:12.993192+00:00"
-      }
-    },
-    "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io": {
-      "hash": "50f99ac1f746643183fe4df21b1db27589a7d50efb944aa92b3b5deb2273e0d2",
-      "first_seen": "2026-11-20T15:36:43.866142+00:00",
-      "candidate": {
-        "source_ids": [
-          "Duke:25743"
-        ],
-        "teams": [
-          "Duke",
-          "Fordham"
-        ],
-        "date": "2026-11-19",
-        "start": "2026-11-19T16:00:00+00:00",
-        "location": "Durham, N.C.",
-        "network": "ACCNX",
-        "watch": [
-          {
-            "label": "ACCNX",
-            "url": "https://www.espn.com/watch/player/_/id/fb0bd24f-f8d6-4d32-8687-03ff8ce5f5f2"
-          }
-        ],
-        "exhibition": false,
-        "status": "GAMECOMPLETE",
-        "venue": "H",
-        "note": "",
-        "sources": [
-          "https://goduke.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "b9adff9b25b102a5aa348ab3@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-17T01:36:53.993379+00:00"
-      }
-    }
-  },
-  "updated": "2026-11-20T15:36:43.866142+00:00",
+  "pending": {},
+  "updated": "2026-11-21T00:02:07.598792+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
