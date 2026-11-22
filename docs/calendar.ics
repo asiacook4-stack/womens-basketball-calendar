@@ -1183,9 +1183,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs Seton Hall
 DTSTART;TZID=America/Los_Angeles:20261120T170000
 DTEND;TZID=America/Los_Angeles:20261120T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261122T070501Z
 UID:7eaa87502f4bd0ecfde3498a@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
   your Peacock Premium.\n\nTipoff (Pacific): Fri Nov 20\, 2026 05:00 PM PST
  \n\nEnd time is an estimate (2h 15m).\n\nService / channel page (not a gam
@@ -1193,7 +1193,7 @@ DESCRIPTION:Network: Peacock/NBCSN\n\nStreaming: Peacock — included with
  tv.com/sports/college-basketball\nLink check: reachable\; playback require
  s the appropriate login\n\nOfficial schedule: https://uconnhuskies.com/spo
  rts/womens-basketball/schedule/
-LAST-MODIFIED:20261019T235708Z
+LAST-MODIFIED:20261122T070501Z
 LOCATION:Hartford\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.peacocktv.com/sports/college-basketball
@@ -1202,9 +1202,9 @@ BEGIN:VEVENT
 SUMMARY:USC vs Baylor
 DTSTART;TZID=America/Los_Angeles:20261120T200000
 DTEND;TZID=America/Los_Angeles:20261120T221500
-DTSTAMP:20261121T000207Z
+DTSTAMP:20261122T070501Z
 UID:94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
   a qualifying TV provider — additional access required\; verify channel 
  availability.\n\nTipoff (Pacific): Fri Nov 20\, 2026 08:00 PM PST\n\nEnd t
@@ -1215,7 +1215,7 @@ DESCRIPTION:Network: Big Ten Network\n\nStreaming: FOX Sports / FOX One or
  e: https://usctrojans.com/sports/wbball/schedule\n\nOfficial schedule: htt
  ps://baylorbears.com/sports/womens-basketball/schedule\n\nHollywood Hardwo
  od Classic
-LAST-MODIFIED:20261121T000207Z
+LAST-MODIFIED:20261122T070501Z
 LOCATION:Inglewood\, Calif.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/baylor-bears-vs-us
