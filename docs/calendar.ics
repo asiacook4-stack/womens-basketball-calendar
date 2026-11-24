@@ -1284,20 +1284,18 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs Tennessee
 DTSTART;TZID=America/Los_Angeles:20261122T143000
 DTEND;TZID=America/Los_Angeles:20261122T164500
-DTSTAMP:20261112T074202Z
+DTSTAMP:20261124T000205Z
 UID:87193c2cf20639d0e578abcf@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 22\, 2026 02:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
  nk — ESPN: https://www.espn.com/watch/player/_/id/69ed4239-a205-4fe9-9a9
  4-524eb82dc7dd\nLink check: reachable\; playback requires the appropriate 
- login\n\nService / channel page (not a game deep link) — ESPN logo: http
- s://www.espn.com/watch/\nLink check: reachable\; playback requires the app
- ropriate login\n\nOfficial schedule: https://uclabruins.com/sports/womens-
- basketball/schedule\n\nOfficial schedule: https://utsports.com/sports/wome
- ns-basketball/schedule
-LAST-MODIFIED:20261112T074202Z
+ login\n\nOfficial schedule: https://uclabruins.com/sports/womens-basketbal
+ l/schedule\n\nOfficial schedule: https://utsports.com/sports/womens-basket
+ ball/schedule
+LAST-MODIFIED:20261124T000205Z
 LOCATION:Knoxville\, Tenn. / Food City Center
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/69ed4239-a205-4fe9-9a94-524eb82
@@ -1391,22 +1389,23 @@ BEGIN:VEVENT
 SUMMARY:UConn vs South Carolina
 DTSTART;TZID=America/Los_Angeles:20261124T170000
 DTEND;TZID=America/Los_Angeles:20261124T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T000205Z
 UID:3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Tue Nov 24\, 2026 05:00 PM PST\n\nEnd time is an es
- timate (2h 15m).\n\nService / channel page (not a game deep link) — FOX 
- Sports live directory: https://www.foxsports.com/live\nLink check: reachab
- le\; playback requires the appropriate login\n\nOfficial schedule: https:/
- /uconnhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule:
-  https://gamecocksonline.com/sports/wbball/schedule/\n\nHall of Fame Women
- 's Showcase
-LAST-MODIFIED:20261019T235708Z
+ timate (2h 15m).\n\nGame link — FS1: https://www.fox.com/detail/event/EV
+ T-6ef8655670059e6bb30cab8d38a2e6ec/hall-of-fame-women-s-showcase-south-car
+ olina-vs-uconn\nLink check: reachable\; playback requires the appropriate 
+ login\n\nOfficial schedule: https://uconnhuskies.com/sports/womens-basketb
+ all/schedule/\n\nOfficial schedule: https://gamecocksonline.com/sports/wbb
+ all/schedule/\n\nHall of Fame Women's Showcase
+LAST-MODIFIED:20261124T000205Z
 LOCATION:Uncasville\, Conn.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.fox.com/detail/event/EVT-6ef8655670059e6bb30cab8d38a2e6ec/
+ hall-of-fame-women-s-showcase-south-carolina-vs-uconn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Southeastern Louisiana
