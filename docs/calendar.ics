@@ -1305,20 +1305,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Belmont
 DTSTART;TZID=America/Los_Angeles:20261123T170000
 DTEND;TZID=America/Los_Angeles:20261123T191500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T223539Z
 UID:3e5f12426e77cd140ba6c69b@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Mon Nov 23\, 2026 05:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/9a1ad7
+ f8-94cd-4f86-920f-87230e346a0b\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261124T223539Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/9a1ad7f8-94cd-4f86-920f-87230e3
+ 46a0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Northern Arizona
@@ -1389,9 +1390,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs South Carolina
 DTSTART;TZID=America/Los_Angeles:20261124T170000
 DTEND;TZID=America/Los_Angeles:20261124T191500
-DTSTAMP:20261124T000205Z
+DTSTAMP:20261124T223539Z
 UID:3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Tue Nov 24\, 2026 05:00 PM PST\n\nEnd time is an es
@@ -1401,7 +1402,7 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  login\n\nOfficial schedule: https://uconnhuskies.com/sports/womens-basketb
  all/schedule/\n\nOfficial schedule: https://gamecocksonline.com/sports/wbb
  all/schedule/\n\nHall of Fame Women's Showcase
-LAST-MODIFIED:20261124T000205Z
+LAST-MODIFIED:20261124T223539Z
 LOCATION:Uncasville\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/detail/event/EVT-6ef8655670059e6bb30cab8d38a2e6ec/
@@ -1473,20 +1474,21 @@ BEGIN:VEVENT
 SUMMARY:USC vs Saint Joseph's
 DTSTART;TZID=America/Los_Angeles:20261127T103000
 DTEND;TZID=America/Los_Angeles:20261127T124500
-DTSTAMP:20261105T074059Z
+DTSTAMP:20261124T223539Z
 UID:bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io
-SEQUENCE:1
-DESCRIPTION:Network: BDG Live\n\nStreaming: BDG Live — separate event pl
- atform\; confirm price and access on the official listing.\n\nTipoff (Paci
- fic): Fri Nov 27\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h 15m).\
- n\nService / channel page (not a game deep link) — BDG Live: https://www
- .bdgsportslive.com/\nLink check: reachable\; playback requires the appropr
- iate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sche
- dule\n\nBaha Mar Hoops Nassau Championship
-LAST-MODIFIED:20261105T074059Z
+SEQUENCE:2
+DESCRIPTION:Network: bdG Sports Live\n\nStreaming: BDG Live — separate e
+ vent platform\; confirm price and access on the official listing.\n\nTipof
+ f (Pacific): Fri Nov 27\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h
+  15m).\n\nService / channel page (not a game deep link) — bdG Sports Liv
+ e: https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/\nLin
+ k check: reachable\; playback requires the appropriate login\n\nOfficial s
+ chedule: https://usctrojans.com/sports/wbball/schedule\n\nBaha Mar Hoops N
+ assau Championship
+LAST-MODIFIED:20261124T223539Z
 LOCATION:Nassau\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://www.bdgsportslive.com/
+URL:https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs NC State
@@ -1571,21 +1573,22 @@ BEGIN:VEVENT
 SUMMARY:USC vs Iowa State
 DTSTART;TZID=America/Los_Angeles:20261129T103000
 DTEND;TZID=America/Los_Angeles:20261129T124500
-DTSTAMP:20261105T074059Z
+DTSTAMP:20261124T223539Z
 UID:030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io
-SEQUENCE:1
-DESCRIPTION:Network: BDG Live\n\nStreaming: BDG Live — separate event pl
- atform\; confirm price and access on the official listing.\n\nTipoff (Paci
- fic): Sun Nov 29\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h 15m).\
- n\nService / channel page (not a game deep link) — BDG Live: https://www
- .bdgsportslive.com/\nLink check: reachable\; playback requires the appropr
- iate login\n\nOfficial schedule: https://usctrojans.com/sports/wbball/sche
- dule\n\nOfficial schedule: https://cyclones.com/sports/womens-basketball/s
- chedule\n\nBaha Mar Hoops Nassau Championship
-LAST-MODIFIED:20261105T074059Z
+SEQUENCE:2
+DESCRIPTION:Network: bdG Sports Live / BDG Live\n\nStreaming: BDG Live —
+  separate event platform\; confirm price and access on the official listin
+ g.\n\nTipoff (Pacific): Sun Nov 29\, 2026 10:30 AM PST\n\nEnd time is an e
+ stimate (2h 15m).\n\nService / channel page (not a game deep link) — bdG
+  Sports Live: https://www.bdgsportslive.com/iowa-state-vs-usc-baha-mar-hoo
+ ps/\nLink check: reachable\; playback requires the appropriate login\n\nOf
+ ficial schedule: https://usctrojans.com/sports/wbball/schedule\n\nOfficial
+  schedule: https://cyclones.com/sports/womens-basketball/schedule\n\nBaha 
+ Mar Hoops Nassau Championship
+LAST-MODIFIED:20261124T223539Z
 LOCATION:Nassau\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://www.bdgsportslive.com/
+URL:https://www.bdgsportslive.com/iowa-state-vs-usc-baha-mar-hoops/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs North Carolina

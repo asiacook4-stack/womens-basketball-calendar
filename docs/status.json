@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T10:04:57.365410+00:00",
+  "updated": "2026-11-24T22:35:39.551640+00:00",
   "games": 276,
   "source_counts": {
     "UCLA": 33,
@@ -10,23 +10,23 @@
     "Texas": 35,
     "USC": 32,
     "Duke": 30,
+    "Maryland": 34,
     "Michigan": 35,
     "Tennessee": 33,
-    "Ohio State": 31,
-    "Maryland": 34,
     "NC State": 33,
     "Louisville": 34,
+    "Ohio State": 31,
     "Oklahoma": 33,
-    "Baylor": 34,
     "TCU": 33,
+    "Baylor": 34,
     "Vanderbilt": 31,
-    "North Carolina": 32,
     "Iowa State": 33,
-    "Iowa": 31,
-    "Ole Miss": 33
+    "Ole Miss": 33,
+    "North Carolina": 32,
+    "Iowa": 31
   },
-  "pending_changes": 5,
+  "pending_changes": 4,
   "missing_retained": 6,
-  "watch_urls_reachable": 83,
-  "watch_urls_total": 85
+  "watch_urls_reachable": 85,
+  "watch_urls_total": 87
 }

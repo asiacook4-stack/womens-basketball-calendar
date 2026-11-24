@@ -88,7 +88,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "PREGAME",
       "venue": "N",
       "note": "Hall of Fame Women's Showcase",
       "sources": [
@@ -97,8 +97,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-24T00:02:05.619198+00:00"
+      "sequence": 2,
+      "modified": "2026-11-24T22:35:39.551640+00:00"
     },
     "beaaa44e8386c4b087b317cc@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -2803,11 +2803,11 @@
       "date": "2026-11-27",
       "start": "2026-11-27T18:30:00+00:00",
       "location": "Nassau, Bahamas",
-      "network": "BDG Live",
+      "network": "bdG Sports Live",
       "watch": [
         {
-          "label": "BDG Live",
-          "url": "https://www.bdgsportslive.com/"
+          "label": "bdG Sports Live",
+          "url": "https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/"
         }
       ],
       "exhibition": false,
@@ -2819,8 +2819,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-05T07:40:59.925367+00:00"
+      "sequence": 2,
+      "modified": "2026-11-24T22:35:39.551640+00:00"
     },
     "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -2834,11 +2834,11 @@
       "date": "2026-11-29",
       "start": "2026-11-29T18:30:00+00:00",
       "location": "Nassau, Bahamas",
-      "network": "BDG Live",
+      "network": "bdG Sports Live / BDG Live",
       "watch": [
         {
-          "label": "BDG Live",
-          "url": "https://www.bdgsportslive.com/"
+          "label": "bdG Sports Live",
+          "url": "https://www.bdgsportslive.com/iowa-state-vs-usc-baha-mar-hoops/"
         }
       ],
       "exhibition": false,
@@ -2851,8 +2851,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io",
-      "sequence": 1,
-      "modified": "2026-11-05T07:40:59.925367+00:00"
+      "sequence": 2,
+      "modified": "2026-11-24T22:35:39.551640+00:00"
     },
     "94b7d5f5be7e6a160d3e6ff4@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -3871,11 +3871,11 @@
       "watch": [
         {
           "label": "SEC Network+",
-          "url": "https://watchespn.com/"
+          "url": "https://www.espn.com/watch/player/_/id/9a1ad7f8-94cd-4f86-920f-87230e346a0b"
         }
       ],
       "exhibition": false,
-      "status": "as_scheduled",
+      "status": "completed",
       "venue": "home",
       "note": "",
       "sources": [
@@ -3883,8 +3883,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "3e5f12426e77cd140ba6c69b@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
+      "sequence": 1,
+      "modified": "2026-11-24T22:35:39.551640+00:00"
     },
     "d97bf9201b7290a763acf09e@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7932,6 +7932,36 @@
       "sequence": 2,
       "modified": "2026-11-16T09:08:45.046215+00:00"
     },
+    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Maryland:22435"
+      ],
+      "teams": [
+        "Maryland",
+        "North Carolina"
+      ],
+      "date": "2026-10-24",
+      "start": "2026-10-24T17:00:00+00:00",
+      "location": "College Park, MD",
+      "network": "",
+      "watch": [
+        {
+          "label": "Official watch link",
+          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
+        }
+      ],
+      "exhibition": false,
+      "status": "GAMECOMPLETE",
+      "venue": "H",
+      "note": "Exhibition",
+      "sources": [
+        "https://umterps.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
+      "sequence": 3,
+      "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
     "4b96190600bdc462ad06e48f@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25767"
@@ -7987,36 +8017,6 @@
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
     },
-    "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Maryland:22435"
-      ],
-      "teams": [
-        "Maryland",
-        "North Carolina"
-      ],
-      "date": "2026-10-24",
-      "start": "2026-10-24T17:00:00+00:00",
-      "location": "College Park, MD",
-      "network": "",
-      "watch": [
-        {
-          "label": "Official watch link",
-          "url": "https://www.bigtenplus.com/en-int/livestream/exhibition-north-carolina-at-maryland/2257725"
-        }
-      ],
-      "exhibition": false,
-      "status": "GAMECOMPLETE",
-      "venue": "H",
-      "note": "Exhibition",
-      "sources": [
-        "https://umterps.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
-      "sequence": 3,
-      "modified": "2026-10-25T18:54:50.867818+00:00"
-    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -8047,31 +8047,6 @@
       "sequence": 1,
       "modified": "2026-10-22T01:03:42.762423+00:00"
     },
-    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "South Carolina:Albany-home"
-      ],
-      "teams": [
-        "South Carolina",
-        "Albany"
-      ],
-      "date": "2026-12-16",
-      "start": "2026-12-17T00:00:00+00:00",
-      "location": "Columbia, SC",
-      "network": "SEC Network+",
-      "watch": [],
-      "exhibition": false,
-      "status": "",
-      "venue": "",
-      "note": "",
-      "sources": [
-        "https://gamecocksonline.com/sports/wbball/schedule/"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "Duke:25740"
@@ -8096,118 +8071,37 @@
       "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
       "sequence": 0,
       "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "South Carolina:Albany-home"
+      ],
+      "teams": [
+        "South Carolina",
+        "Albany"
+      ],
+      "date": "2026-12-16",
+      "start": "2026-12-17T00:00:00+00:00",
+      "location": "Columbia, SC",
+      "network": "SEC Network+",
+      "watch": [],
+      "exhibition": false,
+      "status": "",
+      "venue": "",
+      "note": "",
+      "sources": [
+        "https://gamecocksonline.com/sports/wbball/schedule/"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "e1a44de6bcda028f2e7d8394@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io": {
-      "hash": "e14da31112b0fbdff707bf47dbf27256477a78cc3f5c672c261d11f1e0ef5afd",
-      "first_seen": "2026-11-24T10:04:57.365410+00:00",
-      "candidate": {
-        "source_ids": [
-          "UConn:25604",
-          "South Carolina:UConn-neutral"
-        ],
-        "teams": [
-          "UConn",
-          "South Carolina"
-        ],
-        "date": "2026-11-24",
-        "start": "2026-11-25T01:00:00+00:00",
-        "location": "Uncasville, Conn.",
-        "network": "FS1",
-        "watch": [
-          {
-            "label": "FS1",
-            "url": "https://www.fox.com/detail/event/EVT-6ef8655670059e6bb30cab8d38a2e6ec/hall-of-fame-women-s-showcase-south-carolina-vs-uconn"
-          }
-        ],
-        "exhibition": false,
-        "status": "PREGAME",
-        "venue": "N",
-        "note": "Hall of Fame Women's Showcase",
-        "sources": [
-          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
-          "https://gamecocksonline.com/sports/wbball/schedule/"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-24T00:02:05.619198+00:00"
-      }
-    },
-    "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io": {
-      "hash": "39554ed42bb9cbb435d0999e2252451fbe880f691779652629bf1ddd9287c17a",
-      "first_seen": "2026-11-24T10:04:57.365410+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35544"
-        ],
-        "teams": [
-          "USC",
-          "Saint Joseph's"
-        ],
-        "date": "2026-11-27",
-        "start": "2026-11-27T18:30:00+00:00",
-        "location": "Nassau, Bahamas",
-        "network": "bdG Sports Live",
-        "watch": [
-          {
-            "label": "bdG Sports Live",
-            "url": "https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/"
-          }
-        ],
-        "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "N",
-        "note": "Baha Mar Hoops Nassau Championship",
-        "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-05T07:40:59.925367+00:00"
-      }
-    },
-    "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io": {
-      "hash": "f676a6e38c4df7d8ce0890b25a559b1cc3e3ad82a83aaf2131bacd90a4f15030",
-      "first_seen": "2026-11-24T10:04:57.365410+00:00",
-      "candidate": {
-        "source_ids": [
-          "USC:35545",
-          "Iowa State:18918"
-        ],
-        "teams": [
-          "USC",
-          "Iowa State"
-        ],
-        "date": "2026-11-29",
-        "start": "2026-11-29T18:30:00+00:00",
-        "location": "Nassau, Bahamas",
-        "network": "bdG Sports Live / BDG Live",
-        "watch": [
-          {
-            "label": "bdG Sports Live",
-            "url": "https://www.bdgsportslive.com/iowa-state-vs-usc-baha-mar-hoops/"
-          }
-        ],
-        "exhibition": false,
-        "status": "SCHEDULED",
-        "venue": "N",
-        "note": "Baha Mar Hoops Nassau Championship",
-        "sources": [
-          "https://usctrojans.com/sports/wbball/schedule",
-          "https://cyclones.com/sports/womens-basketball/schedule"
-        ],
-        "coverage": "Full team schedule",
-        "uid": "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io",
-        "sequence": 1,
-        "modified": "2026-11-05T07:40:59.925367+00:00"
-      }
-    },
     "6537d751b97a22467c69d767@wbb.asiacook4-stack.github.io": {
-      "hash": "d3b08817e8741cd7756ee1d2831fe14e939367268b22f59cbfa372525ad26d5f",
-      "first_seen": "2026-11-24T10:04:57.365410+00:00",
+      "hash": "e8d728670729ad37f030adb14b0c5108fcc8216e8fed2cc7253858b4dd7dfa2b",
+      "first_seen": "2026-11-24T22:35:39.551640+00:00",
       "candidate": {
         "source_ids": [
           "USC:35626"
@@ -8227,7 +8121,7 @@
           }
         ],
         "exhibition": false,
-        "status": "POSTGAME",
+        "status": "GAMECOMPLETE",
         "venue": "H",
         "note": "",
         "sources": [
@@ -8239,42 +8133,107 @@
         "modified": "2026-11-05T07:40:59.925367+00:00"
       }
     },
-    "3e5f12426e77cd140ba6c69b@wbb.asiacook4-stack.github.io": {
-      "hash": "9953d38a111041ff340762a4b2d491bd175aed5e05ab6759e6eb80ad56cdc8a7",
-      "first_seen": "2026-11-24T10:04:57.365410+00:00",
+    "c9bd5bf09d48799e858a37a2@wbb.asiacook4-stack.github.io": {
+      "hash": "38f1475e429f03182744b66f403b9ec0fe03c1a1fbc8f8301c3f736914a9ae98",
+      "first_seen": "2026-11-24T22:35:39.551640+00:00",
       "candidate": {
         "source_ids": [
-          "LSU:21032"
+          "Texas:23180"
         ],
         "teams": [
-          "LSU",
-          "Belmont"
+          "Texas",
+          "Southeastern Louisiana"
         ],
-        "date": "2026-11-23",
-        "start": "2026-11-24T01:00:00+00:00",
-        "location": "Baton Rouge, La. (Maravich Center)",
-        "network": "SEC Network+",
+        "date": "2026-11-25",
+        "start": "2026-11-26T00:00:00+00:00",
+        "location": "Austin, Texas",
+        "network": "SEC Network",
         "watch": [
           {
-            "label": "SEC Network+",
-            "url": "https://www.espn.com/watch/player/_/id/9a1ad7f8-94cd-4f86-920f-87230e346a0b"
+            "label": "SEC Network",
+            "url": "https://www.espn.com/watch/player/_/id/67043a4a-e026-4130-9cbc-4a990b268981"
           }
         ],
         "exhibition": false,
-        "status": "completed",
-        "venue": "home",
+        "status": "SCHEDULED",
+        "venue": "H",
         "note": "",
         "sources": [
-          "https://lsusports.net/sports/wbball/schedule/"
+          "https://texaslonghorns.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "3e5f12426e77cd140ba6c69b@wbb.asiacook4-stack.github.io",
+        "uid": "c9bd5bf09d48799e858a37a2@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
+      }
+    },
+    "1ba9173322311ed7ec1c6f39@wbb.asiacook4-stack.github.io": {
+      "hash": "593b104dbb6ce69dacf5b8fee2ad8363e3fc2fd35e5a8b022470e7be20e75bc9",
+      "first_seen": "2026-11-24T22:35:39.551640+00:00",
+      "candidate": {
+        "source_ids": [
+          "Texas:23183",
+          "TCU:20460"
+        ],
+        "teams": [
+          "Texas",
+          "TCU"
+        ],
+        "date": "2026-12-06",
+        "start": "2026-12-06T22:00:00+00:00",
+        "location": "Fort Worth, Texas",
+        "network": "ESPN2",
+        "watch": [
+          {
+            "label": "ESPN2",
+            "url": "https://texaslonghorns.com/sports/womens-basketball/Watch"
+          }
+        ],
+        "exhibition": false,
+        "status": "SCHEDULED",
+        "venue": "N",
+        "note": "LS² Hoops with Heart",
+        "sources": [
+          "https://texaslonghorns.com/sports/womens-basketball/schedule",
+          "https://gofrogs.com/sports/womens-basketball/schedule"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "1ba9173322311ed7ec1c6f39@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-06T19:17:15.755859+00:00"
+      }
+    },
+    "68f8ee460c91aba5e0679cb5@wbb.asiacook4-stack.github.io": {
+      "hash": "ee15fc08b3306822db9157eec38fcdb3c1a9c326e298679aabcd6a7367eb1b0a",
+      "first_seen": "2026-11-24T22:35:39.551640+00:00",
+      "candidate": {
+        "source_ids": [
+          "Notre Dame:20024"
+        ],
+        "teams": [
+          "Notre Dame",
+          "Davidson"
+        ],
+        "date": "2026-11-24",
+        "start": "2026-11-24T18:00:00+00:00",
+        "location": "Paradise Island, Bahamas",
+        "network": "",
+        "watch": [],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "neutral",
+        "note": "2026 Battle 4 Atlantis",
+        "sources": [
+          "https://fightingirish.com/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "68f8ee460c91aba5e0679cb5@wbb.asiacook4-stack.github.io",
         "sequence": 0,
         "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-24T10:04:57.365410+00:00",
+  "updated": "2026-11-24T22:35:39.551640+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
