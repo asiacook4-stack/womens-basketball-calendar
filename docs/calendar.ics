@@ -1264,9 +1264,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs No. 19 Ohio State
 DTSTART;TZID=America/Los_Angeles:20261122T100000
 DTEND;TZID=America/Los_Angeles:20261122T121500
-DTSTAMP:20261120T153643Z
+DTSTAMP:20261124T100457Z
 UID:77fbd4d351529c3a855d0c52@wbb.asiacook4-stack.github.io
-SEQUENCE:4
+SEQUENCE:5
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
  Nov 22\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
@@ -1274,7 +1274,7 @@ DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  8-3a0bdf0b392b\nLink check: reachable\; playback requires the appropriate 
  login\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-baske
  tball/schedule\n\nLS² Hoops with Heart
-LAST-MODIFIED:20261120T153643Z
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/e20608a2-4f25-4119-a758-3a0bdf0
@@ -1492,41 +1492,41 @@ BEGIN:VEVENT
 SUMMARY:LSU vs NC State
 DTSTART;TZID=America/Los_Angeles:20261128T133000
 DTEND;TZID=America/Los_Angeles:20261128T154500
-DTSTAMP:20261101T012949Z
+DTSTAMP:20261124T100457Z
 UID:2c9c140c4902ad89b92dfa1c@wbb.asiacook4-stack.github.io
-SEQUENCE:1
-DESCRIPTION:Network: ION\n\nStreaming: ION — free over-the-air where ava
- ilable\; verify the official streaming listing.\n\nTipoff (Pacific): Sat N
- ov 28\, 2026 01:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService 
- / channel page (not a game deep link) — ION: https://iontelevision.com/s
- chedule\nLink check: reachable\; playback requires the appropriate login\n
- \nOfficial schedule: https://lsusports.net/sports/wbball/schedule/\n\nOffi
- cial schedule: https://gopack.com/sports/womens-basketball/schedule\n\nFor
- t Myers Tip-Off
-LAST-MODIFIED:20261101T012949Z
+SEQUENCE:2
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Sat Nov 28
+ \, 2026 01:30 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://lsusports.net/sports/wbball/schedule/\n\nFort Myers Tip-Off
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Fort Myers\, Fla. (Suncoast Credit Union Arena)
 TRANSP:TRANSPARENT
-URL:https://iontelevision.com/schedule
+URL:https://lsusports.net/sports/wbball/schedule/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs Duke
 DTSTART;TZID=America/Los_Angeles:20261128T160000
 DTEND;TZID=America/Los_Angeles:20261128T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T100457Z
 UID:beaaa44e8386c4b087b317cc@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: FOX\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Sat Nov 28\, 2026 04:00 PM PST\n\nEnd time is an es
- timate (2h 15m).\n\nService / channel page (not a game deep link) — FOX 
- Sports live directory: https://www.foxsports.com/live\nLink check: reachab
- le\; playback requires the appropriate login\n\nOfficial schedule: https:/
- /uconnhuskies.com/sports/womens-basketball/schedule/\n\nOfficial schedule:
-  https://goduke.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ timate (2h 15m).\n\nGame link — FOX: https://www.fox.com/detail/event/EV
+ T-641289e3cf3398ed9046aa40ff34c9e6/women-s-college-basketball-big-east-wom
+ en-s-duke-vs-uconn\nLink check: reachable\; playback requires the appropri
+ ate login\n\nOfficial schedule: https://uconnhuskies.com/sports/womens-bas
+ ketball/schedule/\n\nOfficial schedule: https://goduke.com/sports/womens-b
+ asketball/schedule
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Boston\, Mass.
 TRANSP:TRANSPARENT
-URL:https://www.foxsports.com/live
+URL:https://www.fox.com/detail/event/EVT-641289e3cf3398ed9046aa40ff34c9e6/
+ women-s-college-basketball-big-east-women-s-duke-vs-uconn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs Southeast Missouri State
@@ -1792,20 +1792,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Northwestern State
 DTSTART;TZID=America/Los_Angeles:20261206T120000
 DTEND;TZID=America/Los_Angeles:20261206T141500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T100457Z
 UID:5994fa024c44cdfa404710fa@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun
-  Dec 06\, 2026 12:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN+: https://watchespn.com/\
- nLink check: published by the official team\; automated verification unava
- ilable\, HTTP unknown\n\nOfficial schedule: https://lsusports.net/sports/w
- bball/schedule/
-LAST-MODIFIED:20261019T235708Z
+  Dec 06\, 2026 12:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — ESPN+: https://www.espn.com/watch/player/_/id/b401627f-08af-458a-9
+ 79e-21b0db7df37f\nLink check: reachable\; playback requires the appropriat
+ e login\n\nOfficial schedule: https://lsusports.net/sports/wbball/schedule
+ /
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Natchitoches\, La. (Prather Coliseum)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/b401627f-08af-458a-979e-21b0db7
+ df37f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs Florida State
@@ -2075,20 +2076,20 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Houston
 DTSTART;TZID=America/Los_Angeles:20261213T100000
 DTEND;TZID=America/Los_Angeles:20261213T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T100457Z
 UID:cec1568e90cb2e9119024007@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN\n\nStreaming: ESPN app — included with your ES
  PN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun 
- Dec 13\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService
-  / channel page (not a game deep link) — ESPN: https://watchespn.com/\nL
- ink check: published by the official team\; automated verification unavail
- able\, HTTP unknown\n\nOfficial schedule: https://lsusports.net/sports/wbb
- all/schedule/
-LAST-MODIFIED:20261019T235708Z
+ Dec 13\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame li
+ nk — ESPN: https://www.espn.com/watch/player/_/id/4e7e3cf3-bc57-4318-98b
+ d-290a841b462a\nLink check: reachable\; playback requires the appropriate 
+ login\n\nOfficial schedule: https://lsusports.net/sports/wbball/schedule/
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Houston\, Texas (Toyota Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/4e7e3cf3-bc57-4318-98bd-290a841
+ b462a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NC State vs North Carolina
@@ -2173,20 +2174,21 @@ BEGIN:VEVENT
 SUMMARY:LSU vs Stonehill
 DTSTART;TZID=America/Los_Angeles:20261215T090000
 DTEND;TZID=America/Los_Angeles:20261215T111500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T100457Z
 UID:2179acf7a3167e57559c8103@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network+\n\nStreaming: ESPN app — included with
   your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacifi
  c): Tue Dec 15\, 2026 09:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\
- nService / channel page (not a game deep link) — SEC Network+: https://w
- atchespn.com/\nLink check: published by the official team\; automated veri
- fication unavailable\, HTTP unknown\n\nOfficial schedule: https://lsusport
- s.net/sports/wbball/schedule/
-LAST-MODIFIED:20261019T235708Z
+ nGame link — SEC Network+: https://www.espn.com/watch/player/_/id/299643
+ 54-0c7b-45d4-a895-e17530e277b0\nLink check: reachable\; playback requires 
+ the appropriate login\n\nOfficial schedule: https://lsusports.net/sports/w
+ bball/schedule/
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Baton Rouge\, La. (Maravich Center)
 TRANSP:TRANSPARENT
-URL:https://lsusports.net/sports/wbball/schedule/
+URL:https://www.espn.com/watch/player/_/id/29964354-0c7b-45d4-a895-e17530e
+ 277b0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:South Carolina vs Albany
@@ -2430,21 +2432,22 @@ BEGIN:VEVENT
 SUMMARY:UConn vs LSU
 DTSTART;TZID=America/Los_Angeles:20261220T100000
 DTEND;TZID=America/Los_Angeles:20261220T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261124T100457Z
 UID:07badc3245bb50c11dd08ddb@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ABC\n\nStreaming: ESPN app — included with your ESP
  N Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun D
- ec 20\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nService 
- / channel page (not a game deep link) — ABC: https://watchespn.com/\nLin
- k check: published by the official team\; automated verification unavailab
- le\, HTTP unknown\n\nOfficial schedule: https://uconnhuskies.com/sports/wo
- mens-basketball/schedule/\n\nOfficial schedule: https://lsusports.net/spor
- ts/wbball/schedule/\n\nespnW Invitational
-LAST-MODIFIED:20261019T235708Z
+ ec 20\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nGame lin
+ k — ABC: https://www.espn.com/watch/player/_/id/a27dd4ea-f2c5-4db2-b448-
+ 4ed36e7c6593\nLink check: reachable\; playback requires the appropriate lo
+ gin\n\nOfficial schedule: https://uconnhuskies.com/sports/womens-basketbal
+ l/schedule/\n\nOfficial schedule: https://lsusports.net/sports/wbball/sche
+ dule/\n\nespnW Invitational
+LAST-MODIFIED:20261124T100457Z
 LOCATION:Nashville\, Tenn.
 TRANSP:TRANSPARENT
-URL:https://uconnhuskies.com/sports/womens-basketball/schedule/
+URL:https://www.espn.com/watch/player/_/id/a27dd4ea-f2c5-4db2-b448-4ed36e7
+ c6593
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:USC vs Duke
