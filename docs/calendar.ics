@@ -1365,20 +1365,20 @@ BEGIN:VEVENT
 SUMMARY:UCLA vs St. John's
 DTSTART;TZID=America/Los_Angeles:20261124T140000
 DTEND;TZID=America/Los_Angeles:20261124T161500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261125T214954Z
 UID:930f8f7d5ab373606db6320f@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: Peacock\n\nStreaming: Peacock — included with your 
- Peacock Premium.\n\nTipoff (Pacific): Tue Nov 24\, 2026 02:00 PM PST\n\nEn
- d time is an estimate (2h 15m).\n\nService / channel page (not a game deep
-  link) — Peacock logo: https://www.peacocktv.com/sports\nLink check: rea
- chable\; playback requires the appropriate login\n\nOfficial schedule: htt
- ps://uclabruins.com/sports/womens-basketball/schedule\n\nHall of Fame Wome
- n's Showcase
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Tue Nov 24
+ \, 2026 02:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://uclabruins.com/sports/womens-basketball/schedule\n\nHall of Fame W
+ omen's Showcase
+LAST-MODIFIED:20261125T214954Z
 LOCATION:Uncasville\, Conn. / Mohegan Sun Arena
 TRANSP:TRANSPARENT
-URL:https://www.peacocktv.com/sports
+URL:https://uclabruins.com/sports/womens-basketball/schedule
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs South Carolina
