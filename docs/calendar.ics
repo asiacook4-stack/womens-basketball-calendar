@@ -1325,9 +1325,9 @@ BEGIN:VEVENT
 SUMMARY:USC vs Northern Arizona
 DTSTART;TZID=America/Los_Angeles:20261123T190000
 DTEND;TZID=America/Los_Angeles:20261123T211500
-DTSTAMP:20261105T074059Z
+DTSTAMP:20261125T084954Z
 UID:6537d751b97a22467c69d767@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  n\; not included with ESPN Unlimited or Peacock.\n\nTipoff (Pacific): Mon 
  Nov 23\, 2026 07:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nService
@@ -1336,7 +1336,7 @@ DESCRIPTION:Network: B1G+\n\nStreaming: B1G+ — separate paid subscriptio
  -23-2026-game-boxscore-390287\nLink check: reachable\; playback requires t
  he appropriate login\n\nOfficial schedule: https://usctrojans.com/sports/w
  bball/schedule
-LAST-MODIFIED:20261105T074059Z
+LAST-MODIFIED:20261125T084954Z
 LOCATION:Los Angeles\, Calif.
 TRANSP:TRANSPARENT
 URL:https://www.foxsports.com/womens-college-basketball/northern-arizona-l
@@ -1346,26 +1346,20 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs Davidson
 DTSTART;TZID=America/Los_Angeles:20261124T100000
 DTEND;TZID=America/Los_Angeles:20261124T121500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261125T084954Z
 UID:68f8ee460c91aba5e0679cb5@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ESPN+\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Tue
-  Nov 24\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN+: https://plus.espn.com/?
- gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!
- 820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=
- 0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld
- -P0Ne_J7fn\nLink check: reachable\; playback requires the appropriate logi
- n\n\nOfficial schedule: https://fightingirish.com/sports/wbball/schedule/\
- n\n2026 Battle 4 Atlantis
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Tue Nov 24
+ \, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://fightingirish.com/sports/wbball/schedule/\n\n2026 Battle 4 Atlanti
+ s
+LAST-MODIFIED:20261125T084954Z
 LOCATION:Paradise Island\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-2397
- 8283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_cam
- paignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCA
- jwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn
+URL:https://fightingirish.com/sports/wbball/schedule/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UCLA vs St. John's
@@ -1412,20 +1406,21 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Southeastern Louisiana
 DTSTART;TZID=America/Los_Angeles:20261125T160000
 DTEND;TZID=America/Los_Angeles:20261125T181500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261125T084954Z
 UID:c9bd5bf09d48799e858a37a2@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with 
  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific
  ): Wed Nov 25\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\n
- Service / channel page (not a game deep link) — SEC Network: https://tex
- aslonghorns.com/sports/womens-basketball/Watch\nLink check: published by t
- he official team\; automated verification unavailable\, HTTP 404\n\nOffici
- al schedule: https://texaslonghorns.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+ Game link — SEC Network: https://www.espn.com/watch/player/_/id/67043a4a
+ -e026-4130-9cbc-4a990b268981\nLink check: reachable\; playback requires th
+ e appropriate login\n\nOfficial schedule: https://texaslonghorns.com/sport
+ s/womens-basketball/schedule
+LAST-MODIFIED:20261125T084954Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/id/67043a4a-e026-4130-9cbc-4a990b2
+ 68981
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notre Dame vs West Virginia
@@ -1851,21 +1846,21 @@ URL:https://www.espn.com/watch/player/_/id/90f19f97-13f5-48f0-975c-3424502
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Texas vs TCU
-DTSTART;TZID=America/Los_Angeles:20261206T100000
-DTEND;TZID=America/Los_Angeles:20261206T121500
-DTSTAMP:20261106T191715Z
+DTSTART;TZID=America/Los_Angeles:20261206T140000
+DTEND;TZID=America/Los_Angeles:20261206T161500
+DTSTAMP:20261125T084954Z
 UID:1ba9173322311ed7ec1c6f39@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Sun
-  Dec 06\, 2026 10:00 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
+  Dec 06\, 2026 02:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
  e / channel page (not a game deep link) — ESPN2: https://texaslonghorns.
  com/sports/womens-basketball/Watch\nLink check: published by the official 
  team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
   https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficial 
  schedule: https://gofrogs.com/sports/womens-basketball/schedule\n\nLS² Ho
  ops with Heart
-LAST-MODIFIED:20261106T191715Z
+LAST-MODIFIED:20261125T084954Z
 LOCATION:Fort Worth\, Texas
 TRANSP:TRANSPARENT
 URL:https://texaslonghorns.com/sports/womens-basketball/schedule
