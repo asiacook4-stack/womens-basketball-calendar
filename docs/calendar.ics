@@ -1384,9 +1384,9 @@ BEGIN:VEVENT
 SUMMARY:UConn vs South Carolina
 DTSTART;TZID=America/Los_Angeles:20261124T170000
 DTEND;TZID=America/Los_Angeles:20261124T191500
-DTSTAMP:20261124T223539Z
+DTSTAMP:20261126T083610Z
 UID:3ae1a7bc29afd7432ada72b4@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  g TV provider — additional access required\; verify channel availability
  .\n\nTipoff (Pacific): Tue Nov 24\, 2026 05:00 PM PST\n\nEnd time is an es
@@ -1396,7 +1396,7 @@ DESCRIPTION:Network: FS1\n\nStreaming: FOX Sports / FOX One or a qualifyin
  login\n\nOfficial schedule: https://uconnhuskies.com/sports/womens-basketb
  all/schedule/\n\nOfficial schedule: https://gamecocksonline.com/sports/wbb
  all/schedule/\n\nHall of Fame Women's Showcase
-LAST-MODIFIED:20261124T223539Z
+LAST-MODIFIED:20261126T083610Z
 LOCATION:Uncasville\, Conn.
 TRANSP:TRANSPARENT
 URL:https://www.fox.com/detail/event/EVT-6ef8655670059e6bb30cab8d38a2e6ec/
@@ -1631,21 +1631,25 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Louisville
 DTSTART;TZID=America/Los_Angeles:20261202T181500
 DTEND;TZID=America/Los_Angeles:20261202T203000
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261126T083610Z
 UID:78a9748cbccefdecea163b31@wbb.asiacook4-stack.github.io
-SEQUENCE:0
+SEQUENCE:1
 DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
  SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Wed
-  Dec 02\, 2026 06:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN2: https://texaslonghorns.
- com/sports/womens-basketball/Watch\nLink check: published by the official 
- team\; automated verification unavailable\, HTTP 404\n\nOfficial schedule:
-  https://texaslonghorns.com/sports/womens-basketball/schedule\n\nOfficial 
- schedule: https://gocards.com/sports/womens-basketball/schedule
-LAST-MODIFIED:20261019T235708Z
+  Dec 02\, 2026 06:15 PM PST\n\nEnd time is an estimate (2h 15m).\n\nGame l
+ ink — Official watch link: https://www.espn.com/watch/player/_/id/06f4d8
+ 20-544d-4085-b5e9-87eee5566660\nLink check: reachable\; playback requires 
+ the appropriate login\n\nService / channel page (not a game deep link) —
+  ESPN2: https://texaslonghorns.com/sports/womens-basketball/Watch\nLink ch
+ eck: published by the official team\; automated verification unavailable\,
+  HTTP 404\n\nOfficial schedule: https://texaslonghorns.com/sports/womens-b
+ asketball/schedule\n\nOfficial schedule: https://gocards.com/sports/womens
+ -basketball/schedule
+LAST-MODIFIED:20261126T083610Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
-URL:https://texaslonghorns.com/sports/womens-basketball/schedule
+URL:https://www.espn.com/watch/player/_/id/06f4d820-544d-4085-b5e9-87eee55
+ 66660
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:UConn vs UNLV
