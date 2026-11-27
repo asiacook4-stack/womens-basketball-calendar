@@ -1406,9 +1406,9 @@ BEGIN:VEVENT
 SUMMARY:Texas vs Southeastern Louisiana
 DTSTART;TZID=America/Los_Angeles:20261125T160000
 DTEND;TZID=America/Los_Angeles:20261125T181500
-DTSTAMP:20261125T084954Z
+DTSTAMP:20261127T084713Z
 UID:c9bd5bf09d48799e858a37a2@wbb.asiacook4-stack.github.io
-SEQUENCE:1
+SEQUENCE:2
 DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with 
  your ESPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific
  ): Wed Nov 25\, 2026 04:00 PM PST\n\nEnd time is an estimate (2h 15m).\n\n
@@ -1416,7 +1416,7 @@ DESCRIPTION:Network: SEC Network\n\nStreaming: ESPN app — included with
  -e026-4130-9cbc-4a990b268981\nLink check: reachable\; playback requires th
  e appropriate login\n\nOfficial schedule: https://texaslonghorns.com/sport
  s/womens-basketball/schedule
-LAST-MODIFIED:20261125T084954Z
+LAST-MODIFIED:20261127T084713Z
 LOCATION:Austin\, Texas
 TRANSP:TRANSPARENT
 URL:https://www.espn.com/watch/player/_/id/67043a4a-e026-4130-9cbc-4a990b2
@@ -1426,26 +1426,20 @@ BEGIN:VEVENT
 SUMMARY:Notre Dame vs West Virginia
 DTSTART;TZID=America/Los_Angeles:20261126T083000
 DTEND;TZID=America/Los_Angeles:20261126T104500
-DTSTAMP:20261019T235708Z
+DTSTAMP:20261127T084713Z
 UID:84503c74a57e838fe4abcbec@wbb.asiacook4-stack.github.io
-SEQUENCE:0
-DESCRIPTION:Network: ESPN2\n\nStreaming: ESPN app — included with your E
- SPN Unlimited (ESPN+\, SECN+ and ACCNX included).\n\nTipoff (Pacific): Thu
-  Nov 26\, 2026 08:30 AM PST\n\nEnd time is an estimate (2h 15m).\n\nServic
- e / channel page (not a game deep link) — ESPN2: https://plus.espn.com/?
- gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-23978283773-&s_kwcid=AL!8468!3!
- 820674489516!e!!g!!espn%2B&gad_source=1&gad_campaignid=23978283773&gbraid=
- 0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCAjwzNTUBhAjEiwA7zcvWqx7Xtuld
- -P0Ne_J7fn\nLink check: reachable\; playback requires the appropriate logi
- n\n\nOfficial schedule: https://fightingirish.com/sports/wbball/schedule/\
- n\n2026 Battle 4 Atlantis
-LAST-MODIFIED:20261019T235708Z
+SEQUENCE:1
+DESCRIPTION:Network: TBA — not yet announced\n\nStreaming: Streaming acc
+ ess not confirmed\; see official schedule. Your ESPN Unlimited and Peacock
+  subscriptions do not cover every network.\n\nTipoff (Pacific): Thu Nov 26
+ \, 2026 08:30 AM PST\n\nEnd time is an estimate (2h 15m).\n\nWatch URL TBA
+  — no official streaming link has been published.\n\nOfficial schedule: 
+ https://fightingirish.com/sports/wbball/schedule/\n\n2026 Battle 4 Atlanti
+ s
+LAST-MODIFIED:20261127T084713Z
 LOCATION:Paradise Island\, Bahamas
 TRANSP:TRANSPARENT
-URL:https://plus.espn.com/?gclsrc=aw.ds&ex_cid=EDTC-PaidSearch-Google-2397
- 8283773-&s_kwcid=AL!8468!3!820674489516!e!!g!!espn%2B&gad_source=1&gad_cam
- paignid=23978283773&gbraid=0AAAAADC9VdEzYnaFmiqNzuEFs7Vz4RMH6&gclid=CjwKCA
- jwzNTUBhAjEiwA7zcvWqx7Xtuld-P0Ne_J7fn
+URL:https://fightingirish.com/sports/wbball/schedule/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LSU vs Villanova
