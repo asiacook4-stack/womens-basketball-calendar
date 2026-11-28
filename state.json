@@ -2806,7 +2806,7 @@
         }
       ],
       "exhibition": false,
-      "status": "SCHEDULED",
+      "status": "FULLTIME",
       "venue": "N",
       "note": "Baha Mar Hoops Nassau Championship",
       "sources": [
@@ -2814,8 +2814,8 @@
       ],
       "coverage": "Full team schedule",
       "uid": "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io",
-      "sequence": 2,
-      "modified": "2026-11-24T22:35:39.551640+00:00"
+      "sequence": 3,
+      "modified": "2026-11-28T08:03:30.985340+00:00"
     },
     "030f7ed3e5bec525932742d3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
@@ -7951,56 +7951,6 @@
       "sequence": 3,
       "modified": "2026-10-26T19:09:03.910774+00:00"
     },
-    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "NC State:24744"
-      ],
-      "teams": [
-        "NC State",
-        "Kentucky"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00+00:00",
-      "location": "Charlotte, N.C.",
-      "network": "ESPN2",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "Ally Tipoff",
-      "sources": [
-        "https://gopack.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "National spotlight",
-      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
-    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
-      "source_ids": [
-        "Duke:25740"
-      ],
-      "teams": [
-        "Duke",
-        "North Texas"
-      ],
-      "date": "2026-11-08",
-      "start": "2026-11-08T19:00:00+00:00",
-      "location": "San Antonio, Texas",
-      "network": "ESPNU",
-      "watch": [],
-      "exhibition": false,
-      "status": "SCHEDULED",
-      "venue": "N",
-      "note": "The Foundry Classic",
-      "sources": [
-        "https://goduke.com/sports/womens-basketball/schedule"
-      ],
-      "coverage": "Full team schedule",
-      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
-      "sequence": 0,
-      "modified": "2026-10-19T23:57:08.631912+00:00"
-    },
     "6d1c826f4c47a333e29c47c3@wbb.asiacook4-stack.github.io": {
       "source_ids": [
         "UConn:25600"
@@ -8085,45 +8035,126 @@
       "uid": "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",
       "sequence": 3,
       "modified": "2026-10-25T18:54:50.867818+00:00"
+    },
+    "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "NC State:24744"
+      ],
+      "teams": [
+        "NC State",
+        "Kentucky"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T20:00:00+00:00",
+      "location": "Charlotte, N.C.",
+      "network": "ESPN2",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "Ally Tipoff",
+      "sources": [
+        "https://gopack.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "National spotlight",
+      "uid": "f11233de41c0eaec071e5540@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
+    },
+    "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io": {
+      "source_ids": [
+        "Duke:25740"
+      ],
+      "teams": [
+        "Duke",
+        "North Texas"
+      ],
+      "date": "2026-11-08",
+      "start": "2026-11-08T19:00:00+00:00",
+      "location": "San Antonio, Texas",
+      "network": "ESPNU",
+      "watch": [],
+      "exhibition": false,
+      "status": "SCHEDULED",
+      "venue": "N",
+      "note": "The Foundry Classic",
+      "sources": [
+        "https://goduke.com/sports/womens-basketball/schedule"
+      ],
+      "coverage": "Full team schedule",
+      "uid": "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
+      "sequence": 0,
+      "modified": "2026-10-19T23:57:08.631912+00:00"
     }
   },
   "pending": {
-    "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io": {
-      "hash": "944e306514842089166b464fe4f1ce437aef8c0b393bc9eb348cfb5b8a5ac721",
-      "first_seen": "2026-11-27T21:27:05.632424+00:00",
+    "beaaa44e8386c4b087b317cc@wbb.asiacook4-stack.github.io": {
+      "hash": "5716680d72b7d8d7bedbb9f16e42ad31b37beb71c51d78fb10b18b2f948761b2",
+      "first_seen": "2026-11-28T08:03:30.985340+00:00",
       "candidate": {
         "source_ids": [
-          "USC:35544"
+          "UConn:25605",
+          "Duke:25745"
         ],
         "teams": [
-          "USC",
-          "Saint Joseph's"
+          "UConn",
+          "Duke"
         ],
-        "date": "2026-11-27",
-        "start": "2026-11-27T18:30:00+00:00",
-        "location": "Nassau, Bahamas",
-        "network": "bdG Sports Live",
+        "date": "2026-11-28",
+        "start": "2026-11-29T00:00:00+00:00",
+        "location": "Boston, Mass.",
+        "network": "FOX",
         "watch": [
           {
-            "label": "bdG Sports Live",
-            "url": "https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/"
+            "label": "FOX",
+            "url": "https://www.fox.com/detail/event/EVT-641289e3cf3398ed9046aa40ff34c9e6/women-s-college-basketball-big-east-women-s-duke-vs-uconn"
           }
         ],
         "exhibition": false,
-        "status": "FULLTIME",
+        "status": "PREGAME",
         "venue": "N",
-        "note": "Baha Mar Hoops Nassau Championship",
+        "note": "",
         "sources": [
-          "https://usctrojans.com/sports/wbball/schedule"
+          "https://uconnhuskies.com/sports/womens-basketball/schedule/",
+          "https://goduke.com/sports/womens-basketball/schedule"
         ],
         "coverage": "Full team schedule",
-        "uid": "bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io",
-        "sequence": 2,
-        "modified": "2026-11-24T22:35:39.551640+00:00"
+        "uid": "beaaa44e8386c4b087b317cc@wbb.asiacook4-stack.github.io",
+        "sequence": 1,
+        "modified": "2026-11-24T10:04:57.365410+00:00"
+      }
+    },
+    "b7e94deae9037f2dfc2e601c@wbb.asiacook4-stack.github.io": {
+      "hash": "4366bd807f4f47406c5b0538310163cdf8a9426a823d6f572d4dd9923903273d",
+      "first_seen": "2026-11-28T08:03:30.985340+00:00",
+      "candidate": {
+        "source_ids": [
+          "LSU:20829"
+        ],
+        "teams": [
+          "LSU",
+          "Villanova"
+        ],
+        "date": "2026-11-27",
+        "start": "2026-11-27T21:30:00+00:00",
+        "location": "Fort Myers, Fla. (Suncoast Credit Union Arena)",
+        "network": "",
+        "watch": [],
+        "exhibition": false,
+        "status": "completed",
+        "venue": "neutral",
+        "note": "Fort Myers Tip-Off",
+        "sources": [
+          "https://lsusports.net/sports/wbball/schedule/"
+        ],
+        "coverage": "Full team schedule",
+        "uid": "b7e94deae9037f2dfc2e601c@wbb.asiacook4-stack.github.io",
+        "sequence": 0,
+        "modified": "2026-10-19T23:57:08.631912+00:00"
       }
     }
   },
-  "updated": "2026-11-27T21:27:05.632424+00:00",
+  "updated": "2026-11-28T08:03:30.985340+00:00",
   "missing_retained": [
     "1f19712dd854b0d8eb817676@wbb.asiacook4-stack.github.io",
     "39cfd129a73f3cc766b0a631@wbb.asiacook4-stack.github.io",

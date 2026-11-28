@@ -1463,9 +1463,9 @@ BEGIN:VEVENT
 SUMMARY:USC vs Saint Joseph's
 DTSTART;TZID=America/Los_Angeles:20261127T103000
 DTEND;TZID=America/Los_Angeles:20261127T124500
-DTSTAMP:20261124T223539Z
+DTSTAMP:20261128T080330Z
 UID:bd7c9b4ffe0427f644e16b93@wbb.asiacook4-stack.github.io
-SEQUENCE:2
+SEQUENCE:3
 DESCRIPTION:Network: bdG Sports Live\n\nStreaming: BDG Live — separate e
  vent platform\; confirm price and access on the official listing.\n\nTipof
  f (Pacific): Fri Nov 27\, 2026 10:30 AM PST\n\nEnd time is an estimate (2h
@@ -1474,7 +1474,7 @@ DESCRIPTION:Network: bdG Sports Live\n\nStreaming: BDG Live — separate e
  k check: reachable\; playback requires the appropriate login\n\nOfficial s
  chedule: https://usctrojans.com/sports/wbball/schedule\n\nBaha Mar Hoops N
  assau Championship
-LAST-MODIFIED:20261124T223539Z
+LAST-MODIFIED:20261128T080330Z
 LOCATION:Nassau\, Bahamas
 TRANSP:TRANSPARENT
 URL:https://www.bdgsportslive.com/usc-vs-saint-josephs-baha-mar-hoops/
